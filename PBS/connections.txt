@@ -1,0 +1,142 @@
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Lappet Town (2) - Safari Zone (66)
+2,West,0,66,East,0
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Cesbit Town (138) - Blissmar City (126)
+138,West,0,126,East,0
+# Route 9 (128) - Blissmar City (126)
+128,East,0,126,West,0
+# Yuki Forest (84) - Blissmar City (126)
+84,North,231,126,South,0
+# Igneous City (134) - Blissmar City (126)
+134,West,0,126,East,100
+# Yuki Forest (90) - Blissmar City (126)
+90,North,162,126,South,0
+# Route 16 (140) - Blissmar City (126)
+140,South,0,126,North,135
+# Route 2 (80) - trees (82)
+80,East,0,82,West,0
+# Bichi City (81) - trees (82)
+81,South,38,82,North,0
+# Route 8 (105) - Route 4 (93)
+105,South,0,93,North,126
+# St. Phenix (94) - Route 4 (93)
+94,West,0,93,East,0
+# Kalimari Desert (95) - Route 4 (93)
+95,East,5,93,West,0
+# Route 15 (139) - Pokémon League (176)
+139,West,0,176,East,140
+# Route 16 (140) - Pokémon League (176)
+140,North,0,176,South,18
+# Cithara City (100) - Route 5 (99)
+100,South,0,99,North,6
+# Darudeston City (98) - Route 5 (99)
+98,North,0,99,South,14
+# Riverside Town (33) - Route 1 (77)
+33,East,4,77,West,0
+# Chisney Town (78) - Route 1 (77)
+78,West,3,77,East,0
+# Route 15 (139) - Cesbit Town (138)
+139,West,11,138,East,0
+# Route 16 (140) - Cesbit Town (138)
+140,South,0,138,North,25
+# Route 10 (123) - Alrosa City (116)
+123,North,0,116,South,12
+# Route 12 (118) - Alrosa City (116)
+118,South,0,116,North,0
+# Route 11 (114) - Alrosa City (116)
+114,East,0,116,West,17
+# St. Phenix (94) - Route 8 (105)
+94,North,46,105,South,0
+# Route 9 (128) - Route 8 (105)
+128,West,0,105,East,47
+# Catala Town (107) - Route 8 (105)
+107,South,0,105,North,30
+# Yuki Forest (84) - St. Phenix (94)
+84,North,0,94,South,20
+# Igneous City (134) - St. Phenix (94)
+134,North,0,94,South,361
+# Yuki Forest (90) - St. Phenix (94)
+90,North,0,94,South,89
+# Yuki Forest (84) - Route 3 (83)
+84,South,0,83,North,6
+# Yuki Forest (90) - Route 3 (83)
+90,South,0,83,North,75
+# Bichi City (81) - Route 3 (83)
+81,West,0,83,East,55
+# Route 12 (118) - Zenit City (122)
+118,North,0,122,South,0
+# Route 11 (114) - Zenit City (122)
+114,East,0,122,West,246
+# Route 7 (131) - Mt. Artemis Outside (133)
+131,West,0,133,East,0
+# Route 7 (131) - Cithara City (100)
+131,East,56,100,West,0
+# Kalimari Desert (95) - Route 17 (144)
+95,West,0,144,East,60
+# Sunnyside City (145) - Route 17 (144)
+145,North,53,144,South,0
+# Darudeston City (98) - Route 17 (144)
+98,West,10,144,East,0
+# Route 2 (80) - Chisney Town (78)
+80,South,0,78,North,11
+# Route 16 (140) - Route 15 (139)
+140,East,70,139,West,0
+# Yuki Forest (84) - Route 9 (128)
+84,North,113,128,South,0
+# Igneous City (134) - Route 9 (128)
+134,North,0,128,South,228
+# Yuki Forest (90) - Route 9 (128)
+90,North,44,128,South,0
+# Route 16 (140) - Route 9 (128)
+140,South,0,128,North,253
+# Darudeston City (98) - Kalimari Desert (95)
+98,South,0,95,North,0
+# Yuki Forest (90) - Yuki Forest (84)
+90,West,0,84,East,0
+# Route 14 (135) - Igneous City (134)
+135,West,36,134,East,0
+# Catala Town (107) - Battle Colosseum (112)
+107,East,0,112,West,10
+# Route 11 (114) - Route 12 (118)
+114,East,0,118,West,186
+# Bruh City (108) - Catala Town (107)
+108,North,98,107,South,0
+# Cycling Road (109) - Catala Town (107)
+109,South,0,107,North,4
+# Kanazawa City (103) - Route 6 (102)
+103,West,24,102,East,0
+# Bichi City (81) - Route 2 (80)
+81,South,0,80,North,3
+# Kanazawa City (103) - Route 11 (114)
+103,East,3,114,West,0
+# Cycling Road (109) - Kanazawa City (103)
+109,North,0,103,South,16
