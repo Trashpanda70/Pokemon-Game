@@ -1,0 +1,97 @@
+Teams are open to change depending on level they are encountered at, types are not. 
+Levels will not be hard set until more gameplay is made.
+Teams generally ordered by Pokemon strength/level
+A star (*) means the Pokemon is Shiny
+
+Leaders:
+1. Looker / Normal (Cut) 	 [Eevee*, Herdier]				Rematch= [Ambipom, Lickilicky, Kangaskhan, Noctowl, Stoutland] 
+
+2. Mary / Rock (Rock Smash) 	 [Tirtouga, Onix, Shieldon] 			Rematch= [Golem, Armaldo, Carracosta, Archeops, Bastiodon]
+
+3. Herbia / Grass (Fly)		 [Roselia, Simisage, Leafeon]			Rematch= [Ferrothorn, Ludicolo, Torterra, Sceptile, Leafeon]
+
+4. Toyotomi / Fighting (Strength)[Meditite, Breloom*, Lucario] 			Rematch= [Mienshao, Breloom*, Gallade, Infernape, Lucario]
+
+5. Winston / Ghost (Surf) 	 [Shedinja, Cofagrigus, Banette, Gengar]	Rematch= [Spiritomb, Cofagrigus, Chandelure, Drifblim, Gengar]
+
+6. Danny / Ice (Dive) 		 [Cryogonal, Dewgong, Mamoswine]		Rematch= [Cryogonal, Froslass, Walrein, Weavile, Mamoswine] 
+
+7. Marlon / Water (Waterfall)    [Sharpedo, Wailord, Seismitoad, Jellicent]  	Rematch= [Sharpedo, Seismitoad, Kingdra, Gyarados, Jellicent]
+
+8. Alder / Fire (Rock Climb)     [Flareon, Chandelure, Ninetales, Volcarona]	Rematch= [Accelgor*, Heat Rotom, Druddigon, Emboar, Volcarona]
+
+
+E4 (All have max IVs on rebattles, Champion has max IVs and EVs on all battles)
+
+1. Walter / Electric 	[Porygon-Z, Emolga, Zebstrika, Luxray, Magnezone] 	Rematch= [Porygon-Z, Emolga, Zebstrika, Electivire, Magnezone] 
+
+2. Madison / Psychic	[Xatu, Bronzong, Starmie, Alakazam, Espeon] 		Rematch= [Exeggutor, Bronzong, Starmie, Alakazam, Espeon]
+ 
+3. Acero / Steel	[Skarmory, Ferrothorn, Excadrill, Steelix, Empoleon]	Rematch= [Skarmory, Ferrothorn, Excadrill, Lucario, Empoleon]
+
+4. Rayssa / Dragon	[Aerodactyl, Druddigon, Altaria, Haxorus, Dragonite]	Rematch= [Aerodactyl, Druddigon, Flygon, Haxorus, Dragonite]
+
+Champion : Haku		[Scizor, Gliscor, Milotic, Gallade, Arcanine, Hydreigon*] Rematch = Same (Gliscor knows Acrobatics and holds flying gem on both battles)
+
+
+
+Sinnoh E4 (Rematch always has same Pokemon, All have Max IVs)
+
+1. Aaron / Bug		[Yanmega, Scizor, Herracross, Vespiqueen, Drapion]
+
+2. Bertha / Ground	[Gliscor, Whiscash, Hippowdon, Golem, Rhyperior]
+
+3. Flint / Fire		[Houndoom, Flareon, Rapidash, Infernape, Magmortar]
+
+4. Lucian / Psychic	[Mr. Mime, Espeon, Bronzong, Alakazam, Gallade]
+
+Chamption : Cynthia	[Spiritomb, Roserade, Togekiss, Lucario, Milotic, Garchomp] (Max EVs)
+
+
+Kanto E4 (Spread out so no champion | Claim they have "Picked up a new Pokemon" while in the region | No rematch)
+
+1. Lorelei / Ice	[Glaceon, Dewgong, Cloyster, Slowbro, Jynx, Lapras]
+
+2. Bruno / Fighting	[Poliwrath, Hitmontop, Hitmonlee, Hitmonchan, Onix, Machamp] 
+
+3. Agatha / Ghost	[Dusknoir, Gengar, Crobat, Arbok, Mismagius, Gengar]
+
+4. Lance / Dragon	[Flygon, Gyarados, Charizard, Aerodactyl, Dragonite, Dragonite] (Max IVs)
+
+
+
+Cyrus Post Game: [Spiritomb, Drapion, Crobat, Tyranitar*, Dialga, Palkia] (Max IVs and EVs)
+
+Steven: [Skarmory, Aggron, Armaldo, Cradily, Flygon, Metagross]
+
+Ghetsis: [Cofagrigus, Bouffalant, Seismitoad, Elektross, Mienshao, Hydreigon] (Max IVs)
+
+Red: [Snorlax, Venusaur, Blastoise, Charizard, Mewtwo, Pikachu] (Pikachu holding light ball | Max IVs for all Max EVs for Pikachu)
+
+Brock: [Golem, Ramparados, Kabutops, Omastar, Archeops, Onix]
+
+Misty: [Quagsire, Floatzel, Lapras, Togekiss, Golduck, Starmie]
+
+Dawn: [Pachirisu, Lopunny, Togekiss, Typhlosion, Mamoswine, Empoleon]
+
+Lucas: [Staraptor, Luxray, Gyarados, Toxicroak, Magmortar, Torterra]
+
+Silver: [Weavile, Magnezone, Gengar, Crobat, Alakazam, Feraligatr*]
+
+Zinnia Before Rayquaza: [Altaria, Haxorus, Kingdra, Garchomp, Salamance]
+
+Grimsly: [Houndoom, Honchkrow, Sharpedo, Scrafty, Krookodile, Bisharp]  
+
+
+
+Matt: (Max IVs and EVs all Pokemon level 100)
+
+Infernape | Iron Fist	| Muscle Band	| Jolly 	| Fire Punch, Thunder Punch, Mach Punch, Close Combat	
+Umbreon*  | Synchronize | Dread Plate	| Relaxed	| Curse, Moonlight, Payback, Psychic
+Elektross | Levitate	| Sitrus Berry	| Quiet		| Thunderbolt, Flamethrower, Dragon Claw, Acid Spray
+Metagross*| Clear Body	| Life Orb	| Adamant	| Zen Headbutt, Earthquake, Bullet Punch, Ice Punch
+Milotic	  | Competitive | Leftovers	| Modest	| Surf, Ice Beam, Recover, Toxic
+Garchomp* | Rough Skin	| Yache Berry	| Jolly		| Dragon Rush, Earthquake, Stone Edge, Hone Claws
+
+	
+		
