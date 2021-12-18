@@ -439,9 +439,9 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [089]
-# Mt Artemis
+# Mt Artemis 1F
 Bicycle=true
-Outdoor=true
+Outdoor=false
 ShowArea=true
 #-------------------------------
 [090]
@@ -686,3 +686,40 @@ ShowArea=true
 Bicycle=true
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[181]
+# Mt Artemis
+Bicycle=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[182]
+# Mt Artemis 2F
+Bicycle=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[183]
+# Mt Artemis 2F Room 1
+Bicycle=true
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[184]
+# Mt Artemis 3F
+Bicycle=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[185]
+# Mt Artemis 3F-Exit
+Bicycle=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[186]
+# Mt Artemis Summit
+Weather=Blizzard,100
+Bicycle=false
+Outdoor=true
+ShowArea=false
