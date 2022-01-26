@@ -30,7 +30,7 @@
 31,West,0,35,East,10
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
-# Cesbit Town (138) - Blissmar City (126)
+# Porita Town (138) - Blissmar City (126)
 138,West,0,126,East,0
 # Route 9 (128) - Blissmar City (126)
 128,East,0,126,West,0
@@ -62,11 +62,11 @@
 98,North,0,99,South,14
 # Riverside Town (33) - Route 1 (77)
 33,East,4,77,West,0
-# Chisney Town (78) - Route 1 (77)
+# Tabistar Town (78) - Route 1 (77)
 78,West,3,77,East,0
-# Route 15 (139) - Cesbit Town (138)
+# Route 15 (139) - Porita Town (138)
 139,West,11,138,East,0
-# Route 16 (140) - Cesbit Town (138)
+# Route 16 (140) - Porita Town (138)
 140,South,0,138,North,25
 # Route 10 (123) - Alrosa City (116)
 123,North,0,116,South,12
@@ -102,7 +102,7 @@
 131,East,56,100,West,0
 # Kalimari Desert (95) - Route 17 (144)
 95,West,0,144,East,60
-# Sunnyside City (145) - Route 17 (144)
+# Soufrabi City (145) - Route 17 (144)
 145,North,53,144,South,0
 # Darudeston City (98) - Route 17 (144)
 98,West,10,144,East,0
@@ -128,7 +128,7 @@
 107,East,0,112,West,10
 # Route 11 (114) - Route 12 (118)
 114,East,0,118,West,186
-# Bruh City (108) - Catala Town (107)
+# Buchan City (108) - Catala Town (107)
 108,North,98,107,South,0
 # Cycling Road (109) - Catala Town (107)
 109,South,0,107,North,4
