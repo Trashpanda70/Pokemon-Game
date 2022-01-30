@@ -293,8 +293,7 @@ WONDERTRADE: The easiest way to fill the Pokedex
 
 The game will have a singleplayer Wondertrade feature that allows you to trade
 one of your Pokemon for a random Pokemon of the same level.
--This can only be done at Wondertrade Centers (Located in St. Phenix, Sunnyside City, and the Battle Colosseum
- (In this Beta there will be a man in Chisney Town because the centers have not been designed yet)
+-This can only be done at Wondertrade Centers (Located in St. Phenix, Soufrabi City, and the Battle Colosseum
 -Wondertrade will be unlocked after defeating the 5th Gym
 -Wondertrade will cost money to complete until you have beaten the Elite 4 and Champion
 -The only Pokemon you are not allowed to trade away are: Galandart, Arceus, and Mew
