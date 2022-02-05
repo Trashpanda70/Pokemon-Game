@@ -238,7 +238,7 @@ Bicycle=true
 MapPosition=0,12,6
 #-------------------------------
 [047]
-# Chisney Town Poké Center
+# Tabistar Town Poké Center
 MapSize=2,11
 BattleBack=Mountain
 Weather=Rain,0
@@ -397,7 +397,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [078]
-# Chisney Town
+# Tabistar Town
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -439,7 +439,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [089]
-# Mt Artemis 1F
+# Mt Artemis
 Bicycle=true
 Outdoor=false
 ShowArea=true
@@ -516,7 +516,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [108]
-# Bruh City
+# Buchan City
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -638,7 +638,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [138]
-# Cesbit Town
+# Porita Town
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -669,7 +669,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [145]
-# Sunnyside City
+# Soufrabi City
 Weather=Sun,5
 Bicycle=true
 Outdoor=true
@@ -694,7 +694,7 @@ Outdoor=false
 ShowArea=true
 #-------------------------------
 [182]
-# Mt Artemis 2F
+# Mt Artemis
 Bicycle=true
 Outdoor=false
 ShowArea=true
@@ -706,13 +706,13 @@ Outdoor=false
 ShowArea=false
 #-------------------------------
 [184]
-# Mt Artemis 3F
+# Mt Artemis
 Bicycle=true
 Outdoor=false
 ShowArea=true
 #-------------------------------
 [185]
-# Mt Artemis 3F-Exit
+# Mt Artemis
 Bicycle=true
 Outdoor=false
 ShowArea=true

@@ -30,6 +30,20 @@
 31,West,0,35,East,10
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
+# Pokémon League (176) - Hajimara City (192)
+176,East,0,192,West,10
+# Route 18 (193) - Hajimara City (192)
+193,West,0,192,East,5
+# Porita Town (138) - Hajimara City (192)
+138,East,0,192,West,161
+# Route 16 (140) - Hajimara City (192)
+140,North,60,192,South,0
+# St. Phenix (94) - Route 4 (93)
+94,West,0,93,East,0
+# Route 8 (105) - Route 4 (93)
+105,South,0,93,North,126
+# Kalimari Desert (95) - Route 4 (93)
+95,East,5,93,West,0
 # Porita Town (138) - Blissmar City (126)
 138,West,0,126,East,0
 # Route 9 (128) - Blissmar City (126)
@@ -46,46 +60,42 @@
 80,East,0,82,West,0
 # Bichi City (81) - trees (82)
 81,South,38,82,North,0
-# Route 8 (105) - Route 4 (93)
-105,South,0,93,North,126
-# St. Phenix (94) - Route 4 (93)
-94,West,0,93,East,0
-# Kalimari Desert (95) - Route 4 (93)
-95,East,5,93,West,0
-# Route 15 (139) - Pokémon League (176)
-139,West,0,176,East,140
-# Route 16 (140) - Pokémon League (176)
-140,North,0,176,South,18
 # Cithara City (100) - Route 5 (99)
 100,South,0,99,North,6
 # Darudeston City (98) - Route 5 (99)
 98,North,0,99,South,14
-# Riverside Town (33) - Route 1 (77)
-33,East,4,77,West,0
+# Route 15 (139) - Pokémon League (176)
+139,West,0,176,East,140
+# Route 16 (140) - Pokémon League (176)
+140,North,0,176,South,18
+# Route 1 (77) - Riverside Town (33)
+77,West,0,33,East,4
 # Tabistar Town (78) - Route 1 (77)
 78,West,3,77,East,0
-# Route 15 (139) - Porita Town (138)
-139,West,11,138,East,0
-# Route 16 (140) - Porita Town (138)
-140,South,0,138,North,25
+# Heavenly Pillar Outside (194) - Route 18 (193)
+194,South,0,193,North,23
 # Route 10 (123) - Alrosa City (116)
 123,North,0,116,South,12
 # Route 12 (118) - Alrosa City (116)
 118,South,0,116,North,0
 # Route 11 (114) - Alrosa City (116)
 114,East,0,116,West,17
-# St. Phenix (94) - Route 8 (105)
-94,North,46,105,South,0
-# Route 9 (128) - Route 8 (105)
-128,West,0,105,East,47
-# Catala Town (107) - Route 8 (105)
-107,South,0,105,North,30
+# Route 8 (105) - St. Phenix (94)
+105,South,0,94,North,46
 # Yuki Forest (84) - St. Phenix (94)
 84,North,0,94,South,20
 # Igneous City (134) - St. Phenix (94)
 134,North,0,94,South,361
 # Yuki Forest (90) - St. Phenix (94)
 90,North,0,94,South,89
+# Route 9 (128) - Route 8 (105)
+128,West,0,105,East,47
+# Catala Town (107) - Route 8 (105)
+107,South,0,105,North,30
+# Route 15 (139) - Porita Town (138)
+139,West,11,138,East,0
+# Route 16 (140) - Porita Town (138)
+140,South,0,138,North,25
 # Yuki Forest (84) - Route 3 (83)
 84,South,0,83,North,6
 # Yuki Forest (90) - Route 3 (83)
@@ -106,10 +116,10 @@
 145,North,53,144,South,0
 # Darudeston City (98) - Route 17 (144)
 98,West,10,144,East,0
-# Route 2 (80) - Chisney Town (78)
+# Route 2 (80) - Tabistar Town (78)
 80,South,0,78,North,11
-# Route 16 (140) - Route 15 (139)
-140,East,70,139,West,0
+# Darudeston City (98) - Kalimari Desert (95)
+98,South,0,95,North,0
 # Yuki Forest (84) - Route 9 (128)
 84,North,113,128,South,0
 # Igneous City (134) - Route 9 (128)
@@ -118,14 +128,14 @@
 90,North,44,128,South,0
 # Route 16 (140) - Route 9 (128)
 140,South,0,128,North,253
-# Darudeston City (98) - Kalimari Desert (95)
-98,South,0,95,North,0
+# Route 16 (140) - Route 15 (139)
+140,East,70,139,West,0
 # Yuki Forest (90) - Yuki Forest (84)
 90,West,0,84,East,0
-# Route 14 (135) - Igneous City (134)
-135,West,36,134,East,0
 # Catala Town (107) - Battle Colosseum (112)
 107,East,0,112,West,10
+# Route 14 (135) - Igneous City (134)
+135,West,36,134,East,0
 # Route 11 (114) - Route 12 (118)
 114,East,0,118,West,186
 # Buchan City (108) - Catala Town (107)
