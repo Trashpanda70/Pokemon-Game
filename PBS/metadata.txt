@@ -723,3 +723,15 @@ Weather=Blizzard,100
 Bicycle=false
 Outdoor=true
 ShowArea=false
+#-------------------------------
+[193]
+# Route 18
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[194]
+# Heavenly Pillar Outside
+Bicycle=true
+Outdoor=true
+ShowArea=true
