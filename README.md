@@ -14,7 +14,7 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Visual bug where the menu screen is still showing while the player is using the Lava Rod item, but the encounter process still works as intended
 - Some background audio does not loop perfectly, it should be not very noticable but please let me know if you think it ruins the experience
 - Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it
-- Female trainer sprite breaks when throwing a Pokeball upon entering battle
+- Female player sprite breaks when throwing a Pokeball upon entering battle
 - Butcher does not display formatted text during transactions
 - The tent outside of Heavenly Pillar is not in the same art style as the rest of the game
 - Music changes volume when moving between Heavenly Pillar Outside and Route 18 even though it is the same music. It does not restart or break looping but rather just change volume
@@ -69,7 +69,7 @@ Managing all of these character encounters will be hard as to not seem overbeari
 Keep in mind that most of my Pokemon experience is in generations 4 and 5, with some in generations 6 and 7 (but I cant add those features anyway). This means if you are
 a gen 3 fan then sorry I guess but a lot of the nostalga for those games will not be here (other than the fact that most graphics are gen 3 I think)
 
-### Changes From Previous Pokemon Games
+### Changes/Notes From Previous Pokemon Games
 - New Butcher mechanic (more later)
 - New Shadow Pokemon mechanic (read the whole document everything is explained i swear)
 - New Lava Fishing mechanic: Essentially just fishing but in Lava for fire types, you cannot surf on Lava
@@ -89,10 +89,8 @@ a gen 3 fan then sorry I guess but a lot of the nostalga for those games will no
 - Added custom music for Darkrai, Latios/Latias, Galandart, Celebi, The Champion Battle, Team Russia Battles, and more
     - I cannot make music because I simply do not know anything about it, see the credits file for full credits on Music, Sprites, and other game functions/details
     - On a side note, most music is taken from generations 4 and 5, with some from 6, 7, and 8 (if 8 is sword and shield idk I have one song from there)
-- There will be items that will replace the HM's you earn from gyms. These items will be unlocked after you've already gotten the HM, so HM's will not be useless. I plan on making
-the move deleter accessible early in the game for convenience (Surely I wont forget I said this).
+- There will be items that will replace the HM's you earn from gyms. These items will be unlocked after you've already gotten the HM, so HM's will not be useless. I plan on making the move deleter accessible early in the game for convenience (Surely I wont forget I said this).
 - Honey trees will not have a waiting time, the encounter will be instant
-- In case you didn't pick up on it, all Pokemon will be catchable without trade with other players (Wondertrade might be needed though. Again, more on that later)
 
 ### Changes to Previous Pokemon
 #### Slaking
@@ -104,7 +102,7 @@ New Ability: Intimidate
 EVs: 2 HP, 1 Attack
 
 |  Old Base Stats  |  New Base Stats  |	
-| ---------------- | ---------------- |		
+| ---------------- | ---------------- |	
 | HP - 150 | HP - 120 |
 | Attack - 160 | Attack - 140 |
 | Defense - 100	| Defense - 90 |
@@ -119,119 +117,116 @@ I still wanted to buff Arceus as having an Arceus and being able to sweep is not
 base total of **810** instead of the previous total of 720.
 
 #### Evolutions
-This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed
-since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree
-and I will consider reverting some of these changed. Also, generation 5 has some ridiculously late evolutions, so I have changed some of them so that the player does not have to wait
-until level 60+ to use a Pokemon they like. The followign list gives exact details to new evolution methods for various Pokemon:
+This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changed. Also, generation 5 has some ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like. The following list gives exact details to new evolution methods for various Pokemon:
 
----Feebas---
+Feebas - 
 Now evolves into Milotic at level 30
 
----Graveler---
+Graveler - 
 Now evolves to Golem by trade or at level 40
 
----Slowpoke---
+Slowpoke - 
 Now evolves into Slowking if it levels up during the day holding a kings rock
 The Slowbro evolution has not been changed
 
----Onix---
+Onix - 
 Now evolves into Steelix by trading while holding the metal coat and by leveling up while knowing the move Iron Tail. 
 These are two separate conditions, and Onix will evolve if either is met
 
----Horsea---
+Horsea - 
 Now evolves into Seadra at level 24
 
----Seadra---
+Seadra - 
 Now evolves into Kingdra at level 47
 
----Clamperl---
+Clamperl - 
 Now evolves into Huntail if it levels up during the day holding a Deep Sea Tooth or evolves into Gorebyss if it levels up during the day holding a Deep Sea Scale
 
----Boldore---
+Boldore - 
 Now evolves into Gigalith at level 45
 
----Gurdurr---
+Gurdurr - 
 Now evolves into Conkeldurr at level 40
 
----Machoke---
+Machoke - 
 Now evolves into Machamp by trade or at level 42
 
----Poliwhirl---
+Poliwhirl - 
 Now evolves into Politoed at level 38 but only if leveled up at night. The Poliwrath evolution has not been changed
 
----Zubat---
+Zubat - 
 Now evolves into Golbat at level 22
 
----Golbat--- 
+Golbat - 
 Now evolves into Crobat at level 37 but only if leveled up at night or by Happiness
 
----Azurill---
+Azurill - 
 Now evolves into Marill at level 20 but only if leveled up in the rain
 
----Buneary---
+Buneary - 
 Now evolves into Lopunny at level 28 or by Happiness
 
----Munchlax---
+Munchlax - 
 Now evolves into Snorlax if it levels up holding Leftovers. Munchlax will no longer have a chance of holding leftovers if found in the wild
 
----Electabuzz---
+Electabuzz - 
 Now evolves into Electivire if leveled up holding the Electirizer. Electabuzz will no longer have a chance of holding an Electirizer if found in the wild
 
----Magmar---
+Magmar - 
 Now evolves into Magmortar if leveled up holding the Magmarizer. Magmar will no longer have a chance of holding an Magmarizer if found in the wild
 
----Duskull---
+Duskull - 
 Now evolves into Dusclops at level 30
 
----Dusclops---
+Dusclops - 
 Now evolves into Dusknoir if levled up holding the Reaper Cloth at night
 
----Rhyhorn---
+Rhyhorn - 
 Now evolves into Rhydon at level 36
 
----Rhydon---
+Rhydon - 
 Now evolves into Rhyperior if leveled up holding the Protector
 
----Deino---
+Deino - 
 Now evolves into Zweilous at level 32
 
----Zweilous---
+Zweilous - 
 Now evolves into Hydreigon at level 52 (You're welcome)
 
----Larvesta--- 
+Larvesta - 
 Now evolves into Volcarona at level 45
 
----Rufflet---
+Rufflet - 
 Now evolves into Braviary at level 36
 
----Vullaby---
+Vullaby - 
 Now evolves into Mandibuzz at level 36
 
----Pawniard---
+Pawniard - 
 Now evolves into Bisharp at level 35
 
----Mienfoo---
+Mienfoo - 
 Now evolves into Mienshao at level 35
 
----Klink---
+Klink - 
 Now evolves into Klang at level 30
 
----Golett---
+Golett - 
 Now evolves into Golurk at level 39
 
---Skorupi---
+Skorupi - 
 Now evolves into Drapion at level 34
 
----Tynamo---
+Tynamo - 
 Now evolves into Elektrik at level 30
 
----Axew---
+Axew - 
 Now evolves into Fraxure at level 33
 
----Litwick---
+Litwick - 
 Now evolves into Lampent at level 32
 
----Eevee---
+Eevee - 
 Now evolves into Leafeon if a leaf stone is used on it. Evolves into Glaceon if leveled up on Route 12
 
 ADD FROM GALANDART DOWN IN GUIDE.TXT!
