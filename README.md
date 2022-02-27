@@ -248,6 +248,7 @@ The amount of money given to a player is dependent on the Pokemon's type.
 	- Tier 3: $1000 + An amount equal to the Pokemon's height in centimeters
 - The use of height over weight is stemmed from the fact that I could not find where a Pokemon's weight is stored in the code, and I am not going to manually insert a weight mechanic. The height will be used unless I find a way to access a Pokemon's weight.
 - You cannot sell Legendaries, Mythicals, or Ditto
+- Prices may be updated in the future for balancing, and might introduce a more complex formula for calculating how much money you will get. 
 
 ### New Custom Legendary: Galandart
 The name Galandart is the name given to the sprite by the original creator on DeviantArt
