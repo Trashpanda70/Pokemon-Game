@@ -242,10 +242,10 @@ The amount of money given to a player is dependent on the Pokemon's type.
 - You obviously cannot sell a Pokemon if it is the only one in your party
 - You cannot sell Eggs as this is a butcher not a diner
 - The money you will recieve is as follows:
-		- Tier 0: Will not buy
-		- Tier 1: $500 + An amount equal to the Pokemon's height in centimeters
-		- Tier 2: $750 + An amount equal to the Pokemon's height in centimeters
-		- Tier 3: $1000 + An amount equal to the Pokemon's height in centimeters
+	- Tier 0: Will not buy
+	- Tier 1: $500 + An amount equal to the Pokemon's height in centimeters
+	- Tier 2: $750 + An amount equal to the Pokemon's height in centimeters
+	- Tier 3: $1000 + An amount equal to the Pokemon's height in centimeters
 - The use of height over weight is stemmed from the fact that I could not find where a Pokemon's weight is stored in the code, and I am not going to manually insert a weight mechanic. The height will be used unless I find a way to access a Pokemon's weight.
 - You cannot sell Legendaries, Mythicals, or Ditto
 
