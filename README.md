@@ -11,7 +11,7 @@ If I do not want to add your idea it's most likely because it would be too much 
 
 ## To-Do List
 
-### Known Bugs/Issues
+### Known Bugs and Issues
 - Visual bug where the menu screen is still showing while the player is using the Lava Rod item, but the encounter process still works as intended
 - Some background audio does not loop perfectly, it should be not very noticable but please let me know if you think it ruins the experience
 - Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience
@@ -112,7 +112,7 @@ EVs: 2 HP, 1 Attack
 For being literally God, Arceus' base stats are not as impresive as they should be. While there is not Mega Evolution in the game (remember the whole can't add gen 6 thing), I still wanted to buff Arceus as having an Arceus and being able to sweep is not something I am worried about. All of Arceus' stats have been bosted to be 135 each for a base total of **810** instead of the previous total of 720.
 
 #### Evolutions
-This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changed. Also, generation 5 has some ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like. The following list gives exact details to new evolution methods for various Pokemon:
+This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changes. Also, generation 5 has some ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like. The following list gives exact details to new evolution methods for various Pokemon:
 
 Feebas - 
 Now evolves into Milotic at level 30
