@@ -333,7 +333,7 @@ Items that chenges move type are different "Eyes". The types available are Fire,
 Items that changes move type are different "Lances". The tpyes available are Fire, Electric, Fighting, Rock, Ice, Ground, and Poison
 
 ### Spirit Pokemon
-Keeping with the theme of the game so far, Spirit Pokemon will be wild encounters of past Pokemon used in previous Human wars. After all, why would humans fight each other if they can train much more poweful creatures to attack at their command. Spirit Pokemon will be uncatchable, and will not appear in the Pokedex since they are just spirit versions of already existing Pokemon. Their sprite will be grayscale, and other than that will be the same as the non-spirit form of the Pokemon.
+Keeping with the theme of the game so far, Spirit Pokemon will be wild encounters of past Pokemon used in previous Human wars. After all, why would humans fight each other if they can train much more poweful creatures to attack at their command (I hope this is giving an idea as to the main storyline/theme of the game). Spirit Pokemon will be uncatchable, and will not appear in the Pokedex since they are just spirit versions of already existing Pokemon. Their sprite will be grayscale, and other than that will be the same as the non-spirit form of the Pokemon.
 
 All Spirit Pokemon will have the ability Levitate, and will have base stats equal to their non-spirit form with each individual stat boosted by 10. The EV's dropped from battle will therefore be the same as their non-spirit form. The typing of Spirit Pokemon will be a dual typing of Ghost and the/one of the type(s) that the Pokemon's non-spirit form is.
 
@@ -345,7 +345,7 @@ The moveset of all Spirit Pokemon will follow the following formula:
 
 I will not be revealing the exact move 3 and 4 for any of the Spirit Pokemon, you should use knowledge of the non-spirit form of the Pokemon to guess what moves the Spirit Pokemon will have at it's disposal. Spirit Pokemon can only learn these four moves, so if you figure out the moveset of a particular Spirit Pokemon then you know the moveset of every Spirit Pokemon of that kind. 
 
-The type of Spiritual Gaze for each Spirit Pokemon will change depending on what Pokemon it is. Since an Eye needs to be held by a Pokemon to change the type of this move, if the move is not Ghost type then the wild Spirit Pokemon is holding an Eye to change the move's type. The only way to obtain eyes in this game will be via stealing them from these Spirit Pokemon, but remember that you cannot catch them. This is the current plan for obtaining Eyes, and it could change.
+The type of Spiritual Gaze for each Spirit Pokemon will change depending on what Pokemon it is. Since an Eye needs to be held by a Pokemon to change the type of this move, if the move is not Ghost type then the wild Spirit Pokemon is holding an Eye to change the move's type. The only way to obtain eyes in this game will be via stealing them from these Spirit Pokemon, but remember that you cannot catch them. This is the current plan for obtaining Eyes, and it could change. Note that the Flying type Eye is not in the list below, so that will be available to the player through some other method.
 
 The list of Pokemon that can appear in Spirit Form is shown below. These Pokemon will not appear until later into the playthrough (when you are level 35-40 or something). I will disclose the type that each Pokemon's Spiritual Gaze will be, so you can hunt for a particular Eye if you want.
 - Pokemon (type1/type2) type that Spiritual Gaze will be
@@ -393,7 +393,7 @@ The WonderTrade feature will work similar to WonderTrade in previous Pokemon gam
 - WonderTrade will cost money until you have beaten the Champion, after that it will be free
 - The Pokemon you receive will be the same (or similar but probably same) level as the Pokemon you traded away.
 - The WonderTrade script includes parameters for a list of Pokemon you cannot give, cannot receive, and Pokemon that are hard to get
-    - Hard to get Pokemon essentially go through two RNG checks. A Pokemon is chosen at random to be received, but if that Pokemon is in the hard to get list, then there is only a 20% chance that the game will go through with giving you that Pokemon. If it does not go through with giving you that Pokemon, then a new Pokemon is chosen at random (this Pokemon may also be in the hard to get list). This list will gernerally be reserved for pseudolegendaries, and other strong third evolution Pokemon that should not be received often. 
+    - Hard to get Pokemon essentially go through two RNG checks. A Pokemon is chosen at random to be received, but if that Pokemon is in the hard to get list, then there is only a 20% chance that the game will go through with giving you that Pokemon. If it does not go through with giving you that Pokemon, then a new Pokemon is chosen at random (this Pokemon may also be in the hard to get list). This list will gernerally be reserved for pseudo-legendaries, and other strong third evolution Pokemon that should not be received often. 
     - The only Pokemon you cannot trade away are Galandart, Arceus, and Mew
 
 As you progress through the game, the rules for WonderTrade will change. Note that while it is not listed, you can never receive Legendaries or Mythicals from WonderTrade (as stated above).
