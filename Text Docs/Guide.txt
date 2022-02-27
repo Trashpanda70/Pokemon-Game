@@ -25,7 +25,7 @@ Butcher Shops now allow you to sell your pokemon for money to a butcher.
 	-Tier 1: Electric, Ground, Psychic, Ice, and Dark
 	-Tier 2: Normal, Dragon, Bug, and Fighting
 	-Tier 3: Flying, Water, Fire, and Grass
--The only pure Flying Type is Tornadus and it is not able to be sold anyway so the price will not be impacted by  Flying type. But in order to prevent any possible errors it is listed under Tier 3.
+-The only pure Flying Type is Tornadus and it is not able to be sold anyway so the price will not be impacted by Flying type. But in order to prevent any possible errors it is listed under Tier 3.
 -If a Pokemon has two types then the type used will be the type of lowest tier. 
 -You cannot sell Pokemon until you have 2 Gym Badges
 -You obviously cannot sell a Pokemon if it is the only one in your party
@@ -181,9 +181,9 @@ GALANDART: Everything you need to know about the new legendary
 Type: Ghost/Steel
 
 Ability: Lasting Will (custom ability)
-Effect: Raises defense and special defense by 2 stages if hit by a Ghost type move
+Effect: Raises defense and special defense by 2 stages if hit by a Ghost type move (change)
 *Still takes normal damage from the move*
-Ability is very similar to Justified ability already in game
+Ability is very similar to Justified ability already in game 
 
 Gender: Genderless
 GrowthRate: Slow
@@ -194,7 +194,6 @@ Moves:
 level - move name
 1 - Ominus Wind
 1 - Night Shade
-1 - Toxic
 1 - Gyro Ball
 1 - Shadow Ball
 1 - Cosmic Power
@@ -256,28 +255,28 @@ Along the story at some point the wild pokemon will turn to Spirit Pokemon,
 as they were the fighters of a war from long ago.
 
 Pokemon that can appear in spirit form:
-*Pokemon (type1/type2) type that spiritual gaze will be*
-Pikachu (Electric/Ghost) Ghost
-Nidoking (Poison/Ghost) Psychic
-Nidoqueen (Poison/Ghost) Psychic
-Machoke (Fighting/Ghost) Ghost
-Machamp (Fighting/Ghost) Ghost
-Poliwrath (Water/Ghost) Water
-Arcanine (Fire/Ghost) Fire
-Pinsir (Bug/Ghost) Bug
-Houndoom (Dark/Ghost) Dark
-Makuhita (Fighting/Ghost) Ghost
-Hariyama (Fighting/Ghost) Ghost
-Rhydon (Ground/Ghost) Ghost
-Ramparados (Rock/Ghost) Dark
-Lucario (Fighting/Ghost) Dark
-Gabite (Dragon/Ghost) Fire
-Croagunk (Poison/Ghost) Psychic
-Toxicroak (Poison/Ghost) Psychic
-Abomasnow (Grass/Ghost) Grass
-Darmanitan (Fire/Ghost) Fire
-Escavalier (Bug/Ghost) Bug
-Beartic (Ice/Ghost) Water
+- Pokemon (type1/type2) type that spiritual gaze will be
+- Pikachu (Electric/Ghost) Ghost
+- Nidoking (Poison/Ghost) Psychic
+- Nidoqueen (Poison/Ghost) Psychic
+- Machoke (Fighting/Ghost) Ghost
+- Machamp (Fighting/Ghost) Ghost
+- Poliwrath (Water/Ghost) Water
+- Arcanine (Fire/Ghost) Fire
+- Pinsir (Bug/Ghost) Bug
+- Houndoom (Dark/Ghost) Dark
+- Makuhita (Fighting/Ghost) Ghost
+- Hariyama (Fighting/Ghost) Ghost
+- Rhydon (Ground/Ghost) Ghost
+- Ramparados (Rock/Ghost) Dark
+- Lucario (Fighting/Ghost) Dark
+- Gabite (Dragon/Ghost) Fire
+- Croagunk (Poison/Ghost) Psychic
+- Toxicroak (Poison/Ghost) Psychic
+- Abomasnow (Grass/Ghost) Grass
+- Darmanitan (Fire/Ghost) Fire
+- Escavalier (Bug/Ghost) Bug
+- Beartic (Ice/Ghost) Water
 
 -All Spirit Pokemon are not catchable 
 -Base stats are the Pokemon's normal form stats with each stat raised by 10 points
