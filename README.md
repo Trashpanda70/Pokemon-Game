@@ -278,6 +278,7 @@ Since the battle mechanics are that of gen 5, both of Ghost type's weaknesses ar
 - Special Defense: 150
 - Speed: 80
 - Total: 680
+
 These may be updated for balancing, but the total will stay at 680
 
 #### Moves
@@ -299,6 +300,7 @@ level - move name
 - 100 - Iron Head
 - 100 - Spiritual Gaze (Custom)
 - 100 - Rushing Lance (Custum)
+
 The moves list may be updated for balancing in the future
 
 I will not list all TMs/HMs that Galandart can learn in this document, you will have to figure that out yourself
@@ -314,6 +316,7 @@ These moves may be updated at any time for balancing in terms of power and accur
 - Attack Type: Special
 - Ignores Protect and Detect
 - Can be copied by Mirror Move
+
 Items that chenges move type are different "Eyes". The types available are Fire, Grass, Bug, Psychic, Dark, Flying, and Water
 
 **Rushing Lance**
@@ -325,6 +328,7 @@ Items that chenges move type are different "Eyes". The types available are Fire,
 - Makes Physical Contact with the foe
 - Can be copied by Mirror Move
 - May introduce a recoil effect
+
 Items that changes move type are different "Lances". The tpyes available are Fire, Electric, Fighting, Rock, Ice, Ground, and Poison
 
 ### Spirit Pokemon
@@ -365,6 +369,7 @@ The list of Pokemon that can appear in Spirit Form is shown below. These Pokemon
 - Darmanitan (Fire/Ghost) Fire
 - Escavalier (Bug/Ghost) Bug
 - Beartic (Ice/Ghost) Water
+
 The spawn rates for each Spirit Pokemon individually has not been decided, but assume it will be relatively equal between all of them. They will only appear in certain places in the game, so you should not be caught off guard by randomly encountering one in the wild (it will be obvious where they can be found)
 
 ### Honey Trees
