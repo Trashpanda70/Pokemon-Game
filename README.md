@@ -48,7 +48,7 @@ If I do not want to add your idea it's most likely because it would be too much 
 
 ### Included Pokemon / People
 - All Pokemon from Generations 1-5 have animated battle sprites
-- The custom legendary Pokemon for the region Galandart (more later)
+- The custom legendary Pokemon for the region (more later)
 - Sprit form of 21 already existing Pokemon (not catchable, more later)
 
 Generation 6 Pokemon sprites are harder to find due to their 3D-Nature, which is why the game stops at Generation 5 sprites.
