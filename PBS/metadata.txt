@@ -724,6 +724,12 @@ Bicycle=false
 Outdoor=true
 ShowArea=false
 #-------------------------------
+[192]
+# Hajimara City
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
 [193]
 # Route 18
 Bicycle=true

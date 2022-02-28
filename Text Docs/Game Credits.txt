@@ -2,89 +2,67 @@ Credits:
 
 Credits for Pokemon Essentials
 
-MrGagula
-Sprites for gens 3-5
+Sprites for gens 3-5: MrGagula (get location)
 
-Thundaga (Youtube)
-Tutorials
+Tutorials: Thundaga (Youtube)
 
-PeekyChew (DeviantArt)
-All Asian style buildings
+All Asian style buildings in Kanazawa City: PeekyChew (DeviantArt)
 
-VanillaSunshine (RelicCastle.com)
-Custom colored text
+Custom colored text: VanillaSunshine (RelicCastle.com)
 
-PurpleZaffre (DeviantArt)
-Boss Cyrus
+Boss Cyrus Overworld and Battle sprite: PurpleZaffre (DeviantArt)
 
-Geroisblackboots (DeviantArt)
-various trainers and Galandart
+Lots of Trainer Overworld/Battle sprites and Galandart Battle Sprites: Geroisblackboots (DeviantArt)
 
-WillowWhips (Deviant Art)
-Detective Looker Battle Sprite
+Detective Looker Battle Sprite: WillowWhips (Deviant Art)
 
-Kalarie (PokeCommunity.com)
-Jessie and James Overworld
+Jessie and James Overworld sprites: Kalarie (PokeCommunity.com)
 
-Kimba616 (DeviantArt)
-Jessie and James battle Sprites
+Jessie and James battle Sprites: Kimba616 (DeviantArt)
 
-Wesley FG (PokeCommunity.com)
-Snowy Tiles
+Snowy tileset, buildings, and cliffs used on Route 12 and various other places: Wesley FG (PokeCommunity.com)
 
-ThePokemonChronicles (DeviantArt)
-Pokemon Diamond/Pearl Tileset
+Pokemon Diamond/Pearl Tileset: ThePokemonChronicles (DeviantArt)
 
-Wondertrade
-Black Eternity and Mej71 (PokeCommunity.com)
+Wondertrade Script: Black Eternity and Mej71 (PokeCommunity.com)
 
-Music
-Most Music: khinsider.com (get credits for nintendo music)
-Darkrai, Celebi, Latios/Latias, and more battle themes Lala19357 - The Zephyr (Youtube)
-Vladamir Music: Owen Dennis (Regular Show OG composer) | Ruisu River (Remix)
-Dark Cynthia Theme: hnturs12
+Music:
+Most Music: khinsider.com (Get credits for Nintendo music / HxH music if used)
+Darkrai, Celebi, Latios/Latias, and more battle themes: Lala19357 - The Zephyr (Youtube)
+Vladamir Battle Music: Owen Dennis (OG composer) | Ruisu River (Remix)
+Dark Cynthia Theme: hnturs12 (Youtube)
 Battle Colosseum Final Theme: Freedom Dive by xi
-Cyrus Battle Theme remix: Zame on youtube
+Cyrus Battle Theme remix and Shadow Triad Intro: Zame (Youtube)
 Snowpoint City remaster: Zame and Pokestir on youtube (not used yet)
-Champion Battle Theme: VanilluxePavilion on youtube
-Shadow Triad Intro: Zame on youtube
+Champion Battle Theme: VanilluxePavilion (Youtube)
 Russia Grunt Theme: EternalSushi, ElectricMudkip, and Kamex (Youtube)
 Russian Admin Theme: EternalSushi and emdasche (Youtube)
+Galandart Battle Theme: Licht und Schatten by Yutaka Yamada
+Deoxys Battle Theme: Get credits for Carter's song
 
 Include credits for elite battle system
 
-Making AI use revives
-Poq on Relic Castle
+Script for AI using revivial items: Poq (Relic Castle)
 
-Mr. Gela on Relic Castle
-Battle sprites for gens 4-5
+Battle sprites for gens 4-5 trainers: Mr. Gela (Relic Castle)
 
-Gen 4 Overworld Character Sprites
-Neo-Spriteman, Vanilla Sunshine, PurpleZaffre & Maicerochico, AtomicReactor
+Gen 4 Overworld Character Sprites: Neo-Spriteman, Vanilla Sunshine, PurpleZaffre & Maicerochico, AtomicReactor (get location)
 
-Lots of Overworld Sprites from Gens 4/5/6 including Zinnia, Alder, Flint, and many more
-aveontrainer on Deviant Art
 
-Zinnia battle sprite
-officialthatguy on Deviant Art
+Lots of Overworld Sprites from Gens 4/5/6 including Zinnia, Alder, Flint, and many more: aveontrainer (Deviant Art)
 
-Silver Overworld Sprite
-Skeizerr on Deviant Art
+Zinnia battle sprite: officialthatguy (Deviant Art)
 
-Burglar Overworld Sprite
-sphericalice on Deviant Art
+Silver Overworld Sprite: Skeizerr (Deviant Art)
 
-Cyclist Overworld Sprites
-Teraneck on Deviant Art
+Burglar Overworld Sprite: sphericalice (Deviant Art)
 
-Overworld Sprites for Doyen Trainers
-Mashirosakura on Relic Castle
+Cyclist Overworld Sprites: Teraneck (Deviant Art)
 
-Zinnia Tent
-RBRNNova on Deviant Art
+Overworld Sprites for Doyen Trainers: Mashirosakura (Relic Castle)
 
-Sky Pillar
-Clara-Dragon on Deviant Art
+Zinnia Tent: RBRNNova (Deviant Art)
 
-Fortree City tree houses
-TheDeadHeroAlistair on Deviant Art
+Heavenly Pillar Top Map: Clara-Dragon (Deviant Art)
+
+Fortree City tree houses: TheDeadHeroAlistair (Deviant Art)

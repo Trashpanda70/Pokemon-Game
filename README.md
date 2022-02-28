@@ -18,8 +18,7 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Female player sprite breaks when throwing a Pokeball upon entering battle
 - Butcher does not display formatted text during transactions
 - The tent outside of Heavenly Pillar is not in the same art style as the rest of the game
-- Music changes volume when moving between Heavenly Pillar Outside and Route 18 even though it is the same music. It does not restart or break looping but rather just change volume
-- Music volume will reset if game is exited but the slider values in the settings will remain the same. I have no idea how to fix this, so I would recommend adjusting the volume of the game on your computer as opposed to in-game
+- Music volume will reset if game is exited but the slider values in the settings will remain the same. I have no idea how to fix this, so I would recommend adjusting the volume of the game on your computer as opposed to in-game. Note that a different glitch where the music will randomly change volume when transitioning maps is also something I do not know how to fix, but will not happen if you do not touch the volume slider in-game. The volume settings were provided when I started playing so it could be a problem with the essentials package or RPG Maker itself. 
 - Spirit Pokemon are catchable when they should not be
 - Spirit Pokemon appear on the National Pokedex when they should not
 - Again, please let me know if there are any bugs/glitches you find that are not listed
