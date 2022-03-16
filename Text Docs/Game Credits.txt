@@ -1,0 +1,93 @@
+Credits:
+
+STILL NEED TO GET
+- Russian building in Zenit City
+- Technical University building in St. Phenix
+- Make sure you have all custom theme credits
+- Get Nintendo music credits
+- Get credits for Undertale music
+- Get more specifics where listed
+------------------------------------------------------------------------------
+Pokemon:
+- Created by Nintendo and all rights for Pokemon belong to them
+- Sprites, Music, and previous games made by GameFreak
+------------------------------------------------------------------------------
+Pokemon Essentials: 
+Starter package that made the project possible
+- Created by Flameguru and poccil
+- Maintained and developed by Maruno
+------------------------------------------------------------------------------
+Tutorials: Thundaga (Youtube)
+------------------------------------------------------------------------------
+Music:
+- Most Music: khinsider.com
+- Darkrai, Celebi, Latios/Latias, and more battle themes: Lala19357 - The Zephyr (Youtube) (List other battle themes)
+- Vladamir Battle Music: Owen Dennis (OG composer) | Ruisu River (Remix)
+- Dark Cynthia Theme: hnturs12 (Youtube)
+- Battle Colosseum Final Theme: Freedom Dive by xi
+- Cyrus Battle Theme remix and Shadow Triad Intro: Zame (Youtube)
+- Snowpoint City remaster: Zame and Pokestir on youtube (not used yet)
+- Champion Battle Theme: VanilluxePavilion (Youtube)
+- Russia Grunt Theme: EternalSushi, ElectricMudkip, and Kamex (Youtube)
+- Russian Admin Theme: EternalSushi and emdasche (Youtube)
+- Galandart Battle Theme: Licht und Schatten by Yutaka Yamada
+- Deoxys Battle Theme: Get credits for Carter's song
+- Pallet Cave Background Music: Get credits for Carter's song 
+- Developer Friends Battle Theme: Retro Tune by Magnus Pålsson (Spotify / Youtube)
+- Intro Music: From Whale Island by Yoshihisa Hirano
+- Rayquaza Summoning Song: Leliana's Dance by Inon Zur
+- The Guardian's Gateway (Spirit Dimension): Mist In The Mire (Unravel Soundtrack) by Henrik Oja and Frida Johansson
+------------------------------------------------------------------------------
+Elite Battle: DX
+Complete Overhaul of battle graphics including trainer/legendary intros and Pokemon battle sprites. Also brings more battle backgrounds and animations made by Luka S.J.
+
+Sprites:
+Pokecheck.org | Ripping the sprites from B2/W2 roms
+
+PinkCatDragon | GIF to PNG conversion
+Tebited15, WolfPP, Issei Hyoudou, Nasasu, luckygirl88 | B/W styled trainer Red/Leaf sprites
+WolfPP | B/W styled trainer Leaf sprite
+Spriters-Resource (redblueyellow), Damien, WolfPP | Gen 5 ball sprites
+
+Sound Effects:
+BadSamaritan | Ripping the sound effects
+
+Other:
+Luka S.J. | Elite Battle: DX
+
+Maruno, Marin, Golisopod User | General help, support, and bouncing off ideas
+PinkCatDragon | GIF to PNG conversion
+------------------------------------------------------------------------------
+Gen 8 Move Animation Project: Extra move animations:
+- Project lead by StCooler.
+- Contributors: StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree.
+- Thanks to the Reborn team for letting people use their resources.
+- Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All Attacks SFX.
+------------------------------------------------------------------------------
+Sprites:
+- Sprites for gens 3-5: MrGagula (get location and more in depth info)
+- All Asian style buildings in Kanazawa City: PeekyChew (DeviantArt)
+- Boss Cyrus Overworld and Battle sprite: PurpleZaffre (DeviantArt)
+- Lots of Trainer Overworld/Battle sprites and Galandart Battle Sprites: Geroisblackboots (DeviantArt) (Get specifics)
+- Detective Looker Battle Sprite: WillowWhips (Deviant Art)
+- Jessie and James Overworld sprites: Kalarie (PokeCommunity.com)
+- Jessie and James battle Sprites: Kimba616 (DeviantArt)
+- Snowy tileset, buildings, and cliffs used on Route 12, Zenit City, and Alrosa City: Wesley FG (PokeCommunity.com)
+- Pokemon Diamond/Pearl Tileset: ThePokemonChronicles (DeviantArt)
+- Battle sprites for gens 4-5 trainers: Mr. Gela (Relic Castle)
+- Gen 4 Overworld Character Sprites: Neo-Spriteman, Vanilla Sunshine, PurpleZaffre & Maicerochico, AtomicReactor (get location)
+- Lots of Overworld Sprites from Gens 4/5/6 including Zinnia, Alder, Flint, and many more: aveontrainer (Deviant Art) (Try to list more)
+- Zinnia battle sprite: officialthatguy (Deviant Art)
+- Silver Overworld Sprite: Skeizerr (Deviant Art)
+- Burglar Overworld Sprite: sphericalice (Deviant Art)
+- Cyclist Overworld Sprites: Teraneck (Deviant Art)
+- Overworld Sprites for Doyen Trainers: Mashirosakura (Relic Castle)
+- Zinnia Tent: RBRNNova (Deviant Art)
+- Heavenly Pillar Top Map: Clara-Dragon (Deviant Art)
+- Fortree City tree houses: TheDeadHeroAlistair (Deviant Art)
+------------------------------------------------------------------------------
+Scripts:
+- Wondertrade Script: Black Eternity and Mej71 (PokeCommunity.com)
+- Script for AI using revivial items: Poq (Relic Castle)
+- Rock Climb: Ulithium_Dragon and DarrylBD99 (Relic Castle)
+------------------------------------------------------------------------------
