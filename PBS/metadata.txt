@@ -1,0 +1,339 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Home = 48,6,4,4
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Battle trainer.mid
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+SurfBGM = Surfing.mid
+BicycleBGM = Bicycle.mid
+PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
+PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+#-------------------------------
+[003]
+# Kapok Town
+Outdoor = true
+ShowArea = true
+Bicycle = false
+Weather = Sun,3
+Environment = ForestGrass
+#-------------------------------
+[007]
+# Heavenly Pillar Top
+Outdoor = true
+ShowArea = false
+Bicycle = false
+#-------------------------------
+[033]
+# Riverside Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BattleBack = 
+#-------------------------------
+[077]
+# Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[078]
+# Tabistar Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[080]
+# Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[081]
+# Bichi City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[083]
+# Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[084]
+# Yuki Forest
+Outdoor = true
+ShowArea = true
+Bicycle = false
+Environment = ForestGrass
+#-------------------------------
+[090]
+# Yuki Forest
+Outdoor = true
+ShowArea = false
+Bicycle = false
+Environment = ForestGrass
+#-------------------------------
+[093]
+# Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[094]
+# St. Phenix
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[095]
+# Kalimari Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+Environment = Sand
+#-------------------------------
+[098]
+# Darudeston City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,60
+#-------------------------------
+[099]
+# Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[100]
+# Cithara City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[102]
+# Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,50
+#-------------------------------
+[103]
+# Kanazawa City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+#-------------------------------
+[105]
+# Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[107]
+# Catala Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[108]
+# Buchan City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[109]
+# Cycling Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+#-------------------------------
+[112]
+# Battle Colosseum
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[114]
+# Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,5
+#-------------------------------
+[116]
+# Alrosa City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[118]
+# Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = false
+Weather = Blizzard,100
+#-------------------------------
+[122]
+# Zenit City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[123]
+# Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[126]
+# Blissmar City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+DiveMap = 127
+#-------------------------------
+[128]
+# Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,40
+DiveMap = 130
+#-------------------------------
+[131]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[133]
+# Mt. Artemis Outside
+Outdoor = true
+Bicycle = true
+#-------------------------------
+[134]
+# Igneous City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[135]
+# Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[138]
+# Porita Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[139]
+# Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[140]
+# Route 16
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[142]
+# Route 17 - Sunnyside City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[144]
+# Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[145]
+# Soufrabi City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,10
+#-------------------------------
+[175]
+# Victory Road
+Outdoor = false
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[176]
+# Pokémon League
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[181]
+# Mt Artemis
+Outdoor = false
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[182]
+# Mt Artemis
+Outdoor = false
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[183]
+# Mt Artemis 2F Room 1
+Outdoor = false
+ShowArea = false
+Bicycle = true
+#-------------------------------
+[184]
+# Mt Artemis
+Outdoor = false
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[185]
+# Mt Artemis
+Outdoor = false
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[186]
+# Mt Artemis Summit
+Outdoor = true
+ShowArea = false
+Bicycle = false
+Weather = Snow,100
+#-------------------------------
+[192]
+# Hajimara City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[193]
+# Route 18
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[194]
+# Heavenly Pillar Outside
+Outdoor = true
+ShowArea = true
+Bicycle = true
