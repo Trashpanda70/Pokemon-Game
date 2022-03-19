@@ -25,6 +25,12 @@ Outdoor = true
 ShowArea = false
 Bicycle = false
 #-------------------------------
+[018]
+# Heavenly Pillar Outside
+Outdoor = true
+ShowArea = false
+Bicycle = true
+#-------------------------------
 [033]
 # Riverside Town
 Outdoor = true

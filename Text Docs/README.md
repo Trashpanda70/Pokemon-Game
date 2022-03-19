@@ -12,27 +12,29 @@ If I do not want to add your idea it's most likely because it would be too much 
 ## To-Do List
 
 ### Known Bugs and Issues
-- Some background audio does not loop perfectly, it should be not very noticable but please let me know if you think it ruins the experience
+- Route 1 background music does not loop smoothly
 - Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience
+- Galandart Sprite does not move when viewing party Pokemon
 - Butcher does not display formatted text during transactions
-- The tent outside of Heavenly Pillar is not in the same art style as the rest of the game
 - Spirit Pokemon are catchable when they should not be
 - Spirit Pokemon appear on the National Pokedex when they should not
-- Galandart Sprite does not move when viewing party Pokemon
 - Custom moves Rushing Lance and Spiritual Gaze default to normal type when their respective items are not being held by the attacking Pokemon. The moves should default to Steel and Ghost respectively
-- Some background music and sound effects are louder than others, this will be tweaked later
+- Some background music and sound effects are louder than others
+- The male trainer sprite gets cut on the edges when throwing a Pokeball into battle
+- Apricorn trees give a random Apricorn each day instead of a fixed one. This was intentional (so not really a bug but thought i'd list it) and may or may not be changed later
+- Apricorn trees will activate the 24 hour wait timer if you decline to pick it
 - Rock Climb does not show any rock or dust animations before, during, or after movement
 - Again, please let me know if there are any bugs/glitches you find that are not listed
 
 ### Features Not Yet Implemented
 - All wild pokemon encounters
-- Any interior of buildings past route 1 apart from Pokemon Centers, Poke-Marts, and some Butcher Shops
+- Any interior of buildings past route 1 apart from Pokemon Centers, Poke-Marts, and Butcher Shops
 - Any characters past route 1 except for the nurse in the Pokemon Center, the sales clerk in the Poke-Marts, and the Butcher in the Butcher Shop
 - Any part of the storyline past Route 1
-- Clean up the storyline before Route 1 to make it more obvious what the player needs to do and give a better reason to embark on their journey
+- Berry plants
 - Create a GIF to show at the start of the intro to flow with the music better
-- Give custom music themes to Mewtwo, Landorus, and perhaps a couple other Legendary Pokemon that do not have one
-- Create more move animations including animations for custom moves
+- Give custom music themes to Mewtwo and Landorus
+- Create move animations for custom moves
 - Honey Tree encounter mechanic
 - Lava Rod fishing mechanic
 - Drone item to replace Fly HM, I am struggling to figure out this one and it might not be implemented but is something I want to add
@@ -74,7 +76,7 @@ Keep in mind that most of my Pokemon experience is in generations 4 and 5, with 
 
 ### Changes/Notes From Previous Pokemon Games
 - New Butcher mechanic (more later)
-- New Shadow Pokemon mechanic (read the whole document everything is explained i swear)
+- New Spirit Pokemon mechanic (read the whole document everything is explained i swear)
 - New Lava Fishing mechanic: Essentially just fishing but in Lava for fire types, you cannot surf on Lava
 - Added Lava
 - TM's can be used infinitely 
@@ -83,7 +85,7 @@ Keep in mind that most of my Pokemon experience is in generations 4 and 5, with 
 	- This will be decreased if Shiny Charm functionality is added
 - Pokerus chance increased from 1/32768 to 5/32768
     - Added COVID easter egg
-- Poisoned Pokemon take damage while walking
+- Poisoned Pokemon take damage while walking but not faint
 - Added Deep Snow, which will make the player move slower and have wild Pokemon
     - This tile appears on Route 12
 - Added a Sand tile for Pokemon Encounters
@@ -93,7 +95,7 @@ Keep in mind that most of my Pokemon experience is in generations 4 and 5, with 
     - This is not implemented yet as I upgraded the essentials package and the new version changed battle mechanics meaning the script I had for this now does not work. I plan to either find another script or write my own, but there are no guarantees about this feature.
 - Added custom music for Darkrai, Latios/Latias, Galandart, Celebi, The Champion Battle, Team Russia Battles, and more
     - I cannot make music because I simply do not know anything about it, see the credits file for full credits on Music, Sprites, and other game functions/details
-    - On a side note, most music is taken from generations 4 and 5, with some from 6, 7, and 8 (if 8 is sword and shield idk I have one song from there)
+    - On a side note, most music is taken from generations 4,5, and 6, with some from 7 and 8
 - There are items that replace the HMs Rock Smash, Cut, Strength, and (maybe) Fly. These items will be available at some point after you get the Gym Badge allowing use of the HM outside of battle. These items will not be accessible right away (EX: Cut can be used outside battle after the 1st gym but the item to replace it you will get after beating the 5th gym)
 - Honey trees will not have a waiting time, the encounter will be instant
 
@@ -378,6 +380,8 @@ The list of Pokemon that can appear in Spirit Form is shown below. These Pokemon
 
 The spawn rates for each Spirit Pokemon individually has not been decided, but assume it will be relatively equal between all of them. They will only appear in certain places in the game, so you should not be caught off guard by randomly encountering one in the wild (it will be obvious where they can be found)
 
+More spirit Pokemon may be added in the future
+
 ### Honey Trees
 As mentioned previously, the honey tree mechanic from Diamond, Pearl, and Platinum will be in this game, but with no delay between applying the honey and getting an encounter. The honey trees will have the same look as they did in gen 4, so they should be easy to find as they are also located in many places. The method for obtaining honey is not exactly decided, but it will probably just be found as an item and able to be bought from somewhere.
 
@@ -412,6 +416,6 @@ As you progress through the game, the rules for WonderTrade will change. Note th
 - After Red has been beaten, and a few other events/storylines have occured: You can obtain Ditto and Rotom from Wondertrade (albeit on the hard to get list)
 
 ## Conclusion
-This write up is given to provide information about new/changed mechanics, not storyline information. There will be NPCs in the beta/test versions of the game that provide the ability to listen to battle music, do WonderTrade, and explain a few other things. The first release, if it has not been released yet, will be an exploration release where the main objective is for a few players to get access to the map and explore it and give feedback on design before I start implementing gameplay. If you have any suggestions, even if the map exploration is not out yet, please feel free to let me know and I will make note of them and maybe implement them in the future. 
+This write up is given to provide information about new/changed mechanics, not storyline information. There is an NPC in the beta/test version of the game that provides the ability to listen to battle music, and explains a few other things. The first release, if it has not been released yet, will be an exploration release where the main objective is for a few players to get access to the map and explore it and give feedback on design before I start implementing gameplay. If you have any suggestions, even if the map exploration is not out yet, please feel free to let me know and I will make note of them and maybe implement them in the future. 
 
 Since I am in college, schoolwork will be a priority over completing this game. I do not have much free time, so the design process is slow. 
