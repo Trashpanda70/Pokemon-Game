@@ -25,4 +25,7 @@ LandNight,21
     4,POOCHYENA,2,3
     1,BIDOOF,4,5
 #-------------------------------
-    
+[083] # Route 3
+HoneyTree
+    50,MUNCHLAX,5,10
+    50,COMBEE,8,13

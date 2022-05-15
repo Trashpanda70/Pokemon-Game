@@ -388,7 +388,7 @@
 554,TM96,TM96,TM96s,4,5500,"The user damages opposing Pokémon by emitting a powerful flash.",3,0,0,DAZZLINGGLEAM
 555,TM97,TM97,TM97s,4,2000,"This attack makes use of nature's power. Its effects vary depending on the user's environment.",3,0,0,NATUREPOWER
 556,TM98,TM98,TM98s,4,3000,"The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.",3,0,0,DARKPULSE
-380,TM99,TM99,TM99s,4,3000,"The user shrouds itself in electricity and smashes into its target. It also damages the user a little.",3,0,0,WILDCHARGE
+563,TM99,TM99,TM99s,4,3000,"The user blasts the target with a gust of repulsive wind. It may also raise all the user's stats at once.",3,0,0,OMINOUSWIND
 557,TM100,TM100,TM100s,4,2000,"The user makes the target float with its psychic power. The target is easier to hit for three turns.",3,0,0,TELEKINESIS
 558,TM101,TM101,TM101s,4,1000,"A strong wind blows away the foe's obstacles such as Light Screen. It also lowers their evasion.",3,0,0,DEFOG
 559,TM102,TM102,TM102s,4,1500,"The user lands and rests its body. It restores the user's HP by up to half of its max HP.",3,0,0,ROOST
@@ -402,7 +402,7 @@
 386,HM04,HM04,HM04s,4,0,"The target is slugged with a punch thrown at maximum power. This move can also be used to move boulders.",4,0,0,STRENGTH
 387,HM05,HM05,HM05s,4,0,"The user charges the target at an awesome speed. It can also be used to climb a waterfall.",4,0,0,WATERFALL
 388,HM06,HM06,HM06s,4,0,"The user dives on the first turn, and floats up and attacks on the second. It can be used to dive in the ocean.",4,0,0,DIVE
-381,HM07,HM07,HM07s,4,0,"The user attacks with a rock shattering punch. It may lower the target's Defense. It can also smash rocks outside battle.",3,0,0,ROCKSMASH
+381,HM07,HM07,HM07s,4,0,"The user attacks with a rock shattering punch that may lower the target's Defense. It can also smash rocks outside battle.",3,0,0,ROCKSMASH
 540,HM08,HM08,HM08s,4,0,"The smashes into the target and may possibly connfuse it. It also lets you climb rocky walls outside battle.",4,0,0,ROCKCLIMB,
 #-------------------------------
 389,CHERIBERRY,Cheri Berry,Cheri Berries,5,20,"It may be used or held by a Pokémon to recover from paralysis.",1,1,5,
@@ -566,11 +566,11 @@
 544,PICKAXE,Pickaxe,Pickaxes,8,0,"A tool commonly used for mining. It can be used to break some kinds of rocks.",2,0,6,
 545,DRUGS,Drugs,Drugs,1,0,"Magic pills that can be used to increase strength enough to push around large boulders.",2,0,0,
 546,DRONE,Drone,Drones,8,0,"A robot that allows flight to any city or town that has been visited by the user.",2,0,6,
-555,ABILITYPATCH,Ability Patch,Ability Patch,2,30000,"A patch that allows a Pokémon to gain its hidden ability when used.",1,0,0,
+553,ABILITYPATCH,Ability Patch,Ability Patch,1,30000,"A patch that allows a Pokémon to gain its hidden ability when used.",1,0,0,
 #-------------------------------
 547,PIXIEPLATE,Pixie Plate,Pixie Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.",0,0,0,
 548,FAIRYGEM,Fairy Gem,Fairy Gems,1,200,"A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move only once.",0,0,10,
 549,WEAKNESSPOLICY,Weakness Policy,Weakness Policies,1,1000,"An item to be held by a Pokémon. The holder's Attack and Sp. Atk sharply increase if hit by a move it's weak to.",0,0,0,
-550,ABILITYCAPSULE,Ability Capsule,Ability Capsule,2,10000,"A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.",1,0,0,
+550,ABILITYCAPSULE,Ability Capsule,Ability Capsule,1,10000,"A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.",1,0,0,
 551,ASSAULTVEST,Assault Vest,Assault Vests,1,1000,"An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.",0,0,0,
 552,SAFETYGOGGLES,Safety Goggles,Safety Goggles,1,4000,"An item to be held by a Pokémon. They protect the holder from weather-related damage and powder.",0,0,0,
