@@ -1,25 +1,222 @@
+[RIVAL1]
+SpriteScale	 = 2
+BattleVS         = specialSM
+BattleIntro	 = rainbowIntro
 #-------------------------------
-#[RIVAL1]
-#BattleBGM        = Battle rival.ogg
+[RIVAL2]
+SpriteScale	 = 2
+BattleVS         = specialSM
+BattleIntro	 = rainbowIntro
 #-------------------------------
-[RIVAL1,Blue]
-BattleVS         = trainerSM
+[RIVAL3]
+SpriteScale	 = 2
+BattleVS         = specialSM
+BattleIntro	 = rainbowIntro
 #-------------------------------
-[RIVAL1,Blue,1]
-BattleVS         = trainerSM
-#-------------------------------
-[RIVAL1,Blue,2]
-BattleVS         = trainerSM
-#-------------------------------
+# Not using
 [LEADER_Brock]
 TrainerPositionX = -8
 BattleVS         = integratedVS
 BattleScript     = BROCK
 #-------------------------------
-[TEAMROCKET_M]
-BattleIntro      = evilTeam
-BattleVS         = trainerSM
+[LEADER_Mary]
+SpriteScale	 = 1
 #-------------------------------
-[TEAMROCKET_F]
-BattleIntro      = evilTeam
-BattleVS         = trainerSM
+[LEADER_Herbia]
+SpriteScale	 = 1
+#-------------------------------
+[LEADER_Toyotomi]
+SpriteScale	 = 2
+#-------------------------------
+[LEADER_Winston]
+SpriteScale	 = 1
+#-------------------------------
+[LEADER_Danny]
+SpriteScale	 = 1
+#-------------------------------
+[LEADER_Walter]
+SpriteScale	 = 2
+#-------------------------------
+[LEADER_Marlon]
+SpriteScale	 = 2
+#-------------------------------
+[LEADER_Alder]
+SpriteScale	 = 2
+#-------------------------------
+[LEADER_Kelly]
+SpriteScale	 = 2
+#-------------------------------
+[ELITEFOUR_Rayssa]
+SpriteScale	 = 1
+#-------------------------------
+[ELITEFOUR_Aaron]
+SpriteScale	 = 2
+#-------------------------------
+[ELITEFOUR_Bertha]
+SpriteScale	 = 2
+#-------------------------------
+[ELITEFOUR_Flint]
+SpriteScale	 = 2
+#-------------------------------
+[ELITEFOUR_Lucian]
+SpriteScale	 = 2
+#-------------------------------
+[CHAMPION_Cynthia]
+SpriteScale 	 = 2
+BattleVS	 = crazySM
+BattleIntro	 = rainbowIntro
+BattleEnv	 = CHAMPION
+#-------------------------------
+[CHAMPION_Haku]
+SpriteScale 	 = 2
+BattleVS	 = crazySM
+BattleIntro	 = rainbowIntro
+BattleEnv	 = CHAMPION
+#-------------------------------
+[POKEMONTRAINER_Cynthia]
+SpriteScale 	 = 2
+BattleVS	 = crazySM
+BattleIntro	 = rainbowIntro
+#-------------------------------
+[DARKCYNTHIA]
+SpriteScale	 = 2
+BattleVS	 = crystalSM
+BattleScript	 = DARKCYNTHIA
+BattleIntro	 = distortionIntro
+#-------------------------------
+[POKEMONTRAINER_N1]
+SpriteScale	 = 2
+#-------------------------------
+[POKEMONTRAINER_N2]
+SpriteScale	 = 2
+BattleVS	 = plasmaSM
+BattleIntro 	 = rainbowIntro 
+#-------------------------------
+[POKEMONTRAINER_N3]
+SpriteScale	 = 2
+BattleVS	 = plasmaSM
+BattleIntro 	 = rainbowIntro
+#-------------------------------
+[POKEMONTRAINER_Silver]
+SpriteScale = 1
+#-------------------------------
+[PLASMAGRUNT]
+SpriteScale = 2
+#-------------------------------
+[TEAMPLASMA_GHETSIS]
+SpriteScale = 1
+#-------------------------------
+[POKEMONTRAINER_Lucus]
+SpriteScale = 1
+#-------------------------------
+[POKEMONTRAINER_Dawn]
+SpriteScale = 1
+#-------------------------------
+[POKEMONTRAINER_Ash]
+SpriteScale = 2
+#-------------------------------
+[SHADOWTRIAD]
+SpriteScale	 = 2
+#-------------------------------
+[TRAINER_BROCK]
+SpriteScale	 = 2
+#-------------------------------
+[TRAINER_Misty]
+SpriteScale	 = 2
+#-------------------------------
+[TRAINER_Skyla]
+SpriteScale	 = 2
+#-------------------------------
+[POKEMONTRAINER_Geois]
+SpriteScale 	 = 1
+#-------------------------------
+[RUSSIAN_VLADAMIR]
+SpriteScale	 = 2
+#-------------------------------
+[RUSSIAN_ADMIN]
+SpriteScale	 = 2
+BattleIntro	 = teamSkull
+#-------------------------------
+[RUSSIAN_FSNOW]
+SpriteScale	 = 1
+BattleIntro	 = teamSkull
+#-------------------------------
+[RUSSIAN_MSNOW]
+SpriteScale	 = 1
+BattleIntro	 = teamSkull
+#-------------------------------
+[TEAMROCKET_Ariana]
+SpriteScale	 = 2
+BattleIntro	 = evilTeam
+#-------------------------------
+[TEAMROCKET_Archer]
+SpriteScale	 = 2
+BattleIntro	 = evilTeam
+#-------------------------------
+[ROCKETDUO]
+SpriteScale	 = 2
+BattleIntro	 = evilTeam
+BattleVS	 = crazySM
+#-------------------------------
+[ROCKETJESSIE]
+SpriteScale	 = 2
+BattleIntro	 = evilTeam
+#-------------------------------
+[ROCKETJAMES]
+SpriteScale	 = 2
+BattleIntro	 = evilTeam
+#-------------------------------
+[BOSSCYRUS]
+SpriteScale	 = 2
+#-------------------------------
+[LOREKEEPER]
+SpriteScale	 = 2
+#-------------------------------
+[DOCTOR]
+SpriteScale	 = 2
+#-------------------------------
+[PSYCHIC_F]
+SpriteScale	 = 2
+#-------------------------------
+[PSYCHIC_M]
+SpriteScale	 = 2
+#-------------------------------
+[HIKER]
+SpriteScale	 = 2
+#-------------------------------
+[GANGMEMBER3]
+SpriteScale	 = 1
+#-------------------------------
+[STRIPPER]
+SpriteScale	 = 2
+#-------------------------------
+[STRIPPER_Censored]
+SpriteScale	 = 2
+#-------------------------------
+[BOYSCOUT]
+SpriteScale	 = 2
+#-------------------------------
+[GIRLSCOUT]
+SpriteScale	 = 2
+#-------------------------------
+[YOUNGSTER]
+SpriteScale	 = 2
+#-------------------------------
+[THIEF]
+SpriteScale	 = 2
+#-------------------------------
+[SAGE]
+SpriteScale	 = 2
+#-------------------------------
+[POKEMONBREEDER]
+SpriteScale	 = 2
+#-------------------------------
+[BIRDKEEPER]
+SpriteScale	 = 2
+#-------------------------------
+[FISHERMAN]
+SpriteScale	 = 2
+#-------------------------------
+[TWINS]
+SpriteScale	 = 2
+#-------------------------------

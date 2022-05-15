@@ -20,7 +20,7 @@ module BattleScripts
       :file => "trainer024"
     }
   }
-  # to call this battle script run the script from an event jusst before the
+  # to call this battle script run the script from an event just before the
   # desired battle:
   #    EliteBattle.set(:nextBattleScript, :PIDGEY)
   #-----------------------------------------------------------------------------
@@ -84,4 +84,49 @@ module BattleScripts
     end
   }
   #-----------------------------------------------------------------------------
+  DARKCYNTHIA = {
+    "turnStart0" => proc do
+      @scene.pbHideAllDataboxes
+      @scene.pbDisplay("An strong feeling of darkness and dread sweeps over you.")
+      @scene.pbTrainerSpeak("Darkrai: This battle will be in MY territory!")
+      @scene.pbDisplay("The world around you begins to be enveloped in darkness.")
+      @sprites["battlebg"].reconfigure(:DARKNESS, :DISTORTION)
+      @scene.pbDisplay("Darkrai has brought the battle to some nightmare realm!")
+      @scene.pbShowAllDataboxes
+    end,
+    "halfHPOpp" => proc do
+      pname = @battlers[1].name
+      @scene.pbDisplay("Immense energy from Darkrai is swelling up in the opposing #{pname}!")
+      EliteBattle.playCommonAnimation(:AURAFLARE, @scene, 1)
+      @vector.reset
+      @battlers[1].pbRaiseStatStageBasic(:ATTACK, 1, true)
+      @battlers[1].pbRaiseStatStageBasic(:SPECIAL_ATTACK, 1, true)
+      @battlers[1].pbRaiseStatStageBasic(:SPECIAL_DEFENSE, 1, true)
+      @battlers[1].pbRaiseStatStageBasic(:DEFENSE, 1, true)
+      @battlers[1].pbRaiseStatStageBasic(:SPEED, 1, true)
+      @scene.pbDisplay("The stats of the opposing #{pname} rose!")
+    end,
+    "afterLastOpp" => proc do
+      pname = @battlers[1].name
+      @scene.pbTrainerSpeak("Darkrai: You leave me no choice...")
+      @scene.pbDisplay("Incredible energy from Darkrai is swelling up in the opposing #{pname}!")
+      EliteBattle.playCommonAnimation(:AURAFLARE, @scene, 1)
+      @vector.reset
+      @battlers[1].pbRaiseStatStageBasic(:ATTACK, 2, true)
+      @battlers[1].pbRaiseStatStageBasic(:SPECIAL_ATTACK, 2, true)
+      @battlers[1].pbRaiseStatStageBasic(:SPECIAL_DEFENSE, 2, true)
+      @battlers[1].pbRaiseStatStageBasic(:DEFENSE, 2, true)
+      @battlers[1].pbRaiseStatStageBasic(:SPEED, 2, true)
+      @scene.pbDisplay("The stats of the opposing #{pname} sharply!")
+    end,
+    "item" => proc do
+      pname = @battlers[0].name
+      @scene.pbTrainerSpeak("Darkrai: It won't be that easy!")
+      pbSEPlay("Darkrai_Embargo")
+      @scene.pbDisplay("Darkrai put an embargo on #{pname}!")
+      @battlers[0].effects[PBEffects::Embargo] = 3
+      @scene.pbDisplay("#{pname} cannot use items anymore!")
+    end,
+    "loss" => "You came here to drive me out of my home.\nYour attempt was laughable."
+  }
 end

@@ -67,7 +67,7 @@ Gen 8 Move Animation Project: Extra move animations:
 Sprites:
 - Sprites for gens 3-5: MrGagula (get location and more in depth info)
 - All Asian style buildings in Kanazawa City: PeekyChew (DeviantArt)
-- Boss Cyrus Overworld and Battle sprite: PurpleZaffre (DeviantArt)
+- Boss Cyrus Overworld sprite: PurpleZaffre (DeviantArt)
 - Lots of Trainer Overworld/Battle sprites and Galandart Battle Sprites: Geroisblackboots (DeviantArt) (Get specifics)
 - Detective Looker Battle Sprite: WillowWhips (Deviant Art)
 - Jessie and James Overworld sprites: Kalarie (PokeCommunity.com)
@@ -85,9 +85,12 @@ Sprites:
 - Zinnia Tent: RBRNNova (Deviant Art)
 - Heavenly Pillar Top Map: Clara-Dragon (Deviant Art)
 - Fortree City tree houses: TheDeadHeroAlistair (Deviant Art)
+- Battle Sprites including Alder and Sinoh E4: TsubasaHolics (Deviant Art)
+- Battle Sprite for Toyotomi (Samauri): duncapham (Deviant Art)
+- Team Plasma Grunt battle sprite: Barubary (Spriters Resource)
+- Eevee Girl battle/overworld sprite: UlithiumDragon (Deviant Art)
 ------------------------------------------------------------------------------
 Scripts:
 - Wondertrade Script: Black Eternity and Mej71 (PokeCommunity.com)
-- Script for AI using revivial items: Poq (Relic Castle)
 - Rock Climb: Ulithium_Dragon and DarrylBD99 (Relic Castle)
 ------------------------------------------------------------------------------

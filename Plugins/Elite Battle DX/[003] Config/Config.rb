@@ -39,10 +39,10 @@ module EliteBattle
   SUPER_SHINY_RATE = 1
 
   # the minimum amount of (random) IV attributes to be set to 31 for shiny Pokemon
-  PERFECT_IV_SHINY = 1
+  PERFECT_IV_SHINY = 3
 
   # the minimum amount of (random) IV attributes to be set to 31 for super shiny Pokemon
-  PERFECT_IV_SUPER = 3
+  PERFECT_IV_SUPER = 5
 
   # Show player line up during wild battles
   SHOW_LINEUP_WILD = false
@@ -73,4 +73,4 @@ EliteBattle.add_vector(:CAMERA_MOTION,
 #  additional battle system configuration
 #-------------------------------------------------------------------------------
 # method of bulk assigning Transitions for Pokemon and Trainers
-EliteBattle.assign_transition("rainbowIntro", :ALLOW_ALL)
+# EliteBattle.assign_transition("rainbowIntro", :ALLOW_ALL)

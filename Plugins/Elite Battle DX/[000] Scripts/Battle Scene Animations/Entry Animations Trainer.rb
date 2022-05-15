@@ -8,16 +8,20 @@ class EliteBattle_BasicTrainerAnimations
   #-----------------------------------------------------------------------------
   def initialize(viewport, battletype, foe)
     @viewport = viewport
-    trainertype = GameData::TrainerType.get(foe[0].trainer_type)
+    @trainertype = GameData::TrainerType.get(foe[0].trainer_type)
     # plays random battle intro
     styles = ["anim1", "anim2", "anim3"]
     sel = styles[rand(styles.length)]
     handled = false
     # plays rainbow intro animation if applicable
     handled = self.rainbowIntro(@viewport) if EliteBattle.can_transition?("rainbowIntro", foe[0].trainer_type, :Trainer, foe[0].name, foe[0].partyID) && EliteBattle.get(:smAnim)
+    # added in by TrashPanda70
+    if !handled && EliteBattle.can_transition?("distortionIntro", foe[0].trainer_type, :Trainer, foe[0].name, foe[0].partyID) && EliteBattle.get(:smAnim)
+      handled = self.distortionIntro
+    end
     # plays evil team animation if applicable
-    filename = sprintf("Graphics/EBDX/Transitions/%s", trainertype.id)
-    filename = sprintf("Graphics/EBDX/Transitions/classic%03d", trainertype.id_number) if !pbResolveBitmap(filename)
+    filename = sprintf("Graphics/EBDX/Transitions/%s", @trainertype.id)
+    filename = sprintf("Graphics/EBDX/Transitions/classic%03d", @trainertype.id_number) if !pbResolveBitmap(filename)
     if pbResolveBitmap(filename) && foe.length < 2 && EliteBattle.can_transition?("classicVS", foe[0].trainer_type, :Trainer, foe[0].name, foe[0].partyID)
       handled = ClassicVSSequence.new(@viewport, foe[0])
       handled.start
@@ -204,11 +208,14 @@ class EliteBattle_BasicTrainerAnimations
     @sprites["bg2"].blur_sprite(3)
     @sprites["bg2"].center!(true)
     @sprites["bg2"].opacity = 0
+    # Checks for trainer variants - Added in by TrashPanda70
+    path = "Graphics/EBDX/Transitions/Common/glow"
+    glow = pbResolveBitmap("#{path}_#{@trainertype.id}") ? "#{path}_#{@trainertype.id}" : path
     # creates rainbow rings
     for i in 1..2
       z = [0.35, 0.1]
       @sprites["glow#{i}"] = Sprite.new(@viewport)
-      @sprites["glow#{i}"].bitmap = pbBitmap("Graphics/EBDX/Transitions/Common/glow")
+      @sprites["glow#{i}"].bitmap = pbBitmap(glow)
       @sprites["glow#{i}"].ox = @sprites["glow#{i}"].bitmap.width/2
       @sprites["glow#{i}"].oy = @sprites["glow#{i}"].bitmap.height/2
       @sprites["glow#{i}"].x = @viewport.width/2
@@ -703,6 +710,51 @@ class EliteBattle_BasicTrainerAnimations
   #-----------------------------------------------------------------------------
   def delta; return Graphics.frame_rate/40.0; end
   #-----------------------------------------------------------------------------
+  # Added in by TrashPanda70
+  def distortionIntro()
+    # initial metrics
+    bmp = Graphics.snap_to_bitmap
+    max = 50; amax = 4; frames = {}; zoom = 1
+    # sets viewport color
+    @viewport.color = Color.new(255, 255, 155, 0)
+    # animates initial viewport color
+    20.times do
+      @viewport.color.alpha += 2
+      Graphics.update
+    end
+    # animates screen blur pattern
+    for i in 0...(max + 20)
+      if !(i%2 == 0)
+        zoom += (i > max*0.75) ? 0.3 : -0.01
+        angle = 0 if angle.nil?
+        angle = (i%3 == 0) ? rand(amax*2) - amax : angle
+        # creates necessary sprites
+        frames[i] = Sprite.new(@viewport)
+        frames[i].bitmap = Bitmap.new(@viewport.width, @viewport.height)
+        frames[i].bitmap.blt(0, 0, bmp, @viewport.rect)
+        frames[i].center!(true)
+        frames[i].z = 999999
+        frames[i].angle = angle
+        frames[i].zoom = zoom
+        frames[i].tone = Tone.new(i/4,i/4,i/4)
+        frames[i].opacity = 30
+      end
+      # colors viewport
+      if i >= max
+        @viewport.color.alpha += 12
+        @viewport.color.blue += 5
+      end
+      Graphics.update
+    end
+    # ensures viewport goes to black
+    frames[(max+19)].tone = Tone.new(255, 255, 255)
+    @viewport.color.alpha = 255
+    Graphics.update
+    # disposes unused sprites
+    pbDisposeSpriteHash(frames)
+    EliteBattle.set(:colorAlpha, 0)
+    return true
+  end
 end
 #===============================================================================
 #  Integrated VS sequence for trainers

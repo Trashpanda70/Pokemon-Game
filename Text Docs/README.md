@@ -12,31 +12,20 @@ If I do not want to add your idea it's most likely because it would be too much 
 ## To-Do List
 
 ### Known Bugs and Issues
-- Route 1 background music does not loop smoothly
 - Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience
-- Galandart Sprite does not move when viewing party Pokemon
-- Butcher does not display formatted text during transactions
 - Spirit Pokemon are catchable when they should not be
 - Spirit Pokemon appear on the National Pokedex when they should not
-- Custom moves Rushing Lance and Spiritual Gaze default to normal type when their respective items are not being held by the attacking Pokemon. The moves should default to Steel and Ghost respectively
 - Some background music and sound effects are louder than others
-- The male trainer sprite gets cut on the edges when throwing a Pokeball into battle
-- Apricorn trees give a random Apricorn each day instead of a fixed one. This was intentional (so not really a bug but thought i'd list it) and may or may not be changed later
 - Apricorn trees will activate the 24 hour wait timer if you decline to pick it
 - Rock Climb does not show any rock or dust animations before, during, or after movement
 - Again, please let me know if there are any bugs/glitches you find that are not listed
 
 ### Features Not Yet Implemented
-- All wild pokemon encounters
-- Any interior of buildings past route 1 apart from Pokemon Centers, Poke-Marts, and Butcher Shops
-- Any characters past route 1 except for the nurse in the Pokemon Center, the sales clerk in the Poke-Marts, and the Butcher in the Butcher Shop
-- Any part of the storyline past Route 1
 - Berry plants
 - Create a GIF to show at the start of the intro to flow with the music better
 - Give custom music themes to Mewtwo and Landorus
 - Create move animations for custom moves
 - Honey Tree encounter mechanic
-- Lava Rod fishing mechanic
 - Drone item to replace Fly HM, I am struggling to figure out this one and it might not be implemented but is something I want to add
 - A regional Pokedex (might not get added)
 - Certain small caves or rooms in other caves that legendary Pokemon appear in
@@ -48,7 +37,6 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Give the game a better name than "Pokemon Gray"
 - Region Name
 - Gym Badge Sprites to use
-- Me actually learning to code in Ruby
 - A bunch of other stuff I probably forgot
 
 ## Game Changes / Summary of Inclusions
@@ -56,12 +44,10 @@ If I do not want to add your idea it's most likely because it would be too much 
 ### Included Pokemon / People
 - All Pokemon from Generations 1-5 have animated battle sprites
 - The custom legendary Pokemon for the region (more later)
-- Sprit form of 21 already existing Pokemon (not catchable, more later)
+- Sprit form of 20 already existing Pokemon (not catchable, more later)
 
 Generation 6 Pokemon sprites are harder to find due to their 3D-Nature, which is why the game stops at Generation 5 sprites.
-Also, Generation 6 is where I stop recognizing every Pokemon since I am a 20 something boomer (I still recognize most though).
-Because there are no Gen 6 Pokemon, the Fairy type is not added. If requested, I can change the type matchups of current types to 
-buff Steel and Poison and nerf Dragon, but so far no changes have been made.
+Also, Generation 6 is where I stop recognizing every Pokemon since I am a 20 something boomer (I still recognize most though). Fairy type has been added with moves for the type. Also, lots of gen 6 moves have been included. All Pokemon from gen 5 and before that were converted to Fairy type in gen 6+ have been made into Fairy type. Additional type changes are listed later.
 
 I plan to include some people I know IRL into this game but need character sprites for them, and obviously their permission.
 
@@ -75,6 +61,9 @@ Managing all of these character encounters will be hard as to not seem overbeari
 Keep in mind that most of my Pokemon experience is in generations 4 and 5, with some in generations 6 and 7 (but I cant add those features anyway). This means if you are a gen 3 fan then sorry I guess but a lot of the nostalga for those games will not be here (other than the fact that most graphics are gen 3 I think)
 
 ### Changes/Notes From Previous Pokemon Games
+- Changed typing and abilities for some Pokemon (listed later)
+- Changed stats of many Pokemon
+- Items included are up to gen 5 and include the following later gen items (same functionality they have in later gens): Ability Patch, Ability Capsule, Pixie Plate, Fairy Gem, Weakness Policy, and Safety Goggles
 - New Butcher mechanic (more later)
 - New Spirit Pokemon mechanic (read the whole document everything is explained i swear)
 - New Lava Fishing mechanic: Essentially just fishing but in Lava for fire types, you cannot surf on Lava
@@ -82,17 +71,13 @@ Keep in mind that most of my Pokemon experience is in generations 4 and 5, with 
 - TM's can be used infinitely 
 - Breeding Mechanics are that of Generation 5
 - Shiny chance increased fropm 1/8192 to 1/512
-	- This will be decreased if Shiny Charm functionality is added
 - Pokerus chance increased from 1/32768 to 5/32768
     - Added COVID easter egg
-- Poisoned Pokemon take damage while walking but not faint
+- Poisoned Pokemon take damage while walking but will not faint
 - Added Deep Snow, which will make the player move slower and have wild Pokemon
     - This tile appears on Route 12
 - Added a Sand tile for Pokemon Encounters
     - This tile appears in Kalimari Desert
-- The AI will be able to use Revives, Max Revives, Revival Herbs, and Sacred Ash. 
-    - If you can heal so can they it is fair 
-    - This is not implemented yet as I upgraded the essentials package and the new version changed battle mechanics meaning the script I had for this now does not work. I plan to either find another script or write my own, but there are no guarantees about this feature.
 - Added custom music for Darkrai, Latios/Latias, Galandart, Celebi, The Champion Battle, Team Russia Battles, and more
     - I cannot make music because I simply do not know anything about it, see the credits file for full credits on Music, Sprites, and other game functions/details
     - On a side note, most music is taken from generations 4,5, and 6, with some from 7 and 8
@@ -103,146 +88,266 @@ Keep in mind that most of my Pokemon experience is in generations 4 and 5, with 
 #### Slaking
 The first Pokemon that has been changed is Slaking because I've always hated the fact that he is unusable. To help with this, his ability has been replaced, but he has been nerfed to have the power level of a Pseudolegendary. This might be nerfed more later. If you want to argue that he is in fact usable then my coutnerarguemnt is I am bad at the game.
 
-New Ability: Intimidate
+New Ability: Infiltrator
 
 EVs: 2 HP, 1 Attack
 
 |  Old Base Stats  |  New Base Stats  |	
 | ---------------- | ---------------- |	
-| HP - 150 | HP - 120 |
-| Attack - 160 | Attack - 140 |
+| HP - 150 | HP - 130 |
+| Attack - 160 | Attack - 130 |
 | Defense - 100	| Defense - 90 |
-|Sp. Attack - 95 | Sp. Attack - 85 |
+|Sp. Attack - 95 | Sp. Attack - 95 |
 |Sp. Defense - 65 | Sp. Defense - 65 |
-|Speed - 100 | Speed - 100 |
+|Speed - 100 | Speed - 90 |
 |TOTAL = 670 | TOTAL = 600 |
 
 #### Arceus
 For being literally God, Arceus' base stats are not as impresive as they should be. While there is not Mega Evolution in the game (remember the whole can't add gen 6 thing), I still wanted to buff Arceus as having an Arceus and being able to sweep is not something I am worried about. All of Arceus' stats have been bosted to be 135 each for a base total of **810** instead of the previous total of 720.
 
 #### Evolutions
-This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changes. Also, generation 5 has some ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like. The following list gives exact details to new evolution methods for various Pokemon:
+This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changes. Also some Pokemon have ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like or deal with weak Pokemon until level 40. The following list gives exact details to new evolution methods for various Pokemon:
 
-Feebas - 
-Now evolves into Milotic at level 30
+Ekans -> Arbok: Level 28 (due to Arbok buff)
 
-Graveler - 
-Now evolves to Golem by trade or at level 40
+Poliwhirl -> Politoed: Level up holding Kings Rock
 
-Slowpoke - 
-Now evolves into Slowking if it levels up during the day holding a kings rock
-The Slowbro evolution has not been changed
+Kadabra -> Alakazam: Level 37
 
-Onix - 
-Now evolves into Steelix by trading while holding the metal coat and by leveling up while knowing the move Iron Tail. 
-These are two separate conditions, and Onix will evolve if either is met
+Machoke -> Machamp: Level up holding Drugs
 
-Horsea - 
-Now evolves into Seadra at level 24
+Graveler -> Golem: Level 37
 
-Seadra - 
-Now evolves into Kingdra at level 47
+Slowpoke -> Slowking: Level up holding Kings Rock
 
-Clamperl - 
-Now evolves into Huntail if it levels up during the day holding a Deep Sea Tooth or evolves into Gorebyss if it levels up during the day holding a Deep Sea Scale
+Haunter -> Gengar: Level 36 if leveled up at night
 
-Boldore - 
-Now evolves into Gigalith at level 45
+Onix -> Steelix: Level 30
 
-Gurdurr - 
-Now evolves into Conkeldurr at level 40
+Rhyhorn -> Rhydon: Level 32
 
-Machoke - 
-Now evolves into Machamp by trade or at level 42
+Rhydon -> Rhyperior: Level up holding Protector
 
-Poliwhirl - 
-Now evolves into Politoed at level 38 but only if leveled up at night. The Poliwrath evolution has not been changed
+Seadra -> Kingdra: Level 45 if leveled up while diving
 
-Zubat - 
-Now evolves into Golbat at level 22
+Electabuzz -> Electivire: Level up holding Electirizer
 
-Golbat - 
-Now evolves into Crobat at level 37 but only if leveled up at night or by Happiness
+Magmar -> Magmortar: Level up holding Magmarizer
 
-Azurill - 
-Now evolves into Marill at level 20 but only if leveled up in the rain
+Porygon -> Porygon2: Level up holding Upgrade
 
-Buneary - 
-Now evolves into Lopunny at level 28 or by Happiness
+Dragonair -> Dragonite: Level 50
 
-Munchlax - 
-Now evolves into Snorlax if it levels up holding Leftovers. Munchlax will no longer have a chance of holding leftovers if found in the wild
+Sentret -> Furret: Level 23 (due to Furrt buff)
 
-Electabuzz - 
-Now evolves into Electivire if leveled up holding the Electirizer. Electabuzz will no longer have a chance of holding an Electirizer if found in the wild
+Marill -> Azumarill: Level 26 (Due to Azumarill buff)
 
-Magmar - 
-Now evolves into Magmortar if leveled up holding the Magmarizer. Magmar will no longer have a chance of holding an Magmarizer if found in the wild
+Houndour -> Houndoom: Level 28 (Due to Houndoom buff)
 
-Duskull - 
-Now evolves into Dusclops at level 30
+Porygon2 -> Porygon-Z: Level up holding Dubious Disc with high happiness (220+)
 
-Dusclops - 
-Now evolves into Dusknoir if levled up holding the Reaper Cloth at night
+Pupitar -> Tyranitar: Level 50
 
-Rhyhorn - 
-Now evolves into Rhydon at level 36
+Feebas -> Milotic: Level up holding Prism Scale or Max Beauty
 
-Rhydon - 
-Now evolves into Rhyperior if leveled up holding the Protector
+Duskull -> Duskclops: Level 33
 
-Deino - 
-Now evolves into Zweilous at level 32
+Dusclops -> Dusknoir: Level up holding Reaper Cloth at night
 
-Zweilous - 
-Now evolves into Hydreigon at level 52 (You're welcome)
+Clamperl -> Huntail: Level up holding Deep Sea Tooth
 
-Larvesta - 
-Now evolves into Volcarona at level 45
+Clamperl -> Gorebyss: Level up holding Deep Sea Scale
 
-Rufflet - 
-Now evolves into Braviary at level 36
+Bidoof -> Bibarel: Level 20 (Due to Bibarel buff)
 
-Vullaby - 
-Now evolves into Mandibuzz at level 36
+Boldore -> Gigalith: Level 42
 
-Pawniard - 
-Now evolves into Bisharp at level 35
+Gurdurr -> Conkeldurr: Level 42
 
-Mienfoo - 
-Now evolves into Mienshao at level 35
+Rufflet -> Braviary: Level 40
 
-Klink - 
-Now evolves into Klang at level 30
+Vullaby -> Mandibuzz: Level 40
 
-Golett - 
-Now evolves into Golurk at level 39
+Deino -> Zweilous: Level 32
 
-Skorupi - 
-Now evolves into Drapion at level 34
+Zweilous -> Hydreigon: Level 53
 
-Tynamo - 
-Now evolves into Elektrik at level 30
+Larvesta -> Volcarona: Level 48
 
-Axew - 
-Now evolves into Fraxure at level 33
+Mienfoo -> Mienshao: Level 43
 
-Litwick - 
-Now evolves into Lampent at level 32
+#### Type Changes
+A few type balancing changes have been introduced to the game. They are listed below:
 
-Eevee - 
-Now evolves into Leafeon if a leaf stone is used on it. Evolves into Glaceon if leveled up on Route 12
+- Fairy types now resist Dragon type moves rather than being immune to them
+- Steel types no longer resist Grass type moves
+- Ice types now resist Water type moves
+
+Some Pokemon have had their types changed either to benefit them, fit their theme better, or improve the type. For example, the Dragon type does not have many Pokemon that are not Legendary or Pseudo-Legendary. The list of changes are below and do not include Pokemon that changed to Fairy type in gen 6+ (those changes are also applied). Any new moves the Pokemon can learn from the type change are listed. Credits to Renegade Platinum for some of these.
+
+Name: Old Type(s) -> New Type(s): Any new moves
+
+Ninetales: Fire -> Fire/Fairy: Can now learn Dazzling Gleam via TM or Tutor
+
+Golduck: Water -> Water/Psychic
+
+Noctowl: Normal/Flying -> Psychic/Flying
+
+Ampharos: Electric -> Electric/Dragon: Can now learn Dragon Tail and Dragon Breath via TM or Tutor
+
+Dunsparce: Normal -> Normal/Dragon: Now learns Dragon Breath at level 51 instead of Flail, Can now learn Dragon Pulse via TM or Tutor
+
+Octillery: Water -> Water/Poison: Now learns Sludge at level 46 instead of Bullet Seed, Now learns Coil at level 40 instead of Ice Beam, Now learns Ice Beam at level 69
+
+Stantler: Normal -> Normal/Psychic
+
+Skitty: Normal -> Normal/Fairy
+
+Delcatty: Normal -> Normal/Fairy: Can now learn Dazzling Gleam via TM or Tutor
+
+Sceptile: Grass -> Grass/Dragon: Now learns Dual Chop at level 39 instead of Detect, Now learns Dragon Dance at level 69 instead of Screech, Can now learn Draco Meteor via tutor. Change to Screech applied to Grovyle.
+
+Volbeat: Bug -> Bug/Electric: Now learns Spark at level 12 instead of Quick Attack, Now learns Thunderbolt at level 59
+
+Illumise: Bug -> Bug/Electric: Now learns Spark at level 12 instead of Quick Attack, Now learns Thunderbolt at level 59
+
+Trapinch: Ground -> Bug/Ground: Now learns Struggle Bug at level 12 instead of Sand Tomb
+
+Vibrava: Ground/Dragon -> Bug/Dragon: Now learns Struggle Bug at level 12 instead of Sand Tomb, Now learns Signal Beam at level 1
+
+Flygon: Ground/Dragon -> Bug/Dragon: Now learns Struggle Bug at level 12 instead of Sand Tomb, Now learns Signal Beam at level 1, Now learns Steamroller at level 55
+
+Swablu: Normal/Flying -> Fairy/Flying: Now learns Charm at level 50
+
+Altaria: Dragon/Flying -> Dragon/Fairy: Now learns Charm at level 50, Moonblast pushed back to level 54, Sky Attack pushed back to level 60
+
+Zangoose: Normal -> Normal/Dark
+
+Seviper: Poison -> Poison/Dark
+
+Glalie: Ice -> Ice/Rock: Now learns Rock Slide at level 66, Can now learn Rock Slide, Rock Tomb, and Ancient Power via TM or Tutor
+
+Luvdisc: Water -> Water/Fairy: Now learns Disarming Voice at level 53
+
+Luxray: Electric -> Electric/Dark: Can now learn Payback and Taunt via TM or Tutor, Now learns Pursuit at level 1
+
+Lopunny: Normal -> Normal/Fighting
+
+Electivire: Electric -> Electric/Fighting: Now learns Arm Thrust at level 26 instead of Light Screen, Same change for Electabuzz
+
+Cresselia: Psychic -> Psychic/Fairy
+
+Serperior: Grass -> Grass/Dragon: Now learns Dragon Tail at level 70
+
+Pignite: Fire/Fighting -> Fire/Ground
+
+Emboar: Fire/Fighting -> Fire/Ground: Now learns Earthquake at level 70
+
+Cofagrigus: Ghost -> Ghost/Steel: Now learns Flash Cannon via TM or the move reminder, Now learns Gyro Ball at level 66 or via TM
+
+Gothorita: Psychic -> Psychic/Dark
+
+Gothitelle: Psychic -> Psychic/Dark
+
+Elgyem: Psychic -> Psychic/Steel
+
+Beheeyem: Psychic -> Psychic/Steel
+
+#### Stat and Ability Changes
+Some Pokemon have had their stats changed so that they are better to make them more viable. Stat changes will not be listed in this document as there are many small tweaks to many Pokemon. Some Pokemon have also had their abilities changed for various reasons and those changes will be listed below. Just know that if a Pokemon you normally do not consider strong that the AI has does well or a wild Pokemon you catch has better stats than expected, it could be because of the boosted stats. These boosts are subtle for the most part, with some Pokemon being boosted more than others. That said, Pokemon that are generally considered good (Gyarados, Flygon, Pseudo Legends, etc.) will still be better than most other Pokemon. More final stage evolutions have been brought to around the high 400 - low 500 base stat total mark. Keep this in mind when team building, and know that you can use different Pokemon more effectively if you wanted to.
+
+Ability Changes:
+
+- Raticate: Run Away/Guts -> Intimidate/Guts
+
+- Kangaskhan: Inner Focus -> Parental Bond (Hidden Ability)
+
+- Vileplume: Chlorophyll -> Leaf Guard
+
+- Mankey/Primeape: Vital Spirit/Anger Point -> Anger Point
+
+- Totodile/Croconaw/Feraligatr: Sheer Force -> Strong Jaw (Hidden Ability)
+
+- Azurill/Marill/Azumarill: Thick Fat/Huge Power -> Thick Fat/Sap Sipper
+
+- Azurill/Marill/Azumarill: Sap Sipper -> Huge Power (Hidden Ability)
+
+- Girafarig: Sap Sipper -> Justified (Hidden Ability)
+
+- Piceco/Forretress: Sturdy -> Sturdy/Bulletproof
+
+- Granbull: Intimidate/Quick Feet -> Intimidate/Defiant
+
+- Granbull: Rattled -> Strong Jaw (Hidden Ability)
+
+- Scizor: Light Metal -> Clear Body (Hidden Ability)
+
+- Sneasel: Inner Focus/Keen Eye -> Inner Focus/Sniper
+
+- Ursaring: Unnerve -> Hustle (Hidden Ability)
+
+- Houndour/Houndoom -> Early Bird/Flash Fire -> Strong Jaw/Flash Fire
+
+- Mightyena: Intimidate/Quick Feet -> Intimidate/Guts
+
+- Taillow/Swellow: Scrappy -> Gale Wings (Hidden Ability)
+
+- Skitty/Declcatty: Cute Charm/Normalize -> Cute Charm/Adaptability
+
+- Mawile: Hyper Cutter/Intimidate -> Hyper Cutter/Huge Power
+
+- Electrike: Minus -> Quick Feet (Hidden Ability)
+
+- Manectric: Minus -> Intimidate (Hidden Ability)
+
+- Carvanha/Sharpedo: Rough Skin -> Rough Skin/Strong Jaw
+
+- Corpish/Crawdaunt: Adaptability -> Hustle (Hidden Ability)
+
+- Swablu/Altaria: Natural Cure -> Natural Cure/Pixelate
+
+- Absol: Removed Hidden Ability
+
+- Glalie: Inner Focus/Ice Body -> Refrigerate/Ice Body
+
+- Luvdisc: Swift Swim -> Swift Swim/Pixelate
+
+- Bidoof/Bibarel: Moody -> Filter (Hidden Ability)
+
+- Kricketune: Swarm -> Own Tempo
+
+- Gastrodon: Sand Force -> Water Absorb (Hidden Ability)
+
+- Rotom: Gained Hidden Ability Lightning Rod
+
+- Regigigas: Slow Start only lasts for 3 turns as opposed to 5 (Speed is now 90 instead of 100)
+
+- Darkrai/Cresselia: Now have a base stat total of 620 as opposed to 600
+
+- Herdier/Stoutland: Intimidate/Sand Rush -> Intimidate/Frisk
+
+- Leavanny: Overcoat -> Serence Grace (Hidden Ability)
+
+- Archen/Archeops: Defeatist -> Sheer Force (Base stats reduced by 50 points for both to balance)
+
+- Garbador: Stench/Weak Armor -> Stench/Poison Point
+
+- Gothita/Gothorita/Gothitelle: Frisk/Competitive -> Prankster/Competitive
+
+- Escavalier: Swarm/Shell Armor -> Bulletproof/Shell Armor
+
+- Klang/Klinklang: Plus/Minus -> Technician
+
+- Durant: Truant -> Compound Eyes (Hidden Ability)
 
 ### New Butcher Mechanic
 People need to eat in the Pokemon world. Butcher houses provide food to people and will take Pokemon trainers catch and give them money.
-
-It is undecided whether actual meat items will be obtainable by the player when they give a Pokemon to the butcher.
 
 The amount of money given to a player is dependent on the Pokemon's type.
 - There are 4 Tiers, With tier 0 being least valuable and tier 3 being the most valuable
     - Tier 0: Rock, Steel, Poison, Ghost
     - Tier 1: Electric, Ground, Psychic, Ice, and Dark
-    - Tier 2: Normal, Dragon, Bug, and Fighting
+    - Tier 2: Normal, Dragon, Bug, Fairy, and Fighting
     - Tier 3: Flying, Water, Fire, and Grass
 
 - The only pure Flying Type is Tornadus and it is not able to be sold anyway so the price will not be impacted by Flying type. But in order to prevent any possible errors it is listed under Tier 3.
@@ -250,14 +355,125 @@ The amount of money given to a player is dependent on the Pokemon's type.
 - You cannot sell Pokemon until you have 2 Gym Badges
 - You obviously cannot sell a Pokemon if it is the only one in your party
 - You cannot sell Eggs as this is a butcher not a diner
-- The money you will recieve is as follows:
-	- Tier 0: Will not buy
-	- Tier 1: $500 + An amount equal to the Pokemon's height in centimeters
-	- Tier 2: $750 + An amount equal to the Pokemon's height in centimeters
-	- Tier 3: $1000 + An amount equal to the Pokemon's height in centimeters
 - The use of height over weight is stemmed from the fact that I could not find where a Pokemon's weight is stored in the code, and I am not going to manually insert a weight mechanic. The height will be used unless I find a way to access a Pokemon's weight.
 - You cannot sell Legendaries, Mythicals, or Ditto
 - Prices may be updated in the future for balancing, and might introduce a more complex formula for calculating how much money you will get. 
+
+### Move Changes
+Some moves have had their power, accuracy, and/or PP changed. All moves have the same type as normal except for Rock Climb which is now a Rock type move rather than a Normal type move. The effects of moves have not changed. Assume moves have the power, accuracy, and PP that they have in generation 6 unless otherwise listed below.
+
+Changes:
+
+Rock Climb: Accuracy 85 -> 90
+
+U-Turn: Power 70 -> 75
+
+Twineedle: Power 25 -> 35
+
+Tail Glow: PP 20 -> 15
+
+Brutal Swing: Power 60 -> 80 | PP 20 -> 15
+
+Draco Meteor: Power 130 -> 140
+
+Roar of Time: Accuracy 90 -> 95
+
+Thunder/Fire Blast/Blizzard: Power 110 -> 120
+
+Zap Cannon: Power 120 -> 125
+
+Thunderbolt/Flamethrower/Ice Beam: Power 90 -> 95
+
+Wild Charge: Power 90 -> 100
+
+Spark: Power 65 -> 60
+
+Moonblast: PP 15 -> 10
+
+Dazzling Gleam: PP 10 -> 15
+
+Disarming Voice: Power 40 -> 50
+
+Fairy Wind: Power 40 -> 60 | PP 30 -> 20
+
+Sky Uppercut: Accuracy 90 -> 95
+
+Submission: Accuracy 80 -> 90
+
+Drain Punch: Power 75 -> 65
+
+Rock Smash: Power 40 -> 60
+
+Arm Thrust: Power 15 -> 20
+
+Overheat: Power 130 -> 140
+
+Heatwave: Accuracy 90 -> 95
+
+Fly: Accuracy 95 -> 100
+
+Giga Drain: Power 75 -> 65 | PP 10 -> 15
+
+Bone Club: Accuracy 85 -> 95
+
+Icicle Crash: Accuracy 90 -> 100
+
+Glaciate: Accuracy 95 -> 100
+
+Aurora Beam: Power 65 -> 75
+
+Egg Bomb: PP 10 -> 15
+
+Judgment: Power 100 -> 120
+
+Strength: Power 80 -> 90
+
+Vice Grip: Power 55 -> 65 | PP 30 -> 20
+
+Cut: Power 50 -> 60 | Accuracy 95 -> 100 | PP 30 -> 20
+
+Feint: PP 10 -> 20
+
+Glare: PP 20 -> 30
+
+Weather Ball: Power 50 -> 65
+
+Minimize: PP 10 -> 5
+
+Gunk Shot: Accuracy 80 -> 85
+
+Cross Poison: Power 70 -> 75 | PP 20 -> 15
+
+Sludge: Power 65 -> 70
+
+Poison Fang: Power 50 -> 65 | Accuracy 100 -> 95
+
+Synchronoise: Power 120 -> 130
+
+Luster Purge: Power 70 -> 80 | PP 5 -> 10
+
+Mist Ball: Power 70 -> 80 | PP 5 -> 10
+
+Head Smash: Accuracy 80 -> 90
+
+Rock Slide: Accuracy 90 -> 95
+
+Rock Tomb: Power 60 -> 65 | Accuracy 95 -> 100
+
+Rock Throw: Accuracy 90 -> 95 | PP 15 -> 25
+
+Meteor Mash: Power 90 -> 100
+
+Iron Tail: Accuracy 75 -> 80
+
+Mirror Shot: Accuracy 85 -> 95
+
+Hydro Pump: Power 110 -> 120 | Accuracy 80 -> 85
+
+Muddy Water: Accuracy 85 -> 95
+
+Octazooka: PP 10 -> 20
+
 
 ### New Custom Legendary: Galandart
 The name Galandart is the name given to the sprite by the original creator on DeviantArt
@@ -277,7 +493,7 @@ Since the battle mechanics are that of gen 5, both of Ghost type's weaknesses ar
 - Effort Points: 2 Defense, 1 Special Defense
 - Catch Rate: 3 (1.6% with Pokeball on full HP, same as other legendaries)
 - Custom Battle Theme (Tokyo Ghoul - Licht und Schetten) -> https://www.youtube.com/watch?v=3S1NmtWDVYk
-    - No, I have not seen Tokyo Ghoul, but rather just found the song. If you know how to watch it please let me know :)
+    - Highly reccommend Tokyo Ghoul (havn't seen 3rd season yet)
 
 #### Base Stats
 - HP: 110
@@ -295,16 +511,15 @@ level - move name
 - 1 - Night Shade
 - 1 - Gyro Ball
 - 1 - Shadow Ball
-- 1 - Cosmic Power
 - 10 - Flash Cannon
 - 20 - Iron Defense
-- 30 - Ancient Power
-- 40 - Destiny Bond
+- 30 - Flame Charge
+- 40 - Scary Face
 - 50 - Spiritual Gaze (Custom)
 - 50 - Rushing Lance (Custom)
 - 60 - Feint Attack
-- 70 - Scary Face
-- 80 - Heatwave
+- 70 - Ancient Power
+- 80 - Curse
 - 90 - Mirror Coat
 - 100 - Iron Head
 - 100 - Spiritual Gaze (Custom)
@@ -342,56 +557,41 @@ Items that changes move type are different "Lances". The tpyes available are Fir
 ### Spirit Pokemon
 Keeping with the theme of the game so far, Spirit Pokemon will be wild encounters of past Pokemon used in previous Human wars. After all, why would humans fight each other if they can train much more poweful creatures to attack at their command (I hope this is giving an idea as to the main storyline/theme of the game). Spirit Pokemon will be uncatchable, and will not appear in the Pokedex since they are just spirit versions of already existing Pokemon. Their sprite will be grayscale, and other than that will be the same as the non-spirit form of the Pokemon.
 
-All Spirit Pokemon will have the ability Levitate, and will have base stats equal to their non-spirit form with each individual stat boosted by 10. The EV's dropped from battle will therefore be the same as their non-spirit form. The typing of Spirit Pokemon will be a dual typing of Ghost and the/one of the type(s) that the Pokemon's non-spirit form is.
-
 The moveset of all Spirit Pokemon will follow the following formula:
-- Move 1: Night Shade
+- Move 1: Shadow Ball
 - Move 2: Spiritual Gaze (custom move, same as Galandart)
 - Move 3: Move that the non-spirit form of the Pokemon knows, normally matching the non-Ghost typing of the Spirit Pokemon but not always
 - Move 4: Other move the non-spirit form of the Pokemon knows
 
-I will not be revealing the exact move 3 and 4 for any of the Spirit Pokemon, you should use knowledge of the non-spirit form of the Pokemon to guess what moves the Spirit Pokemon will have at it's disposal. Spirit Pokemon can only learn these four moves, so if you figure out the moveset of a particular Spirit Pokemon then you know the moveset of every Spirit Pokemon of that kind. 
+I will not be revealing the exact move 3 and 4 for any of the Spirit Pokemon, you should use knowledge of the non-spirit form of the Pokemon to guess what moves the Spirit Pokemon will have at it's disposal. Spirit Pokemon can only learn these four moves, so if you figure out the moveset of a particular Spirit Pokemon then you know the moveset of every Spirit Pokemon of that kind. Each Spirit Pokemon will have the ability Spirit Guard (custom) which halves damage from Ghost and Dark type moves and makes it impossible to flee from battle (works the same as Shadow Tag so technically possible).
 
-The type of Spiritual Gaze for each Spirit Pokemon will change depending on what Pokemon it is. Since an Eye needs to be held by a Pokemon to change the type of this move, if the move is not Ghost type then the wild Spirit Pokemon is holding an Eye to change the move's type. The only way to obtain eyes in this game will be via stealing them from these Spirit Pokemon, but remember that you cannot catch them. This is the current plan for obtaining Eyes, and it could change. Note that the Flying type Eye is not in the list below, so that will be available to the player through some other method.
+The type of Spiritual Gaze for each Spirit Pokemon will change depending on what Pokemon it is. Since an Eye needs to be held by a Pokemon to change the type of this move, if the move is not Ghost type then the wild Spirit Pokemon is holding an Eye to change the move's type. The only way to obtain eyes in this game will be via stealing them from these Spirit Pokemon, but remember that you cannot catch them. This is the current plan for obtaining Eyes, and it could change.
 
-The list of Pokemon that can appear in Spirit Form is shown below. These Pokemon will not appear until later into the playthrough (when you are level 35-40 or something). I will disclose the type that each Pokemon's Spiritual Gaze will be, so you can hunt for a particular Eye if you want.
-- Pokemon (type1/type2) type that Spiritual Gaze will be
-- Pikachu (Electric/Ghost) Ghost
-- Nidoking (Poison/Ghost) Psychic
-- Nidoqueen (Poison/Ghost) Psychic
-- Machoke (Fighting/Ghost) Ghost
-- Machamp (Fighting/Ghost) Ghost
-- Poliwrath (Water/Ghost) Water
-- Arcanine (Fire/Ghost) Fire
-- Pinsir (Bug/Ghost) Bug
-- Houndoom (Dark/Ghost) Dark
-- Makuhita (Fighting/Ghost) Ghost
-- Hariyama (Fighting/Ghost) Ghost
-- Rhydon (Ground/Ghost) Ghost
-- Ramparados (Rock/Ghost) Dark
-- Lucario (Fighting/Ghost) Dark
-- Gabite (Dragon/Ghost) Fire
-- Croagunk (Poison/Ghost) Psychic
-- Toxicroak (Poison/Ghost) Psychic
-- Abomasnow (Grass/Ghost) Grass
-- Darmanitan (Fire/Ghost) Fire
-- Escavalier (Bug/Ghost) Bug
-- Beartic (Ice/Ghost) Water
+The list of Pokemon that can appear in Spirit Form is shown below. These Pokemon will not appear until later into the playthrough (when you are level 35-40+ or something). I will disclose the type that each Pokemon's Spiritual Gaze will be, so you can hunt for a particular Eye if you want. 
 
-The spawn rates for each Spirit Pokemon individually has not been decided, but assume it will be relatively equal between all of them. They will only appear in certain places in the game, so you should not be caught off guard by randomly encountering one in the wild (it will be obvious where they can be found)
+- Pokemon (type1/type2) (type that Spiritual Gaze will be)
+- Pidgeot (Ghost/Flying) Flying
+- Primeape (Ghost/Fighting) Dark
+- Arcanine (Ghost/Fire) Fire
+- Poliwrath (Ghost/Water) Water
+- Machamp (Ghost/Fighting) Ghost
+- Pinsir (Ghost/Bug) Bug
+- Ampharos (Ghost/Electric) Ghost
+- Scizor (Ghost/Steel) Bug
+- Ursaring (Ghost/Normal) Grass
+- Houndoom (Ghost/Fire) Fire
+- Tyranitar (Ghost/Dark) Dark
+- Breloom (Ghost/Grass) Grass
+- Salamence (Ghost/Dragon) Fire
+- Staraptor (Ghost/Flying) Flying
+- Lucario (Ghost/Fighting) Psychic
+- Gallade (Ghost/Psychic) Psychic
+- Watchog (Ghost/Normal) Ghost
+- Escavalier (Ghost/Steel) Bug
+- Beartic (Ghost/Ice) Water
+- Bisharp (Ghost/Dark) Dark
 
-More spirit Pokemon may be added in the future
-
-### Honey Trees
-As mentioned previously, the honey tree mechanic from Diamond, Pearl, and Platinum will be in this game, but with no delay between applying the honey and getting an encounter. The honey trees will have the same look as they did in gen 4, so they should be easy to find as they are also located in many places. The method for obtaining honey is not exactly decided, but it will probably just be found as an item and able to be bought from somewhere.
-
-There are two ways I could implement the honey tree mechanic, the first being similar to normal wild encounters and having about 7-10 possible encounters per honey tree with encounter rates ranging from 1-20 percent. The second way would be to execute a Honey Tree script when the player slathers honey on a tree, and pass in either a set or random list of Pokemon to the script for it to choose an encounter at random. 
-
-Method 1 would mean that the encounters are like normal encounters and thus more predictable in terms of how many Pokemon will be in the tree, even though one Pokemon can take up more than one percentage value (for example, one Pokemon listed under a 20% encounter rate and a 5% encounter rate has a 25% encounter rate). This is the method used in gen 4 and in essentially almost every other non-static Pokemon encounter, so it would be what the player is used to.
-
-Method 2 would mean that encounters are actually treated like events rather than normal encounters. This doesn't really impact gameplay as much as the programming, but it would also give me more control over what the encounters look like. I could have a honey tree with two possible encounters, or a honey tree with 100 possible encounters. It would also allow me to change the encounter level and Pokemon of each honey tree as the player progresses through the game, since I could pass different values into the script depending on things like the players average Pokemon level and number of Gym Badges. 
-
-Let me know which way you would prefer if you have a preference, and if seeing variability in Honey Trees is something that you would like. Currently, I do not know which way I want to implement honey trees, but the script method would work similar to Wonder Trade and is something I could probably do without too much effort other than finding variable names. The first method I do not know how to do off the top of my head, and would need to look it up online, but I may also need to learn it anyway for Snow tile encounters on Route 12. 
+The spawn rates for each Spirit Pokemon individually has not been decided, but assume it will be relatively equal between all of them. They will only appear in certain places in the game, so you should not be caught off guard by randomly encountering one in the wild (it will be obvious where they can be found).
 
 ### WonderTrade
 The WonderTrade feature will work similar to WonderTrade in previous Pokemon games, but with no online functionality. Essentially, you choose a Pokemon you want to trade and recieve a random Pokemon in return. Credits for the WonderTrade script are in the Game Credits text file.
@@ -405,17 +605,4 @@ The WonderTrade feature will work similar to WonderTrade in previous Pokemon gam
     - Hard to get Pokemon essentially go through two RNG checks. A Pokemon is chosen at random to be received, but if that Pokemon is in the hard to get list, then there is only a 20% chance that the game will go through with giving you that Pokemon. If it does not go through with giving you that Pokemon, then a new Pokemon is chosen at random (this Pokemon may also be in the hard to get list). This list will gernerally be reserved for pseudo-legendaries, and other strong third evolution Pokemon that should not be received often. 
     - The only Pokemon you cannot trade away are Galandart, Arceus, and Mew
 
-As you progress through the game, the rules for WonderTrade will change. Note that while it is not listed, you can never receive Legendaries or Mythicals from WonderTrade (as stated above).
-- After the 5th Gym:
-    - WonderTrade unlocked
-    - Cannot receive any pseudolegendaries, pseudo legendary second pre-evolutions (mid stage), starters, starter evolutions, fossil Pokemon, Ditto, Rotom
-    - Will cost money (amount undecided)
-    - Might be a limit on the number you can do until you get stronger. Not yet implemented, but this mechanic is not supposed to be used too much before post game
-- After the Elite 4 and Champion have been beaten once: WonderTrade will become permanantly free, you still cannot receive Ditto, Rotom, or any Kanto Starters since those are the starters used in the game as starter Pokemon
-- After the Elite 4 and Chamption have been beaten twice and the Sinnoh Elite 4 and Champion have been beaten: You still cannot receive Ditto or Rotom
-- After Red has been beaten, and a few other events/storylines have occured: You can obtain Ditto and Rotom from Wondertrade (albeit on the hard to get list)
-
-## Conclusion
-This write up is given to provide information about new/changed mechanics, not storyline information. There is an NPC in the beta/test version of the game that provides the ability to listen to battle music, and explains a few other things. The first release, if it has not been released yet, will be an exploration release where the main objective is for a few players to get access to the map and explore it and give feedback on design before I start implementing gameplay. If you have any suggestions, even if the map exploration is not out yet, please feel free to let me know and I will make note of them and maybe implement them in the future. 
-
-Since I am in college, schoolwork will be a priority over completing this game. I do not have much free time, so the design process is slow. 
+Wondertrade will be unlocked after beating the Elite 4 as it is supposed to be a post game mechanic to fill out the Pokedex and get stronger for the harder post game battles. As certain events are completed in the post game, more features of Wondertrade will be unlocked and more Pokemon will become available.

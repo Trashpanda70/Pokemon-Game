@@ -1,1 +1,28 @@
-﻿
+﻿#-------------------------------
+[033] # Riverside Town
+OldRod
+    80,MAGIKARP,3,5
+    20,MAGIKARP,4,8
+GoodRod
+    70,MAGIKARP,8,10
+    30,GOLDEEN,7,12
+SuperRod
+    75,MAGIKARP,12,18
+    20,GOLDEEN,15,20
+    5,POLIWAG,14,20
+#-------------------------------
+[077] # Route 1
+Land,21
+    40,BIDOOF,2,3
+    25,PIDGEY,2,4
+    25,LILLIPUP,2,4
+    8,SENTRET,2,4
+    2,BIDOOF,4,4
+LandNight,21
+    40,BIDOOF,2,3
+    30,HOOTHOOT,2,4
+    25,LILLIPUP,2,4
+    4,POOCHYENA,2,3
+    1,BIDOOF,4,5
+#-------------------------------
+    

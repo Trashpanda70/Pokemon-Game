@@ -20,16 +20,43 @@ Weather = Sun,3
 Environment = ForestGrass
 #-------------------------------
 [007]
-# Heavenly Pillar Top
+# Heavenly Pillar Peak
 Outdoor = true
 ShowArea = false
 Bicycle = false
+#-------------------------------
+[010]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
 #-------------------------------
 [018]
 # Heavenly Pillar Outside
 Outdoor = true
 ShowArea = false
 Bicycle = true
+#-------------------------------
+[019]
+# Route 7 Cave
+Outdoor = false
+ShowArea = false
+Bicycle = true
+#-------------------------------
+[024]
+# Route 146
+Outdoor = true
+ShowArea = true
+Bicycle = true
+DiveMap = 25
+#-------------------------------
+[026]
+# Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = false
+Weather = Blizzard,100
 #-------------------------------
 [033]
 # Riverside Town
@@ -188,7 +215,7 @@ Bicycle = true
 Outdoor = true
 ShowArea = true
 Bicycle = false
-Weather = Blizzard,100
+Weather = Snow,100
 #-------------------------------
 [122]
 # Zenit City
@@ -218,7 +245,7 @@ Weather = Fog,40
 DiveMap = 130
 #-------------------------------
 [131]
-# Route 7
+# Route 19
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -235,7 +262,7 @@ ShowArea = true
 Bicycle = true
 #-------------------------------
 [135]
-# Route 14
+# Route 20
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -339,7 +366,6 @@ ShowArea = true
 Bicycle = true
 #-------------------------------
 [194]
-# Heavenly Pillar Outside
 Outdoor = true
 ShowArea = true
 Bicycle = true
