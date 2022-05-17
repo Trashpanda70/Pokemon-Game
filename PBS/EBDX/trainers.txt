@@ -100,6 +100,9 @@ BattleIntro 	 = rainbowIntro
 [POKEMONTRAINER_Silver]
 SpriteScale = 1
 #-------------------------------
+[POKEMONTRAINER_Barry]
+SpriteScale = 1
+#-------------------------------
 [PLASMAGRUNT]
 SpriteScale = 2
 #-------------------------------
@@ -185,6 +188,9 @@ SpriteScale	 = 2
 SpriteScale	 = 2
 #-------------------------------
 [GANGMEMBER3]
+SpriteScale	 = 1
+#-------------------------------
+[JOGGER]
 SpriteScale	 = 1
 #-------------------------------
 [STRIPPER]

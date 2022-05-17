@@ -89,6 +89,8 @@ Sprites:
 - Battle Sprite for Toyotomi (Samauri): duncapham (Deviant Art)
 - Team Plasma Grunt battle sprite: Barubary (Spriters Resource)
 - Eevee Girl battle/overworld sprite: UlithiumDragon (Deviant Art)
+- Barry battle sprite: redblueyellow (Spriters Resource)
+- Gang Member 2 and Rich Girl Sprites: Lolw3e932 (Deviant Art)
 ------------------------------------------------------------------------------
 Scripts:
 - Wondertrade Script: Black Eternity and Mej71 (PokeCommunity.com)
