@@ -34,3 +34,40 @@ Pokemon = CHARMANDER,5
 LoseText = "Cheater"
 Pokemon = SQUIRTLE,5
 #-------------------------------
+[YOUNGSTER,Joey]
+LoseText = "Why did you have to beat me?"
+Pokemon = BIDOOF,4
+    AbilityIndex = 0
+#-------------------------------
+[LASS,Jane]
+LoseText = "I was just trying to spook you silly!"
+Pokemon = PIDGEY,3 
+Pokemon = LILLIPUP,4
+#-------------------------------
+[YOUNGSTER,Timmy]
+LoseText = "I guess you don't want me to steal your stuff."
+Pokemon = PIDGEY,3
+Pokemon = SHINX,5
+    Ball = ULTRABALL
+#-------------------------------
+[LASS,Emma]
+LoseText = "Good fight Mr. Trainer Man."
+Pokemon = LILLIPUP,8
+#-------------------------------
+[LADY,Amanda]
+LoseText = "That was a fun battle!"
+Pokemon = BUNEARY,5
+#-------------------------------
+[YOUNGSTER,Tristan]
+LoseText = "One day I'll be as big as you are!"
+Pokemon = MAGIKARP,5
+Pokemon = BIDOOF,5
+    AbilityIndex = 2
+Pokemon = BIDOOF,4
+    AbilityIndex = 2
+#-------------------------------
+[LASS,Olivia]
+LoseText = "Oh you're no ghost, just a gamer outside!"
+Pokemon = HOOTHOOT,4
+Pokemon = PIDGEY,6
+#-------------------------------

@@ -95,4 +95,6 @@ Sprites:
 Scripts:
 - Wondertrade Script: Black Eternity and Mej71 (PokeCommunity.com)
 - Rock Climb: Ulithium_Dragon and DarrylBD99 (Relic Castle)
+- Looping Trainer Intro Music: Boonzeet and DarrylBD99 (Relic Castle)]
+- Speed Up Switch: Marin and Phantombass (Relic Castle)
 ------------------------------------------------------------------------------

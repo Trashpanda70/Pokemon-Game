@@ -1,5 +1,8 @@
 ﻿#-------------------------------
 [033] # Riverside Town
+Water
+    70,MAGIKARP,8,10
+    30,GOLDEEN,7,12
 OldRod
     80,MAGIKARP,3,5
     20,MAGIKARP,4,8
@@ -23,7 +26,32 @@ LandNight,21
     30,HOOTHOOT,2,4
     25,LILLIPUP,2,4
     4,LILLIPUP,2,3
-    1,BIDOOF,4,5
+    1,BIDOOF,4,4
+#-------------------------------
+[080] # Route 2
+Land,21
+    30,BIDOOF,3,4
+    20,SHINX,3,5
+    20,LILLIPUP,3,4
+    15,PIDGEY,3,5
+    10,BIDOOF,4,5
+    5,PIDGEY,5,6
+LandNight,21
+    40,BIDOOF,3,4
+    20,POOCHYENA,2,4
+    20,LILLIPUP,3,4
+    15,HOOTHOOT,2,4
+    5,BIDOOF,5,5
+    5,SHINX,4,5
+    5,PIDGEY,3,6
+OldRod
+    80,MAGIKARP,2,4
+    20,MAGIKARP,4,6
+GoodRod
+    100,MAGIKARP,8,12
+SuperRod
+    90,MAGIKARP,12,18
+    10,MAGIKARP,17,22
 #-------------------------------
 [083] # Route 3
 HoneyTree

@@ -96,7 +96,7 @@
 93,LEADER_Winston,Gym Leader,100,Battle Gym Leader,Victory Gym Leader,,Male,,
 94,LEADER_Danny,Gym Leader,100,Battle Gym Leader,Victory Gym Leader,,Male,,
 95,LEADER_Walter,Gym Leader,100,Battle Gym Leader,Victory Gym Leader,,Male,,
-96,LEADER_Marlon,Gym Leader,100,Battle Gym Leader,Victory Gym Leader,,Male,,
+96,LEADER_Summer,Gym Leader,100,Battle Gym Leader,Victory Gym Leader,,Female,,
 97,LEADER_Alder,Gym Leader,100,Battle Gym Leader,Victory Gym Leader,,Male,,
 99,ELITEFOUR_Kelly,Elite Four,100,Battle Elite,Victory Elite,Prebattle Elite,Female,120,
 98,ELITEFOUR_Madison,Elite Four,100,Battle Elite,Victory Elite,Prebattle Elite,Female,120,
@@ -134,3 +134,4 @@
 131,RICHGIRL,Rich Girl,100,,,Intro_Veteran,Female,60,
 132,RICHBOY,Rich Boy,100,,,Intro_Veteran,Male,60,
 133,POKEMONTRAINER_Barry,Pokémon Trainer,85,,,,Male,100,
+134,CLOWN,Clown,32,,,Intro_Juggler,Male,,

@@ -1,4 +1,4 @@
-{F"RIVAL1{I"__pk__:ET{"SpriteScale[i"BattleVS["specialSM"BattleIntro["rainbowIntro"RIVAL2{@{@
+{G"RIVAL1{I"__pk__:ET{"SpriteScale[i"BattleVS["specialSM"BattleIntro["rainbowIntro"RIVAL2{@{@
 [i@["specialSM@["rainbowIntro"RIVAL3{@{@
 [i@["specialSM@["rainbowIntro"LEADER_Brock{@{"TrainerPositionX[ió@["integratedVS"BattleScript["
 BROCK"LEADER_Mary{@{@
@@ -7,8 +7,8 @@ BROCK"LEADER_Mary{@{@
 [i"LEADER_Winston{@{@
 [i"LEADER_Danny{@{@
 [i"LEADER_Walter{@{@
-[i"LEADER_Marlon{@{@
-[i"LEADER_Alder{@{@
+[i"LEADER_Summer{@{@
+[i"LEADER_Alder{@{@
 [i"LEADER_Kelly{@{@
 [i"ELITEFOUR_Rayssa{@{@
 [i"ELITEFOUR_Aaron{@{@
@@ -65,4 +65,6 @@ THIEF{@{@
 [i"FISHERMAN{@{@
 [i"
 TWINS{@{@
-[i
+[i"
+CLOWN{@{@
+[i

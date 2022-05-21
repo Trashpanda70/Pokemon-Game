@@ -37,8 +37,8 @@ SpriteScale	 = 1
 [LEADER_Walter]
 SpriteScale	 = 2
 #-------------------------------
-[LEADER_Marlon]
-SpriteScale	 = 2
+[LEADER_Summer]
+SpriteScale	 = 1
 #-------------------------------
 [LEADER_Alder]
 SpriteScale	 = 2
@@ -225,4 +225,7 @@ SpriteScale	 = 2
 #-------------------------------
 [TWINS]
 SpriteScale	 = 2
+#-------------------------------
+[CLOWN]
+SpriteScale	 = 1
 #-------------------------------
