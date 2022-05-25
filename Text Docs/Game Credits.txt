@@ -19,22 +19,22 @@ Starter package that made the project possible
 ------------------------------------------------------------------------------
 Tutorials: Thundaga (Youtube)
 ------------------------------------------------------------------------------
-Music:
+Music: (Redo)s
 - Most Music: khinsider.com
-- Darkrai, Celebi, Latios/Latias, and more battle themes: Lala19357 - The Zephyr (Youtube) (List other battle themes)
+- Darkrai, Celebi (Maybe), Latios/Latias, and more battle themes: Lala19357 - The Zephyr (Youtube) (Get music officially and refactor)
 - Vladamir Battle Music: Owen Dennis (OG composer) | Ruisu River (Remix)
-- Dark Cynthia Theme: hnturs12 (Youtube)
-- Battle Colosseum Final Theme: Freedom Dive by xi
-- Cyrus Battle Theme remix and Shadow Triad Intro: Zame (Youtube)
+- Dark Cynthia Theme: Make Cynthia Theme play at lower pitch (like at 90%)
+- Battle Colosseum Final Theme: Freedom Dive by xi (replace with something else)
+- Cyrus Battle Theme remix and Shadow Triad Intro: Zame (Youtube) (Also "The Zame" on Spotify)
 - Snowpoint City remaster: Zame and Pokestir on youtube (not used yet)
-- Champion Battle Theme: VanilluxePavilion (Youtube)
-- Russia Grunt Theme: EternalSushi, ElectricMudkip, and Kamex (Youtube)
-- Russian Admin Theme: EternalSushi and emdasche (Youtube)
-- Galandart Battle Theme: Licht und Schatten by Yutaka Yamada
+- Champion Battle Theme: VanilluxePavilion (Youtube [Also mention it's their Soundcloud])
+- Russia Grunt Theme: EternalSushi, ElectricMudkip, and Kamex (Youtube) From Pokemon Azurite Soundtrack
+- Russian Admin Theme: EternalSushi and emdasche (Youtube) From Pokemon Azurite Soundtrack
+- Galandart Battle Theme: Licht und Schatten by Yutaka Yamada (might want to change idk)
 - Deoxys Battle Theme: Get credits for Carter's song
 - Pallet Cave Background Music: Get credits for Carter's song 
-- Developer Friends Battle Theme: Retro Tune by Magnus Pålsson (Spotify / Youtube)
-- Intro Music: From Whale Island by Yoshihisa Hirano
+- Developer Friends Battle Theme: Retro Tune by Magnus Pålsson (Spotify / Youtube) (Either buy at https://magnuspalsson.com/salbum or replace)
+- Intro Music: From Whale Island by Yoshihisa Hirano (replace)
 - Rayquaza Summoning Song: Leliana's Dance by Inon Zur
 - The Guardian's Gateway (Spirit Dimension): Mist In The Mire (Unravel Soundtrack) by Henrik Oja and Frida Johansson
 ------------------------------------------------------------------------------
@@ -82,7 +82,7 @@ Sprites:
 - Burglar Overworld Sprite: sphericalice (Deviant Art)
 - Cyclist Overworld Sprites: Teraneck (Deviant Art)
 - Overworld Sprites for Doyen Trainers: Mashirosakura (Relic Castle)
-- Zinnia Tent: RBRNNova (Deviant Art)
+- Zinnia Tent: RBRNNova (Deviant Art) (Did not use)
 - Heavenly Pillar Top Map: Clara-Dragon (Deviant Art)
 - Fortree City tree houses: TheDeadHeroAlistair (Deviant Art)
 - Battle Sprites including Alder and Sinoh E4: TsubasaHolics (Deviant Art)
@@ -97,4 +97,5 @@ Scripts:
 - Rock Climb: Ulithium_Dragon and DarrylBD99 (Relic Castle)
 - Looping Trainer Intro Music: Boonzeet and DarrylBD99 (Relic Castle)]
 - Speed Up Switch: Marin and Phantombass (Relic Castle)
+- Ideas and code used to update battle AI: Not Important (PokeCommunity.com)
 ------------------------------------------------------------------------------

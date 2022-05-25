@@ -12,7 +12,7 @@ If I do not want to add your idea it's most likely because it would be too much 
 ## To-Do List
 
 ### Known Bugs and Issues
-- Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience
+- Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience. NOTE: Make Galandart a one time boss battle, have Hoopa catchable instead. Need to add Hoopa.
 - Spirit Pokemon are catchable when they should not be
 - Spirit Pokemon appear on the National Pokedex when they should not
 - Some background music and sound effects are louder than others
@@ -22,10 +22,11 @@ If I do not want to add your idea it's most likely because it would be too much 
 
 ### Features Not Yet Implemented
 - Berry plants
-- Create a GIF to show at the start of the intro to flow with the music better
-- Give custom music themes to Mewtwo and Landorus
+- Hoopa (Make it learn Spiritual Gaze)
+- Make Galandart boss battle have a random spear for Rushing Lance (include no spear as an option)
+- Create a GIF to show at the start of the intro to flow with the music better or change intro song
+- Give custom music themes to Mewtwo and Landorus (might not happen)
 - Create move animations for custom moves
-- Honey Tree encounter mechanic
 - Drone item to replace Fly HM, I am struggling to figure out this one and it might not be implemented but is something I want to add
 - A regional Pokedex (might not get added)
 - Certain small caves or rooms in other caves that legendary Pokemon appear in
@@ -478,6 +479,8 @@ Octazooka: PP 10 -> 20
 ### New Custom Legendary: Galandart
 The name Galandart is the name given to the sprite by the original creator on DeviantArt
 
+NOTE: It is currently planned for Galandart to be a "boss battle" and not be obtainable by the player. That said this could be easily changed at the expense of not having a good graphic for Galandart. Any talk about using Galandart in battle is theoretical for if it was to be used by the player. 
+
 Galandart is essentially the "cover legendary" of the game, and represents the souls/spirits of Pokemon from the past
 
 All battles that ban the use of Pokemon with base stats over 600 will allow the use of Galandart even though its base stat total is above 600. This is to not discourage the player from using the custom Pokemon on their team. The only exceptions to this rule are battles in the Battle Colosseum. The information about the Pokemon is listed below:
@@ -485,9 +488,6 @@ All battles that ban the use of Pokemon with base stats over 600 will allow the 
 #### Info
 - Type: Ghost/Steel
 - Ability: Pressure
-
-Since the battle mechanics are that of gen 5, both of Ghost type's weaknesses are negated by Steel, and Steel's fighting weakness is eliminated by the Ghost type, making this type combination very powerful and only weak to fire and ground (unless type matchups are changed).
-
 - Gender: Genderless
 - Growth Rate: Slow
 - Effort Points: 2 Defense, 1 Special Defense
