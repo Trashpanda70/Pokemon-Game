@@ -1,5 +1,27 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[ACETRAINER_F,James]
+LoseText = "ok"
+Pokemon = STARLY,40
+#-------------------------------
+[DOYEN_M,A]
+Items = FULLRESTORE,MAXPOTION,FULLHEAL
+LoseText = "k"
+Pokemon = MILOTIC,40
+	AbilityIndex = 0
+	Moves = SCALD,EARTHQUAKE,SHADOWBALL,RECOVER
+	Item = FLAMEORB
+Pokemon = SNORLAX,40
+	Moves = REST,SLEEPTALK,SLASH
+#-------------------------------
+[ELITEFOUR_Rayssa,B]
+Items = FULLRESTORE,MAXPOTION,BURNHEAL,FULLHEAL
+LoseText = "k"
+Pokemon = MILOTIC,40
+	AbilityIndex = 0
+	Moves = SCALD,EARTHQUAKE,SHADOWBALL,RECOVER
+	Item = FLAMEORB
+#-------------------------------
 [TRAINER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = "Very good."
@@ -17,10 +39,6 @@ Pokemon = ONIX,14
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
     Ball = HEAVYBALL
-#-------------------------------
-[ACETRAINER_F,James]
-LoseText = "ok"
-Pokemon = STARLY,40
 #-------------------------------
 [RIVAL1,Blue]
 LoseText = "Cheater"

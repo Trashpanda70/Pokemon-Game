@@ -30,11 +30,11 @@ LandNight,21
 #-------------------------------
 [080] # Route 2
 Land,21
-    30,BIDOOF,3,4
+    30,BIDOOF,4,5
     20,SHINX,3,5
-    20,LILLIPUP,3,4
-    15,PIDGEY,3,5
-    10,BIDOOF,4,5
+    20,LILLIPUP,4,5
+    15,SPEAROW,4,5
+    10,BIDOOF,5,6
     5,PIDGEY,5,6
 LandNight,21
     40,BIDOOF,3,4
@@ -43,7 +43,7 @@ LandNight,21
     15,HOOTHOOT,2,4
     5,BIDOOF,5,5
     5,SHINX,4,5
-    5,PIDGEY,3,6
+    5,SPEAROW,3,6
 OldRod
     80,MAGIKARP,2,4
     20,MAGIKARP,4,6
