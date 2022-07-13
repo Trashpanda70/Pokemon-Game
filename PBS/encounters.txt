@@ -55,5 +55,34 @@ SuperRod
 #-------------------------------
 [083] # Route 3
 HoneyTree
-    50,MUNCHLAX,5,10
-    50,COMBEE,8,13
+    40,COMBEE,5,6
+    30,BURMY,5,7
+    25,KARRABLAST,4,7
+    4,COMBEE,7,7
+    1,MUNCHLAX,6,6
+Land,21
+    20,BIDOOF,5,7
+    15,STARLY,4,6
+    15,PIDGEY,5,7
+    20,BUNEARY,4,6
+    15,LILLIPUP,5,7
+    10,MAKUHITA,5,7
+    5,BUNEARY,7,8
+LandNight,21
+    30,BIDOOF,5,7
+    20,BUNEARY,4,6
+    15,SPEAROW,4,6
+    15,HOOTHOOT,5,7
+    10,MAKUHITA,5,8
+    10,BUNEARY,7,7
+OldRod
+    80,MAGIKARP,4,7
+    20,MAGIKARP,5,8
+GoodRod
+    100,MAGIKARP,8,15
+SuperRod
+    90,MAGIKARP,14,19
+    10,MAGIKARP,19,22
+#-------------------------------
+    
+   

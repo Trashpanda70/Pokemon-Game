@@ -89,3 +89,16 @@ LoseText = "Oh you're no ghost, just a gamer outside!"
 Pokemon = HOOTHOOT,4
 Pokemon = PIDGEY,6
 #-------------------------------
+[POKEMONBREEDER,Raven]
+LoseText = "They've still got some training to do!"
+Pokemon = SUNKERN,8
+Pokemon = PIDGEY,7
+#-------------------------------
+[ROCKETDUO,Jessie and James]
+LoseText = "We shouldn't have trusted that cat would do the job for us."
+Pokemon = MEOWTH,10
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = "Maybe I'll just catch more!"
+Pokemon = BURMY,9
+#-------------------------------

@@ -91,6 +91,9 @@ Sprites:
 - Eevee Girl battle/overworld sprite: UlithiumDragon (Deviant Art)
 - Barry battle sprite: redblueyellow (Spriters Resource)
 - Gang Member 2 and Rich Girl Sprites: Lolw3e932 (Deviant Art)
+- Hoopa icon: Brandon Abimael G Z on Pintrest
+- Hoopa Battle Sprites: pokencyclopedia.info Spritedex
+- Hi-res Interior General Tileset: Akizakura16 and Shiney570 (Deviant Art)
 ------------------------------------------------------------------------------
 Scripts:
 - Wondertrade Script: Black Eternity and Mej71 (PokeCommunity.com)

@@ -129,4 +129,22 @@ module BattleScripts
     end,
     "loss" => "You came here to drive me out of my home.\nYour attempt was laughable."
   }
+  #-----------------------------------------------------------------------------
+  ROCKETMEOWTH1 = {
+    "turnStart0" => proc do
+      @scene.pbDisplay("Meowth: Hey! Whats the big idea here!")
+      @scene.pbDisplay("Why don't you two buffoons use your own Pokémon!")
+      @scene.pbTrainerSpeak("Jessie: Our Pokémon are resting, now just battle you freeloading feline!")
+      @scene.pbDisplay("Meowth: You two are the lousiest owners a cat could ask for...")
+    end,
+    "loss" => proc do
+      @scene.pbDisplay("Meowth: I did it, I won...")
+      @scene.pbDisplay("Meowth: No thanks to you two losers! The most valuable member of Team Rocket shows his great skills again.")
+    end,
+    "lowHPOpp" => proc do
+      @scene.pbDisplay("Meowth: Jess, Jimmy, I don't like where this is goin.")
+      @scene.pbTrainerSpeak("James: And what are we supposed to do about that? Just stick it out and beat twerp 2, Electric Boogaloo!")
+      @scene.pbDisplay("Meowth: Maybe I'll join this \"Twerp 2\" and start attacking you two instead...")
+    end
+  }
 end

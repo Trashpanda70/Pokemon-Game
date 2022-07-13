@@ -10400,7 +10400,7 @@ Name = Medicham
 InternalName = MEDICHAM
 Type1 = FIGHTING
 Type2 = PSYCHIC
-BaseStats = 65,65,80,85,65,80
+BaseStats = 65,75,80,85,65,80
 GenderRate = Female50Percent
 GrowthRate = Medium
 BaseEXP = 144
@@ -20218,7 +20218,7 @@ Name = Beheeyem
 InternalName = BEHEEYEM
 Type1 = PSYCHIC
 Type2 = STEEL
-BaseStats = 75,75,75,40,125,95
+BaseStats = 80,75,90,40,125,95
 GenderRate = Female50Percent
 GrowthRate = Medium
 BaseEXP = 170
@@ -21640,6 +21640,32 @@ BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
 [650]
+Name = Hoopa
+InternalName = HOOPA
+Type1 = PSYCHIC
+Type2 = GHOST
+BaseStats = 80,110,60,70,150,130
+GenderRate = Genderless
+GrowthRate = Slow
+BaseExp = 300
+EffortPoints = 0,0,0,0,3,0
+Rareness = 3
+Happiness = 50
+Abilities = MAGICIAN
+Moves = 1,HYPERSPACEHOLE,1,TRICK,1,DESTINYBOND,1,ALLYSWITCH,1,CONFUSION,6,ASTONISH,10,MAGICCOAT,15,LIGHTSCREEN,19,PSYBEAM,25,SKILLSWAP,29,POWERSPLIT,29,GUARDSPLIT,35,PHANTOMFORCE,46,ZENHEADBUTT,50,WONDERROOM,50,TRICKROOM,55,SHADOWBALL,68,NASTYPLOT,75,PSYCHIC,85,HYPERSPACEHOLE
+TutorMoves = ALLYSWITCH,BLOCK,BRICKBREAK,CALMMIND,CHARGEBEAM,CONFIDE,COVET,DARKPULSE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,DUALCHOP,EMBARGO,ENERGYBALL,FACADE,FIREPUNCH,FLING,FOCUSBLAST,FOCUSPUNCH,FOULPLAY,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,GUNKSHOT,HIDDENPOWER,HYPERBEAM,ICEPUNCH,KNOCKOFF,LASTRESORT,LIGHTSCREEN,MAGICCOAT,MAGICROOM,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,QUASH,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROLEPLAY,ROUND,SAFEGUARD,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SUBSTITUTE,SUNNYDAY,SWAGGER,TAUNT,TELEKINESIS,THIEF,THROATCHOP,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TORMENT,TOXIC,TRICK,TRICKROOM,UPROAR,WONDERROOM,ZENHEADBUTT
+Compatability = Undiscovered
+StepsToHatch = 30720
+Height = 0.5
+Weight = 9.0
+Color = Purple
+Shape = HeadArms
+Kind = Mischief
+Pokedex = This troublemaker sends anything and everything to faraway places using its loop, which can warp space.
+FormName = Confined
+Generation = 5
+#-------------------------------
+[651]
 Name = Galandart
 InternalName = GALANDART
 Type1 = STEEL
@@ -21670,7 +21696,7 @@ BattlerEnemyY = 0
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[651]
+[652]
 Name = Spirit Pidgeot
 InternalName = SPIRITPIDGEOT
 Type1 = GHOST
@@ -21705,7 +21731,7 @@ BattlerEnemyY = -4
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[652]
+[653]
 Name = Spirit Primeape
 InternalName = SPIRITPRIMEAPE
 Type1 = FIGHTING
@@ -21740,7 +21766,7 @@ BattlerEnemyY = 13
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[653]
+[654]
 Name = Spirit Arcanine
 InternalName = SPIRITARCANINE
 Type1 = FIRE
@@ -21775,7 +21801,7 @@ BattlerEnemyY = 9
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[654]
+[655]
 Name = Spirit Poliwrath
 InternalName = SPIRITPOLIWRATH
 Type1 = WATER
@@ -21810,7 +21836,7 @@ BattlerEnemyY = 15
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[655]
+[656]
 Name = Spirit Machamp
 InternalName = SPIRITMACHAMP
 Type1 = FIGHTING
@@ -21842,7 +21868,7 @@ BattlerEnemyY = 3
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[656]
+[657]
 Name = Spirit Pinsir
 InternalName = SPIRITPINSIR
 Type1 = BUG
@@ -21878,7 +21904,7 @@ BattlerEnemyY = 10
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[657]
+[658]
 Name = Spirit Ampharos
 InternalName = SPIRITAMPHAROS
 Type1 = ELECTRIC
@@ -21910,7 +21936,7 @@ BattlerEnemyY = 12
 BattlerShadowX = 0
 BattlerShadowSize = 2
 #-------------------------------
-[658]
+[659]
 Name = Spirit Scizor
 InternalName = SPIRITSCIZOR
 Type1 = GHOST
@@ -21945,7 +21971,7 @@ BattlerEnemyY = 12
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[659]
+[660]
 Name = Spirit Ursaring
 InternalName = SPIRITURSARING
 Type1 = NORMAL
@@ -21980,7 +22006,7 @@ BattlerEnemyY = 7
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[660]
+[661]
 Name = Spirit Houndoom
 InternalName = SPIRITHOUNDOOM
 Type1 = GHOST
@@ -22015,7 +22041,7 @@ BattlerEnemyY = 11
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[661]
+[662]
 Name = Spirit Tyranitar
 InternalName = SPIRITTYRANITAR
 Type1 = GHOST
@@ -22050,7 +22076,7 @@ BattlerEnemyY = 8
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[662]
+[663]
 Name = Spirit Breloom
 InternalName = SPIRITBRELOOM
 Type1 = GRASS
@@ -22085,7 +22111,7 @@ BattlerEnemyY = 13
 BattlerShadowX = 0
 BattlerShadowSize = 2
 #-------------------------------
-[663]
+[664]
 Name = Spirit Salamence
 InternalName = SPIRITSALAMENCE
 Type1 = DRAGON
@@ -22120,7 +22146,7 @@ BattlerEnemyY = 10
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[664]
+[665]
 Name = Spirit Staraptor
 InternalName = SPIRITSTARAPTOR
 Type1 = GHOST
@@ -22154,7 +22180,7 @@ BattlerEnemyY = 11
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[665]
+[666]
 Name = Spirit Lucario
 InternalName = SPIRITLUCARIO
 Type1 = FIGHTING
@@ -22188,7 +22214,7 @@ BattlerEnemyY = 10
 BattlerShadowX = 0
 BattlerShadowSize = 2
 #-------------------------------
-[666]
+[667]
 Name = Spirit Gallade
 InternalName = SPIRITGALLADE
 Type1 = PSYCHIC
@@ -22222,7 +22248,7 @@ BattlerEnemyY = 8
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[667]
+[668]
 Name = Spirit Watchog
 InternalName = SPIRITWATCHOG
 Type1 = NORMAL
@@ -22253,7 +22279,7 @@ BattlerEnemyY = 15
 BattlerShadowX = 0
 BattlerShadowSize = 1
 #-------------------------------
-[668]
+[669]
 Name = Spirit Escavalier
 InternalName = SPIRITESCAVALIER
 Type1 = GHOST
@@ -22287,7 +22313,7 @@ BattlerEnemyY = 10
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[669]
+[670]
 Name = Spirit Beartic
 InternalName = SPIRITBEARTIC
 Type1 = ICE
@@ -22321,7 +22347,7 @@ BattlerEnemyY = 15
 BattlerShadowX = 0
 BattlerShadowSize = 3
 #-------------------------------
-[670]
+[671]
 Name = Spirit Bisharp
 InternalName = SPIRITBISHARP
 Type1 = DARK

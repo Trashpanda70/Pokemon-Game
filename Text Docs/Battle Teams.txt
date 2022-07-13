@@ -12,11 +12,11 @@ Leaders (Make Gym teams as story progresses):
 
 4. Toyotomi / Fighting (Surf/Katana)			
 
-5. Winston / Ghost (Pickaxe)  			
+5. Winston / Dark or Ghost (Pickaxe)  			
 
 6. Walter / Electric (Dive)			
 
-7. Marlon / Water (Strength)
+7. Summer / Water (Strength)
    		
 8. Danny / Ice (Waterfall) 			
 
@@ -25,17 +25,17 @@ Leaders (Make Gym teams as story progresses):
 10. Silver / Mixed (Rock Climb)			
 
 
-E4 (All have max IVs on rebattles, Champion has max IVs and EVs on all battles) Make teams later
+E4 (All have max IVs on rebattles, Champion has max IVs and EVs on all battles)
 
-1. Kelly / Fairy 
+1. Kelly / Fairy 	[Mawile, Ninetails, Claydol, Togekiss, Gardevoir] (Rematch add Altaria)
 
-2. Alexander / Steel	 
+2. Alexander / Steel	[Bastiodon (Stealth Rock and Sandstorm + Smooth Rock), Skarmory, Bronzong (Heatproof), Excadrill, Klinklang] (Rematch add Escavalier)
 
-3. Madison / Psychic					
+3. Madison / Psychic	[Sigilyph, Beheeyem, Alakazam, Starmie, Espeon] (Rematch add Exeggutor)					
 
-4. Rayssa / Dragon			
+4. Rayssa / Dragon	[Druddigon, Altaria, Ampharos, Flygon, Haxorus] (Rematch add Sceptile) 	
 
-Champion : Haku		[Scizor, Gliscor, Milotic, Gallade, Arcanine, Hydreigon*] 	Rematch = Same (Gliscor knows Acrobatics and holds flying gem on both battles)
+Champion : Haku		[Scizor, Gliscor, Milotic, Gallade*, Arcanine, Hydreigon] 	Rematch = Same 
 
 
 
@@ -56,7 +56,7 @@ Kanto E4 (Spread out so no champion | Claim they have "Picked up a new Pokemon" 
 
 1. Lorelei / Ice	[Glaceon, Dewgong, Cloyster, Slowbro, Jynx, Lapras]
 
-2. Bruno / Fighting	[Poliwrath, Hitmontop, Hitmonlee, Hitmonchan, Onix, Machamp] 
+2. Bruno / Fighting	[Poliwrath, Hitmontop, Hitmonlee, Hitmonchan, Steelix, Machamp] 
 
 3. Agatha / Ghost	[Dusknoir, Gengar, Crobat, Arbok, Mismagius, Gengar]
 
@@ -64,13 +64,15 @@ Kanto E4 (Spread out so no champion | Claim they have "Picked up a new Pokemon" 
 
 
 
-Cyrus Post Game: [Spiritomb, Drapion, ???, Tyranitar*, Dialga, Palkia] (Max IVs and EVs)
+Cyrus Post Game: [Spiritomb, Drapion, Crobat, Tyranitar*, Dialga, Palkia] (Max IVs and EVs except Dialga and Palkia)
+
+Gang Boss Full Team (Post Game Genesect): [Weezing (Toxic Spikes), Nidoking, Tentacruel, Gengar, Drapion, Genesect (Burn Drive)]
 
 Steven: [Skarmory, Aggron, Armaldo, Cradily, Flygon, Metagross]
 
 Ghetsis: [Cofagrigus, Bouffalant, Seismitoad, Elektross, Mienshao, Hydreigon] (Max IVs)
 
-Red: [Snorlax, Venusaur, Blastoise, Charizard, Mewtwo, Pikachu] (Pikachu holding light ball | Max IVs for all Max EVs for Pikachu)
+Red: [Snorlax, Venusaur, Blastoise, Charizard, Mewtwo, Pikachu] (Pikachu holding light ball | Max IVs and EVs for all except Mewtwo)
 
 Brock: [Golem, Ramparados, Kabutops, Omastar, Archeops, Onix]
 
@@ -84,7 +86,7 @@ Silver: [Weavile, Magnezone, Gengar, Crobat, Alakazam, Feraligatr*]
 
 Zinnia Before Rayquaza: 
 
-Grimsly: [Houndoom, Honchkrow, Sharpedo, Scrafty, Krookodile, Bisharp]  
+Grimsly: [Houndoom, Honchkrow, Sharpedo, Scrafty, Krookodile, Bisharp] (Max IVs)
 
 
 
@@ -95,7 +97,7 @@ Cradily   | Storm Drain | Lum Berry	| Relaxed	| Stockpile, Energy Ball, Recover,
 Elektross | Levitate	| Sitrus Berry	| Quiet		| Thunderbolt, Flamethrower, Crunch, Acid Spray
 Metagross*| Clear Body	| Life Orb	| Adamant	| Zen Headbutt, Earthquake, Bullet Punch, Ice Punch
 Milotic	  | Competitive | Leftovers	| Modest	| Surf, Ice Beam, Recover, Toxic
-Garchomp* | Rough Skin	| Yache Berry	| Jolly		| Dragon Claw, Earthquake, Stone Edge, Hone Claws
+Garchomp* | Rough Skin	| Yache Berry	| Jolly		| Dragon Rush, Earthquake, Stone Edge, Hone Claws
 
 	
 		

@@ -12,29 +12,30 @@ If I do not want to add your idea it's most likely because it would be too much 
 ## To-Do List
 
 ### Known Bugs and Issues
-- Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience. NOTE: Make Galandart a one time boss battle, have Hoopa catchable instead. Need to add Hoopa.
+- Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience. NOTE: Make Galandart a one time boss battle, have Hoopa catchable instead. 
 - Spirit Pokemon are catchable when they should not be
 - Spirit Pokemon appear on the National Pokedex when they should not
 - Some background music and sound effects are louder than others
 - Apricorn trees will activate the 24 hour wait timer if you decline to pick it
 - Rock Climb does not show any rock or dust animations before, during, or after movement
+- RocketDuo battle sprite (Jessie and James together) is displayed incorrectly
+- Occasional lag spikes while walking/running in various maps. These spikes are accompanied by a debug message with a libpng warning for either "iCCP: known incorrect sRGB profile" or "iCCP: cHRM chunk does not match sRGB". I have no clue what these warning mean and Google has not helped so far. Any input to fixing this would be appreciated.
 - Again, please let me know if there are any bugs/glitches you find that are not listed
 
 ### Features Not Yet Implemented
 - Berry plants
-- Hoopa (Make it learn Spiritual Gaze)
+- Make Hoopa learn Spiritual Gaze
 - Make Galandart boss battle have a random spear for Rushing Lance (include no spear as an option)
 - Create a GIF to show at the start of the intro to flow with the music better or change intro song
 - Give custom music themes to Mewtwo and Landorus (might not happen)
-- Create move animations for custom moves
+- Create move animations for custom moves (ugh)
 - Drone item to replace Fly HM, I am struggling to figure out this one and it might not be implemented but is something I want to add
-- A regional Pokedex (might not get added)
 - Certain small caves or rooms in other caves that legendary Pokemon appear in
 - Some miscellaneous islands that may or may not be post game. Undecided as to how many to add
 - The map for the final battle against the Game Dev (me if you couldnt guess)
 - Map for Arceus Event
-- Way to secretly access Arceus Event early?
-- Way to secretly access Mew Event early?
+- Way to secretly access Arceus Event early because who in their right mind is going to catch all the Pokemon in this game
+- Way to secretly access Mew Event early because who in their right mind is going to encounter all the Pokemon in this game
 - Give the game a better name than "Pokemon Gray"
 - Region Name
 - Gym Badge Sprites to use
@@ -43,11 +44,12 @@ If I do not want to add your idea it's most likely because it would be too much 
 ## Game Changes / Summary of Inclusions
 
 ### Included Pokemon / People
-- All Pokemon from Generations 1-5 have animated battle sprites
+- All Pokemon from Generations 1-5 (+Hoopa) have animated battle sprites
 - The custom legendary Pokemon for the region (more later)
 - Sprit form of 20 already existing Pokemon (not catchable, more later)
 
-Generation 6 Pokemon sprites are harder to find due to their 3D-Nature, which is why the game stops at Generation 5 sprites.
+Generation 6 Pokemon sprites are harder to find due to their 3D-Nature, which is why the game stops at Generation 5 sprites. I was able to find a website that has them but the process of putting them into the game is [Save GIF -> Use online converter to create sprite sheet -> rename properly and put in specified folder -> do this for normal and shiny front and back sprites -> Hopefully find a sprite to use for viewing in the party menu]. I do not feel like doing this for all Gen 6 Pokemon and it would just mean I have more Pokemon I need to somehow make catchable in the game. I decided to do this with Hoopa since there were too many problems in trying to get a decent sprite for Galandart which will remain as a one time battle.
+
 Also, Generation 6 is where I stop recognizing every Pokemon since I am a 20 something boomer (I still recognize most though). Fairy type has been added with moves for the type. Also, lots of gen 6 moves have been included. All Pokemon from gen 5 and before that were converted to Fairy type in gen 6+ have been made into Fairy type. Additional type changes are listed later.
 
 I plan to include some people I know IRL into this game but need character sprites for them, and obviously their permission.

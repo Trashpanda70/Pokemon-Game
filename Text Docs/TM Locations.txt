@@ -10,7 +10,7 @@
 
 6 - Toxic:
 
-7 - Hail:
+7 - Hail: Department Store Cithara
 
 8 - Bulk Up:
 
@@ -18,25 +18,25 @@
 
 10 - Hidden Power:
 
-11 - Sunny Day:
+11 - Sunny Day: Department Store Cithara
 
-12 - Taunt:
+12 - Taunt: Department Store Cithara
 
-13 - Ice Beam:
+13 - Ice Beam: After beating Gym 8
 
 14 - Blizzard:
 
-15 - Hyper Beam:
+15 - Hyper Beam: Department Store Soufrabi
 
-16 - Light Screen:
+16 - Light Screen: Department Store Cithara
 
-17 - Protect: 
+17 - Protect: Department Store Cithara
 
-18 - Rain Dance:
+18 - Rain Dance: Department Store Cithara
 
 19 - Disarming Voice:
 
-20 - Safeguard:
+20 - Safeguard: Department Store Cithara
 
 21 - Frustration:
 
@@ -48,7 +48,7 @@
 
 25 - Thunder:
 
-26 - Earthquake:
+26 - Earthquake: After beating Gym 10
 
 27 - Return:
 
@@ -58,11 +58,11 @@
 
 30 - Shadow Ball: 
 
-31 - Brick Break:
+31 - Brick Break: After beating Gym 4
 
 32 - Double Team:
 
-33 - Reflect:
+33 - Reflect: Department Store Cithara
 
 34 - Sludge Wave:
 
@@ -70,11 +70,11 @@
 
 36 - Sludge Bomb:
 
-37 - Sandstorm:
+37 - Sandstorm: Department Store Cithara
 
 38 - Fire Blast:
 
-39 - Rock Tomb:
+39 - Rock Tomb: After beating Gym 2
 
 40 - Aerial Ace:
 
@@ -96,7 +96,7 @@
 
 49 - Echoed Voice:
 
-50 - Overheat:
+50 - Overheat: After beating Gym 9
 
 51 - Ally Switch:
 
@@ -106,11 +106,11 @@
 
 54 - False Swipe:
 
-55 - Scald:
+55 - Scald: After beating Gym 7
 
 56 - Fling:
 
-57 - Charge Beam:
+57 - Charge Beam: After beating Gym 6
 
 58 - Sky Drop:
 
@@ -124,19 +124,19 @@
 
 63 - Embargo:
 
-64 - Explosion:
+64 - Explosion: Department Store Soufrabi
 
-65 - Shadow Claw:
+65 - Shadow Claw: After beating Gym 5
 
 66 - Payback:
 
 67 - Retaliate:
 
-68 - Giga Impact:
+68 - Giga Impact: Department Store Soufrabi
 
 69 - Rock Polish:
 
-70 - Flash:
+70 - Flash: After beating Gym 1
 
 71 - Stone Edge:
 
@@ -168,7 +168,7 @@
 
 85 - Dream Eater:
 
-86 - Grass Knot:
+86 - Grass Knot: After beating Gym 3
 
 87 - Swagger:
 
@@ -182,11 +182,11 @@
 
 92 - Trick Room:
 
-93 - Wild Charge:
+93 - Wild Charge: Department Store Soufrabi
 
-94 - Dragon Pulse:
+94 - Dragon Pulse: After beating Grimsly
 
-95 - Snarl:
+95 - Snarl: Route 3 Surf on Water at top of route
 
 96 - Dazzling Gleam:
 
@@ -194,7 +194,7 @@
 
 98 - Dark Pulse:
 
-99 - Ominous Wind:
+99 - Ominous Wind: Department Store Soufrabi
 
 100 - Telekinesis:
 
