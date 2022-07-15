@@ -1,4 +1,5 @@
-1. Looker / Normal: Basic type gym for first leader but trainers are not skippable, says hes "renovating"			
+1. Looker / Normal: Basic type gym for first leader but trainers are not skippable, says hes "renovating"
+			
 2. Mary / Rock: Strength boulder puzzle (move boulders onto switches but the room has a maze of rocks so its harder to navigate). Get told the boulders are actually fake boulders so strength isn't needed. Once all switches are pressed a door unlocks and you can battle the gym leader. Once the puzzle is completed once it does not need to be done again.	
 
 3. Herbia / Grass: Indoor greenery area with trees and grass (not wild Pokemon grass just normal grass). Need to find trainers to get enough hints about what the "mystery Pokemon" is. Once it is known you can go to the final trainer and they will provide you a list of choices to choose from, guess correctly and you have to battle that trainer before accessing the gym leader, guess incorrectly and you cannot guess again until another trainer is battled (unless all trainers have been battled already).			
