@@ -254,7 +254,7 @@ Gothitelle: Psychic -> Psychic/Dark
 
 Elgyem: Psychic -> Psychic/Steel
 
-Beheeyem: Psychic -> Psychic/Steel
+Beheeyem: Psychic -> Psychic/Steel 
 
 #### Stat and Ability Changes
 Some Pokemon have had their stats changed so that they are better to make them more viable. Stat changes will not be listed in this document as there are many small tweaks to many Pokemon. Some Pokemon have also had their abilities changed for various reasons and those changes will be listed below. Just know that if a Pokemon you normally do not consider strong that the AI has does well or a wild Pokemon you catch has better stats than expected, it could be because of the boosted stats. These boosts are subtle for the most part, with some Pokemon being boosted more than others. That said, Pokemon that are generally considered good (Gyarados, Flygon, Pseudo Legends, etc.) will still be better than most other Pokemon. More final stage evolutions have been brought to around the high 400 - low 500 base stat total mark. Keep this in mind when team building, and know that you can use different Pokemon more effectively if you wanted to.
