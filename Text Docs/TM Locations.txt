@@ -184,7 +184,7 @@
 
 93 - Wild Charge: Department Store Soufrabi
 
-94 - Dragon Pulse: After beating Grimsly
+94 - Dragon Pulse: 
 
 95 - Snarl: Route 3 Surf on Water at top of route
 
@@ -192,7 +192,7 @@
 
 97 - Nature Power:
 
-98 - Dark Pulse:
+98 - Dark Pulse: After beating Grimsly
 
 99 - Ominous Wind: Department Store Soufrabi
 

@@ -40,6 +40,39 @@ Pokemon = ONIX,14
     IV = 20,20,20,20,20,20
     Ball = HEAVYBALL
 #-------------------------------
+# Gym Leaders
+#-------------------------------
+[LEADER_Looker,Looker]
+Items = POTION
+LoseText = "Bested by another child, but it's all a part of the job. Well done!"
+Pokemon = EEVEE,13
+    Moves = TACKLE,BABYDOLLEYES,SWIFT,QUICKATTACK
+    AbilityIndex = 1
+    Shiny = yes
+    IV = 31,31,31,31,31,31
+    Ball = LUXURYBALL
+Pokemon = SPEAROW,13
+    Moves = LEER,PECK,PURSUIT
+    IV = 31,31,31,31,31,31
+Pokemon = BIBAREL,15
+    AbilityIndex = 1
+    Moves = GROWL,WATERGUN,HEADBUTT
+    IV = 31,31,31,31,31,31
+    Ball = GREATBALL
+    Item = ORANBERRY
+#-------------------------------
+# Elite 4 and Champion of Sinnoh and this region
+#-------------------------------
+# Team Rocket
+#-------------------------------
+[ROCKETDUO,Jessie and James]
+LoseText = "We shouldn't have trusted that cat would do the job for us."
+Pokemon = MEOWTH,10
+#-------------------------------
+# High level trainers (Evil team leaders, Cyrus, Grimsly, etc...)
+#-------------------------------
+# Rival
+#-------------------------------
 [RIVAL1,Blue]
 LoseText = "Cheater"
 Pokemon = BULBASAUR,5
@@ -51,6 +84,8 @@ Pokemon = CHARMANDER,5
 [RIVAL1,Blue,2]
 LoseText = "Cheater"
 Pokemon = SQUIRTLE,5
+#-------------------------------
+# Other Trainers
 #-------------------------------
 [YOUNGSTER,Joey]
 LoseText = "Why did you have to beat me?"
@@ -79,26 +114,31 @@ Pokemon = BUNEARY,5
 [YOUNGSTER,Tristan]
 LoseText = "One day I'll be as big as you are!"
 Pokemon = MAGIKARP,5
-Pokemon = BIDOOF,5
+Pokemon = BIDOOF,6
     AbilityIndex = 2
 Pokemon = BIDOOF,4
-    AbilityIndex = 2
+    AbilityIndex = 0
 #-------------------------------
 [LASS,Olivia]
 LoseText = "Oh you're no ghost, just a gamer outside!"
 Pokemon = HOOTHOOT,4
-Pokemon = PIDGEY,6
+Pokemon = PIDGEY,7
 #-------------------------------
 [POKEMONBREEDER,Raven]
 LoseText = "They've still got some training to do!"
 Pokemon = SUNKERN,8
-Pokemon = PIDGEY,7
-#-------------------------------
-[ROCKETDUO,Jessie and James]
-LoseText = "We shouldn't have trusted that cat would do the job for us."
-Pokemon = MEOWTH,10
+Pokemon = PIDGEY,8
 #-------------------------------
 [YOUNGSTER,Ben]
 LoseText = "Maybe I'll just catch more!"
 Pokemon = BURMY,9
 #-------------------------------
+[YOUNGSTER,Gregory]
+LoseText = "You really are strong! No wonder you were able to help me!"
+Pokemon = RATTATA,9
+Pokemon = PIDGEY,10
+#-------------------------------
+[LASS,Ava]
+LoseText = "At least you don't need to stand in this dump all day."
+Pokemon = EEVEE,10
+Pokemon = HOOTHOOT,11
