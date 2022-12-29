@@ -1,10 +1,10 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[ACETRAINER_F,James]
+[ROCKETDUO,James]
 LoseText = "ok"
-Pokemon = STARLY,40
+Pokemon = STARLY,3
 #-------------------------------
-[DOYEN_M,A]
+[RUSSIAN_ADMIN,A]
 Items = FULLRESTORE,MAXPOTION,FULLHEAL
 LoseText = "k"
 Pokemon = MILOTIC,40
@@ -49,15 +49,15 @@ Pokemon = EEVEE,13
     Moves = TACKLE,BABYDOLLEYES,SWIFT,QUICKATTACK
     AbilityIndex = 1
     Shiny = yes
-    IV = 31,31,31,31,31,31
+#    IV = 31,31,31,31,31,31
     Ball = LUXURYBALL
 Pokemon = SPEAROW,13
     Moves = LEER,PECK,PURSUIT
-    IV = 31,31,31,31,31,31
+#    IV = 31,31,31,31,31,31
 Pokemon = BIBAREL,15
     AbilityIndex = 1
     Moves = GROWL,WATERGUN,HEADBUTT
-    IV = 31,31,31,31,31,31
+#    IV = 31,31,31,31,31,31
     Ball = GREATBALL
     Item = ORANBERRY
 #-------------------------------

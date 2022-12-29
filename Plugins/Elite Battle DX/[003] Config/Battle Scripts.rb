@@ -139,7 +139,7 @@ module BattleScripts
     end,
     "loss" => proc do
       @scene.pbDisplay("Meowth: I did it, I won...")
-      @scene.pbDisplay("Meowth: No thanks to you two losers! The most valuable member of Team Rocket shows his great skills again.")
+      @scene.pbDisplay("Meowth: No thanks to you two losers! The most valuable member of Team Rocket shows his great skills again!")
     end,
     "lowHPOpp" => proc do
       @scene.pbDisplay("Meowth: Jess, Jimmy, I don't like where this is goin.")

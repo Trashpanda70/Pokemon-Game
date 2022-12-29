@@ -1,0 +1,7 @@
+- added skill level 200+ for champion, e4, etc
+- Do not use status healing items (and do not prefer full restores) if any of the following are true
+    - Below is only true for top 2 skill tiers and checks are in following order
+    - The Pokemon has the ability Marvel Scale
+    - The Pokemon is confused (i think) and the trainer skill is 200+ 
+    - If the Pokemon has snore/sleep talk and is asleep
+    - The Pokemon has Guts or Quick Feet

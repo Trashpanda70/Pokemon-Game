@@ -16,10 +16,10 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Spirit Pokemon are catchable when they should not be
 - Spirit Pokemon appear on the National Pokedex when they should not
 - Some background music and sound effects are louder than others
-- Apricorn trees will activate the 24 hour wait timer if you decline to pick it
 - Rock Climb does not show any rock or dust animations before, during, or after movement
 - RocketDuo battle sprite (Jessie and James together) is displayed incorrectly
 - Occasional lag spikes while walking/running in various maps. These spikes are accompanied by a debug message with a libpng warning for either "iCCP: known incorrect sRGB profile" or "iCCP: cHRM chunk does not match sRGB". I have no clue what these warning mean and Google has not helped so far. Any input to fixing this would be appreciated.
+- Intro Rival picture too small
 - Again, please let me know if there are any bugs/glitches you find that are not listed
 
 ### Features Not Yet Implemented

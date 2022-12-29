@@ -157,10 +157,10 @@ SpriteScale	 = 2
 BattleIntro	 = evilTeam
 #-------------------------------
 [ROCKETDUO]
-SpriteScale	 = 2
+SpriteScale	 = 1
 BattleIntro	 = evilTeam
 BattleVS	 = crazySM
-TrainerPositionX = 100
+TrainerPositionX = -100
 #-------------------------------
 [ROCKETJESSIE]
 SpriteScale	 = 2
