@@ -1,7 +1,7 @@
 ﻿#-------------------------------
 [0]
 Filename = mapRegion0.png
-Name = Sample Region
+Name = Anotam
 Point = 10,18,"Riverside Town","Professor Oak's Lab",33,11,11,
 Point = 11,18,"Route 1","Kurt's House",,,,
 Point = 12,18,"Tabistar Town","Bike Shop",78,6,14,
@@ -93,7 +93,6 @@ Point = 20,11,Route 14,,,,,
 Point = 21,11,Route 14,,,,,
 Point = 12,4,Route 7,,,,,
 Point = 12,3,Cave of Rest,,,,,
-
 Point = 25,11,"Safari Zone",,,,,
 Point = 22,10,"Route 16",,,,,
 Point = 22,9,"Route 16",,,,,

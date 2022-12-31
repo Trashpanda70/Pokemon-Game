@@ -22,7 +22,7 @@ Tutorials: Thundaga (Youtube)
 Music: (Redo)s
 - Most Music: khinsider.com
 - Darkrai, Celebi (Maybe), Latios/Latias, and more battle themes: Lala19357 - The Zephyr (Youtube) (Get music officially and refactor)
-- Vladamir Battle Music: Owen Dennis (OG composer) | Ruisu River (Remix)
+- Russian Admin Battle Theme: Owen Dennis (OG composer) | Ruisu River (Remix)
 - Dark Cynthia Theme: Make Cynthia Theme play at lower pitch (like at 90%)
 - Battle Colosseum Final Theme: Freedom Dive by xi (replace with something else)
 - Cyrus Battle Theme remix and Shadow Triad Intro: Zame (Youtube) (Also "The Zame" on Spotify)
@@ -37,6 +37,8 @@ Music: (Redo)s
 - Intro Music: From Whale Island by Yoshihisa Hirano (replace)
 - Rayquaza Summoning Song: Leliana's Dance by Inon Zur
 - The Guardian's Gateway (Spirit Dimension): Mist In The Mire (Unravel Soundtrack) by Henrik Oja and Frida Johansson
+- Caitlyn Battle Theme: Three Bar Logos by Jami Lynne (OMORI)
+- Vladamir Battle Theme: World's End Valentine by Pedro Silva (OMORI)
 ------------------------------------------------------------------------------
 Elite Battle: DX
 Complete Overhaul of battle graphics including trainer/legendary intros and Pokemon battle sprites. Also brings more battle backgrounds and animations made by Luka S.J.

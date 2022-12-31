@@ -17,9 +17,7 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Spirit Pokemon appear on the National Pokedex when they should not
 - Some background music and sound effects are louder than others
 - Rock Climb does not show any rock or dust animations before, during, or after movement
-- RocketDuo battle sprite (Jessie and James together) is displayed incorrectly
 - Occasional lag spikes while walking/running in various maps. These spikes are accompanied by a debug message with a libpng warning for either "iCCP: known incorrect sRGB profile" or "iCCP: cHRM chunk does not match sRGB". I have no clue what these warning mean and Google has not helped so far. Any input to fixing this would be appreciated.
-- Intro Rival picture too small
 - Again, please let me know if there are any bugs/glitches you find that are not listed
 
 ### Features Not Yet Implemented
@@ -495,7 +493,7 @@ All battles that ban the use of Pokemon with base stats over 600 will allow the 
 - Effort Points: 2 Defense, 1 Special Defense
 - Catch Rate: 3 (1.6% with Pokeball on full HP, same as other legendaries)
 - Custom Battle Theme (Tokyo Ghoul - Licht und Schetten) -> https://www.youtube.com/watch?v=3S1NmtWDVYk
-    - Highly reccommend Tokyo Ghoul (havn't seen 3rd season yet)
+    - Highly recommend Tokyo Ghoul
 
 #### Base Stats
 - HP: 110
