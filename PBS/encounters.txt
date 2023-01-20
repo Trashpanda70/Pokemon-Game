@@ -56,8 +56,8 @@ SuperRod
 [083] # Route 3
 HoneyTree
     40,COMBEE,5,6
-    30,BURMY,5,7
-    25,KARRABLAST,4,7
+    40,BURMY,5,7
+    15,KARRABLAST,4,7
     4,COMBEE,7,7
     1,MUNCHLAX,6,6
 Land,21

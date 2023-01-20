@@ -24,10 +24,9 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Berry plants
 - Make Hoopa learn Spiritual Gaze
 - Make Galandart boss battle have a random spear for Rushing Lance (include no spear as an option)
-- Create a GIF to show at the start of the intro to flow with the music better or change intro song
 - Give custom music themes to Mewtwo and Landorus (might not happen)
 - Create move animations for custom moves (ugh)
-- Drone item to replace Fly HM, I am struggling to figure out this one and it might not be implemented but is something I want to add
+- Drone item to replace Fly HM
 - Certain small caves or rooms in other caves that legendary Pokemon appear in
 - Some miscellaneous islands that may or may not be post game. Undecided as to how many to add
 - The map for the final battle against the Game Dev (me if you couldnt guess)
@@ -35,8 +34,8 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Way to secretly access Arceus Event early because who in their right mind is going to catch all the Pokemon in this game
 - Way to secretly access Mew Event early because who in their right mind is going to encounter all the Pokemon in this game
 - Give the game a better name than "Pokemon Gray"
-- Region Name
-- Gym Badge Sprites to use
+- Easter eggs depending on the player's name
+- Make a separate tool to show new Pokemon stat changes and movesets by search
 - A bunch of other stuff I probably forgot
 
 ## Game Changes / Summary of Inclusions
@@ -61,6 +60,8 @@ Managing all of these character encounters will be hard as to not seem overbeari
 
 Keep in mind that most of my Pokemon experience is in generations 4 and 5, with some in generations 6 and 7 (but I cant add those features anyway). This means if you are a gen 3 fan then sorry I guess but a lot of the nostalga for those games will not be here (other than the fact that most graphics are gen 3 I think)
 
+If I for some reason decide to make a sequel to this game the cast will be smaller
+
 ### Changes/Notes From Previous Pokemon Games
 - Changed typing and abilities for some Pokemon (listed later)
 - Changed stats of many Pokemon
@@ -81,9 +82,10 @@ Keep in mind that most of my Pokemon experience is in generations 4 and 5, with 
     - This tile appears in Kalimari Desert
 - Added custom music for Darkrai, Latios/Latias, Galandart, Celebi, The Champion Battle, Team Russia Battles, and more
     - I cannot make music because I simply do not know anything about it, see the credits file for full credits on Music, Sprites, and other game functions/details
-    - On a side note, most music is taken from generations 4,5, and 6, with some from 7 and 8
+    - On a side note, most music is taken from generations 4, 5, and 6, with some from 7 and 8
 - There are items that replace the HMs Rock Smash, Cut, Strength, and (maybe) Fly. These items will be available at some point after you get the Gym Badge allowing use of the HM outside of battle. These items will not be accessible right away (EX: Cut can be used outside battle after the 1st gym but the item to replace it you will get after beating the 5th gym)
 - Honey trees will not have a waiting time, the encounter will be instant
+- I am thinking of having a move deleter and reminder in each Pokemon Center
 
 ### Changes to Previous Pokemon
 #### Slaking
@@ -255,7 +257,7 @@ Elgyem: Psychic -> Psychic/Steel
 Beheeyem: Psychic -> Psychic/Steel
 
 #### Stat and Ability Changes
-Some Pokemon have had their stats changed so that they are better to make them more viable. Stat changes will not be listed in this document as there are many small tweaks to many Pokemon. Some Pokemon have also had their abilities changed for various reasons and those changes will be listed below. Just know that if a Pokemon you normally do not consider strong that the AI has does well or a wild Pokemon you catch has better stats than expected, it could be because of the boosted stats. These boosts are subtle for the most part, with some Pokemon being boosted more than others. That said, Pokemon that are generally considered good (Gyarados, Flygon, Pseudo Legends, etc.) will still be better than most other Pokemon. More final stage evolutions have been brought to around the high 400 - low 500 base stat total mark. Keep this in mind when team building, and know that you can use different Pokemon more effectively if you wanted to.
+Some Pokemon have had their stats changed so that they are better to make them more viable. Stat changes will not be listed in this document as there are many small tweaks to many Pokemon. Some Pokemon have also had their abilities changed for various reasons and those changes will be listed below. Just know that if a Pokemon you normally do not consider strong that the AI has does well or a wild Pokemon you catch has better stats than expected, it could be because of the boosted stats. These boosts are subtle for the most part, with some Pokemon being boosted more than others. That said, Pokemon that are generally considered good (Gyarados, Flygon, Pseudo Legends, etc.) will still be better than most other Pokemon. More final stage evolutions have been brought to around the high 400 - low 500 base stat total mark. Keep this in mind when team building, and know that you can use different Pokemon more effectively if you wanted to. Also note that there will probably be an easier way to get hidden abilities (like the ability to buy Ability Patches around gym 6 or something)
 
 Ability Changes:
 
@@ -322,8 +324,6 @@ Ability Changes:
 - Rotom: Gained Hidden Ability Lightning Rod
 
 - Regigigas: Slow Start only lasts for 3 turns as opposed to 5 (Speed is now 90 instead of 100)
-
-- Darkrai/Cresselia: Now have a base stat total of 620 as opposed to 600
 
 - Herdier/Stoutland: Intimidate/Sand Rush -> Intimidate/Frisk
 
@@ -527,7 +527,7 @@ level - move name
 
 The moves list may be updated for balancing in the future
 
-I will not list all TMs/HMs that Galandart can learn in this document, you will have to figure that out yourself
+I will not list all TMs/HMs that Galandart can learn in this document, you will have to figure that out yourself (or use the tool I plan on releasing closer to the game's release)
 
 ##### Custom Moves
 These moves may be updated at any time for balancing in terms of power and accuracy, but the effect will remain the same. Both moves have a similar mechanic that Arceus does with the type plates and its move Judgement. The moves will use different items, so you can only change the type of one at a time.
@@ -541,7 +541,7 @@ These moves may be updated at any time for balancing in terms of power and accur
 - Ignores Protect and Detect
 - Can be copied by Mirror Move
 
-Items that chenges move type are different "Eyes". The types available are Fire, Grass, Bug, Psychic, Dark, Flying, and Water
+Items that change move type are different "Eyes". The types available are Fire, Grass, Bug, Psychic, Dark, Flying, and Water
 
 **Rushing Lance**
 - Damage: 100
@@ -555,7 +555,7 @@ Items that chenges move type are different "Eyes". The types available are Fire,
 Items that changes move type are different "Lances". The tpyes available are Fire, Electric, Fighting, Rock, Ice, Ground, and Poison
 
 ### Spirit Pokemon
-Keeping with the theme of the game so far, Spirit Pokemon will be wild encounters of past Pokemon used in previous Human wars. After all, why would humans fight each other if they can train much more poweful creatures to attack at their command (I hope this is giving an idea as to the main storyline/theme of the game). Spirit Pokemon will be uncatchable, and will not appear in the Pokedex since they are just spirit versions of already existing Pokemon. Their sprite will be grayscale, and other than that will be the same as the non-spirit form of the Pokemon.
+Keeping with the theme of the game so far, Spirit Pokemon will be wild encounters of past Pokemon used in previous Human wars. Spirit Pokemon will be uncatchable, and will not appear in the Pokedex since they are just spirit versions of already existing Pokemon. Their sprite will be grayscale, and other than that will be the same as the non-spirit form of the Pokemon.
 
 The moveset of all Spirit Pokemon will follow the following formula:
 - Move 1: Shadow Ball
@@ -604,5 +604,3 @@ The WonderTrade feature will work similar to WonderTrade in previous Pokemon gam
 - The WonderTrade script includes parameters for a list of Pokemon you cannot give, cannot receive, and Pokemon that are hard to get
     - Hard to get Pokemon essentially go through two RNG checks. A Pokemon is chosen at random to be received, but if that Pokemon is in the hard to get list, then there is only a 20% chance that the game will go through with giving you that Pokemon. If it does not go through with giving you that Pokemon, then a new Pokemon is chosen at random (this Pokemon may also be in the hard to get list). This list will gernerally be reserved for pseudo-legendaries, and other strong third evolution Pokemon that should not be received often. 
     - The only Pokemon you cannot trade away are Galandart, Arceus, and Mew
-
-Wondertrade will be unlocked after beating the Elite 4 as it is supposed to be a post game mechanic to fill out the Pokedex and get stronger for the harder post game battles. As certain events are completed in the post game, more features of Wondertrade will be unlocked and more Pokemon will become available.

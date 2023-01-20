@@ -51,7 +51,7 @@ Pokemon = EEVEE,13
     Shiny = yes
 #    IV = 31,31,31,31,31,31
     Ball = LUXURYBALL
-Pokemon = SPEAROW,13
+Pokemon = SPEAROW,11
     Moves = LEER,PECK,PURSUIT
 #    IV = 31,31,31,31,31,31
 Pokemon = BIBAREL,15
@@ -89,13 +89,13 @@ Pokemon = SQUIRTLE,5
 #-------------------------------
 [YOUNGSTER,Joey]
 LoseText = "Why did you have to beat me?"
-Pokemon = BIDOOF,4
+Pokemon = BIDOOF,3
     AbilityIndex = 0
 #-------------------------------
 [LASS,Jane]
 LoseText = "I was just trying to spook you silly!"
 Pokemon = PIDGEY,3 
-Pokemon = LILLIPUP,4
+Pokemon = LILLIPUP,3
 #-------------------------------
 [YOUNGSTER,Timmy]
 LoseText = "I guess you don't want me to steal your stuff."
@@ -109,7 +109,7 @@ Pokemon = LILLIPUP,8
 #-------------------------------
 [LADY,Amanda]
 LoseText = "That was a fun battle!"
-Pokemon = BUNEARY,5
+Pokemon = BUNEARY,4
 #-------------------------------
 [YOUNGSTER,Tristan]
 LoseText = "One day I'll be as big as you are!"

@@ -1,9 +1,7 @@
 TODO LIST BEFORE NEXT RELEASE
 
-- Fix Apricorn plant mechanic
 - Drone item to replace Fly HM
-- Region and game name
-- Custom badges
+- Game name
 - Find new Intro music
 - Finish up to Gym 3 in storyline and town design
 - Make highest level AI remember trainer used moves and use that information when switching in a new user or for bait switching

@@ -34,7 +34,7 @@ Music: (Redo)s
 - Deoxys Battle Theme: Get credits for Carter's song
 - Pallet Cave Background Music: Get credits for Carter's song 
 - Developer Friends Battle Theme: Retro Tune by Magnus Pålsson (Spotify / Youtube) (Either buy at https://magnuspalsson.com/salbum or replace)
-- Intro Music: From Whale Island by Yoshihisa Hirano (replace)
+- Intro Music: Style. by Kana Nishino (Soul Eater [Anime])
 - Rayquaza Summoning Song: Leliana's Dance by Inon Zur
 - The Guardian's Gateway (Spirit Dimension): Mist In The Mire (Unravel Soundtrack) by Henrik Oja and Frida Johansson
 - Caitlyn Battle Theme: Three Bar Logos by Jami Lynne (OMORI)
@@ -96,6 +96,7 @@ Sprites:
 - Hoopa icon: Brandon Abimael G Z on Pintrest
 - Hoopa Battle Sprites: pokencyclopedia.info Spritedex
 - Hi-res Interior General Tileset: Akizakura16 and Shiney570 (Deviant Art)
+- Custom Badges: icycatelf (Deviant Art)
 ------------------------------------------------------------------------------
 Scripts:
 - Wondertrade Script: Black Eternity and Mej71 (PokeCommunity.com)
