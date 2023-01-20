@@ -1,0 +1,7 @@
+# Ignore any executables
+*.exe
+
+# Dont share the Town Map Generation html file to keep some magic
+townmapgen.html
+
+# Why are you looking at the gitignore
