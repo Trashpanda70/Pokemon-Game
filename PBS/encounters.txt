@@ -17,7 +17,7 @@ SuperRod
 [077] # Route 1
 Land,21
     40,BIDOOF,2,3
-    25,PIDGEY,2,4
+    25,PIDGEY,2,3
     25,LILLIPUP,2,4
     8,SENTRET,2,3
     2,BIDOOF,4,4
@@ -35,7 +35,7 @@ Land,21
     20,LILLIPUP,4,5
     15,SPEAROW,4,5
     10,BIDOOF,5,6
-    5,PIDGEY,5,6
+    5,PIDGEY,5,7
 LandNight,21
     40,BIDOOF,3,4
     20,POOCHYENA,2,4
@@ -43,7 +43,7 @@ LandNight,21
     15,HOOTHOOT,2,4
     5,BIDOOF,5,5
     5,SHINX,4,5
-    5,SPEAROW,3,6
+    5,SPEAROW,3,7
 OldRod
     80,MAGIKARP,2,4
     20,MAGIKARP,4,6
@@ -55,11 +55,11 @@ SuperRod
 #-------------------------------
 [083] # Route 3
 HoneyTree
-    40,COMBEE,5,6
+    40,COMBEE,5,8
     40,BURMY,5,7
     15,KARRABLAST,4,7
-    4,COMBEE,7,7
-    1,MUNCHLAX,6,6
+    4,COMBEE,8,9
+    1,MUNCHLAX,6,7
 Land,21
     20,BIDOOF,5,7
     15,STARLY,4,6
@@ -84,5 +84,36 @@ SuperRod
     90,MAGIKARP,14,19
     10,MAGIKARP,19,22
 #-------------------------------
-    
-   
+[083,1] # Route 3
+HoneyTree
+    40,COMBEE,9,10
+    40,BURMY,8,10
+    15,KARRABLAST,9,10
+    4,COMBEE,10,12
+    1,MUNCHLAX,9,13
+Land,21
+    25,STARLY,9,11
+    15,SKITTY,10,12
+    15,BUNEARY,8,10
+    15,BUDEW,10,12
+    10,MAKUHITA,9,12
+    10,MAREEP,8,11
+    10,ZIGZAGOON,7,10
+LandNight,21
+    25,MAREEP,9,11
+    20,HOOTHOOT,8,10
+    15,SKITTY,10,12
+    15,PURRLOIN,10,13
+    10,MAKUHITA,9,12
+    10,BUNEARY,8,11
+    5,MAREEP,8,11
+OldRod
+    80,MAGIKARP,6,13
+    20,MAGIKARP,13,14
+GoodRod
+    100,MAGIKARP,11,17
+SuperRod
+    60,MAGIKARP,25,30
+    30,REMORAID,23,27
+    10,CARVANHA,24,28 
+#-------------------------------

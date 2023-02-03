@@ -45,21 +45,19 @@ Pokemon = ONIX,14
 [LEADER_Looker,Looker]
 Items = POTION
 LoseText = "Bested by another child, but it's all a part of the job. Well done!"
-Pokemon = EEVEE,13
+Pokemon = LILLIPUP,12
+    AbilityIndex = 1
+    Moves = LEER,TACKLE,WORKUP,BITE
+    Ball = GREATBALL
+    Item = ORANBERRY
+Pokemon = SPEAROW,13
+    Moves = LEER,PECK,QUICKATTACK
+Pokemon = EEVEE,14
     Moves = TACKLE,BABYDOLLEYES,SWIFT,QUICKATTACK
     AbilityIndex = 1
     Shiny = yes
-#    IV = 31,31,31,31,31,31
-    Ball = LUXURYBALL
-Pokemon = SPEAROW,11
-    Moves = LEER,PECK,PURSUIT
-#    IV = 31,31,31,31,31,31
-Pokemon = BIBAREL,15
-    AbilityIndex = 1
-    Moves = GROWL,WATERGUN,HEADBUTT
-#    IV = 31,31,31,31,31,31
-    Ball = GREATBALL
     Item = ORANBERRY
+    Ball = LUXURYBALL
 #-------------------------------
 # Elite 4 and Champion of Sinnoh and this region
 #-------------------------------
@@ -104,7 +102,7 @@ Pokemon = SHINX,5
     Ball = ULTRABALL
 #-------------------------------
 [LASS,Emma]
-LoseText = "Good fight Mr. Trainer Man."
+LoseText = "Your're good! Let's battle again sometime!"
 Pokemon = LILLIPUP,8
 #-------------------------------
 [LADY,Amanda]
@@ -141,4 +139,29 @@ Pokemon = PIDGEY,10
 [LASS,Ava]
 LoseText = "At least you don't need to stand in this dump all day."
 Pokemon = EEVEE,10
-Pokemon = HOOTHOOT,11
+Pokemon = HOOTHOOT,10
+#-------------------------------
+[COLLECTOR,Steven]
+LoseText = "See what getting a Gym Badge can do for you?"
+Pokemon = ZIGZAGOON,11
+Pokemon = ZIGZAGOON,11
+Pokemon = ZIGZAGOON,11
+#-------------------------------
+[DOCTOR,Phillip]
+LoseText = "Once free heal coming right up!"
+Pokemon = MAREEP,14
+Pokemon = MAKUHITA,15
+#-------------------------------
+[BIRDKEEPER,Gerard]
+LoseText = "You struck us down like lightning!"
+Pokemon = STARLY,13
+#-------------------------------
+[YOUNGSTER,Jay]
+LoseText = "I blame these DUMB shorts!"
+Pokemon = RATTATA,13
+Pokemon = BIDOOF, 12
+#-------------------------------
+[TWINS,Suzie and Liz]
+LoseText = "Our twin powers were not twinful enough."
+Pokemon = PURRLOIN,14
+Pokemon = PURRLOIN,14
