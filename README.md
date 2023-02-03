@@ -12,13 +12,10 @@ If I do not want to add your idea it's most likely because it would be too much 
 ## To-Do List
 
 ### Known Bugs and Issues
-- Galandart Sprite does not move when fighting. This feature would take a lot of time to fix and is something I intend to leave in the game unless I can figure out a fast way to fix it. As of now, the only way I know to fix it is to manually photoshop more than 100 photos of Regigigas, which already has a battle sprite, to make a stop motion type image panel for Galandart so that it moves during battle. I am not willing to do that since I know photoshop but do not have that amount of skill/patience. NOTE: Make Galandart a one time boss battle, have Hoopa catchable instead. 
-- Spirit Pokemon are catchable when they should not be
-- Spirit Pokemon appear on the National Pokedex when they should not
-- Some background music and sound effects are louder than others
-- Rock Climb does not show any rock or dust animations before, during, or after movement
-- Occasional lag spikes while walking/running in various maps. These spikes are accompanied by a debug message with a libpng warning for either "iCCP: known incorrect sRGB profile" or "iCCP: cHRM chunk does not match sRGB". I have no clue what these warning mean and Google has not helped so far. Any input to fixing this would be appreciated.
-- Again, please let me know if there are any bugs/glitches you find that are not listed
+
+SEE GITHUB ISSUES!!!!!!!
+- I'm a programmer now this is how we do things
+- If you find a glitch, submit an issue! If you don't know how look [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository). If you don't have a GitHub account then make one or message me on discord (Trashpanda#6664)
 
 ### Features Not Yet Implemented
 - Berry plants
@@ -34,7 +31,6 @@ If I do not want to add your idea it's most likely because it would be too much 
 - Way to secretly access Arceus Event early because who in their right mind is going to catch all the Pokemon in this game
 - Way to secretly access Mew Event early because who in their right mind is going to encounter all the Pokemon in this game
 - Give the game a better name than "Pokemon Gray"
-- Easter eggs depending on the player's name
 - Make a separate tool to show new Pokemon stat changes and movesets by search
 - A bunch of other stuff I probably forgot
 
