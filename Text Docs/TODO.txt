@@ -1,9 +1,0 @@
-TODO LIST BEFORE NEXT RELEASE
-
-- Drone item to replace Fly HM
-- Game name
-- Finish up to Gym 3 in storyline and town design
-- Make highest level AI remember trainer used moves and use that information when switching in a new user or for bait switching
-- Make highest level AI better in move selection
-- Tweak move scoring for all other levels of AI (maybe)
-- Implement ability for highest 2 AI levels to use weather based teams
