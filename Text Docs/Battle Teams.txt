@@ -12,7 +12,7 @@ Leaders (Make Gym teams as story progresses, decide rematch levels later):
 
 3. Herbia / Grass (Fly)	- Sunflower Badge			
 
-4. Toyotomi / Fighting (Surf/Katana) - Kendo Badge (Heart is temporary Badge made by Caitlyn (claimed as a passerby girl with brown hair and pink ribbon) while the actual badge is produced)			
+4. Toyotomi / Fighting (Surf/Katana) - Kendo Badge			
 
 5. Winston / Ghost (Pickaxe) - Blink Badge  			
 
@@ -67,9 +67,9 @@ Kanto E4 (Spread out so no champion | Claim they have "Picked up a new Pokemon" 
 
 
 
-Cyrus Post Game: [Spiritomb, Drapion, Weavile, Tyranitar*, Dialga, Palkia] (Max IVs and EVs except Dialga and Palkia)
+Cyrus Post Game: [Honchkrow, Gyarados, Drapion, Dialga, Palkia, Weavile] (Max IVs and EVs except Dialga and Palkia)
 
-Gang Boss Full Team (Post Game Genesect): [Weezing (Toxic Spikes), Nidoking, Tentacruel, Gengar, Drapion, Genesect (Burn Drive)]
+Gang Boss Full Team (Post Game Genesect): [Weezing (Toxic Spikes), Nidoking, Tentacruel, Gengar, Crobat, Genesect (Burn Drive)]
 
 Steven: [Skarmory, Aggron, Armaldo, Cradily, Flygon, Metagross] (Max IVs and EVs)
 
@@ -89,18 +89,18 @@ Zinnia Before Rayquaza: Kingdra, Flygon, Serperior (Contrary), Altaria, Salamenc
 
 Grimsly: [Houndoom, Honchkrow, Sharpedo, Scrafty, Krookodile, Bisharp] (Max IVs)
 
-Caitlyn Final: [Delcatty, Mienshao, Type not covered in Eeveelution or Starter (Rapidash/Lapras/Roserade), Eeveelution good against your starter (Vaporeon/Leafeon/Flareon), Metagross, Starter not taken by Rival or you (Venusaur/Charizard/Blastoise)]
-
+Caitlyn Final: [Delcatty, Mienshao, Roserade, Flareon, Lapras, Metagross]
 
 
 Matt: (Max IVs and EVs all Pokemon level 100)
 
-Infernape | Iron Fist	| Choice Band	| Jolly 	| Fire Punch, Thunder Punch, Mach Punch, U-turn	
+Infernape | Iron Fist	| Choice Band 	| Jolly 	| Fire Punch, Thunder Punch, Mach Punch, U-turn	
 Cradily   | Storm Drain | Lum Berry	| Relaxed	| Stockpile, Energy Ball, Recover, Rock Slide
 Elektross | Levitate	| Sitrus Berry	| Quiet		| Thunderbolt, Flamethrower, Crunch, Acid Spray
 Metagross*| Clear Body	| Life Orb	| Adamant	| Zen Headbutt, Earthquake, Bullet Punch, Ice Punch
 Milotic	  | Competitive | Leftovers	| Modest	| Surf, Ice Beam, Recover, Toxic
-Garchomp* | Rough Skin	| Yache Berry	| Jolly		| Dragon Rush, Earthquake, Stone Edge, Hone Claws
+Garchomp  | Rough Skin	| Yache Berry	| Jolly		| Dragon Rush, Earthquake, Stone Edge, Hone Claws
 
+- Add boxing glove item from Scarlet/Violet
 	
 		

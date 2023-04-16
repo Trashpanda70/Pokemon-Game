@@ -4,4 +4,7 @@
 # Dont share the Town Map Generation html file to keep some magic
 townmapgen.html
 
+# Ignore the Text Docs folder to not reveal plans
+Text\ Docs/
+
 # Why are you looking at the gitignore

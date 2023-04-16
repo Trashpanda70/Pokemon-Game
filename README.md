@@ -81,7 +81,7 @@ If I for some reason decide to make a sequel to this game the cast will be small
     - On a side note, most music is taken from generations 4, 5, and 6, with some from 7 and 8
 - There are items that replace the HMs Rock Smash, Cut, Strength, and (maybe) Fly. These items will be available at some point after you get the Gym Badge allowing use of the HM outside of battle. These items will not be accessible right away (EX: Cut can be used outside battle after the 1st gym but the item to replace it you will get after beating the 5th gym)
 - Honey trees will not have a waiting time, the encounter will be instant
-- I am thinking of having a move deleter and reminder in each Pokemon Center
+- I am thinking of having a move deleter and reminder in (almost) every Pokemon Center
 
 ### Changes to Previous Pokemon
 #### Slaking
@@ -415,7 +415,7 @@ Bone Club: Accuracy 85 -> 95
 
 Icicle Crash: Accuracy 90 -> 100
 
-Glaciate: Accuracy 95 -> 100
+Glaciate: Accuracy 95 -> 100 | Power 65 -> 100
 
 Aurora Beam: Power 65 -> 75
 

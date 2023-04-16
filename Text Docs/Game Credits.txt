@@ -38,7 +38,10 @@ Music: (Redo)s
 - Rayquaza Summoning Song: Leliana's Dance by Inon Zur
 - The Guardian's Gateway (Spirit Dimension): Mist In The Mire (Unravel Soundtrack) by Henrik Oja and Frida Johansson
 - Caitlyn Battle Theme: Three Bar Logos by Jami Lynne (OMORI)
-- Vladamir Battle Theme: World's End Valentine by Pedro Silva (OMORI)
+- Vladamir Battle Theme: You Cannot Go Back by Jami Lyne (OMORI)
+- Caitlyn Theme: Finding Shapes in the Clouds by Jami Lynne (OMORI)
+- Unused Sweetheart Theme: World's End Valentine by Pedro Silva (OMORI)
+- Porita Town: Monkey's Delivery Service (Mother 3) by Shogo Sakai
 ------------------------------------------------------------------------------
 Elite Battle: DX
 Complete Overhaul of battle graphics including trainer/legendary intros and Pokemon battle sprites. Also brings more battle backgrounds and animations made by Luka S.J.

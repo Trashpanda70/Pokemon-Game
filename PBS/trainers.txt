@@ -83,6 +83,12 @@ Pokemon = CHARMANDER,5
 LoseText = "Cheater"
 Pokemon = SQUIRTLE,5
 #-------------------------------
+# Caitlyn
+#-------------------------------
+[CAITLYN,Caitlyn]
+LoseText = "Wooooow you really had to beat me like that huh?"
+Pokemon = SKITTY,16
+Pokemon = BUDEW, 16
 # Other Trainers
 #-------------------------------
 [YOUNGSTER,Joey]
@@ -143,9 +149,9 @@ Pokemon = HOOTHOOT,10
 #-------------------------------
 [COLLECTOR,Steven]
 LoseText = "See what getting a Gym Badge can do for you?"
-Pokemon = ZIGZAGOON,11
-Pokemon = ZIGZAGOON,11
-Pokemon = ZIGZAGOON,11
+Pokemon = ZIGZAGOON,10
+Pokemon = ZIGZAGOON,10
+Pokemon = ZIGZAGOON,10
 #-------------------------------
 [DOCTOR,Phillip]
 LoseText = "Once free heal coming right up!"
@@ -158,10 +164,16 @@ Pokemon = STARLY,13
 #-------------------------------
 [YOUNGSTER,Jay]
 LoseText = "I blame these DUMB shorts!"
-Pokemon = RATTATA,13
+Pokemon = RATTATA,12
 Pokemon = BIDOOF, 12
+#-------------------------------
+[LASS,Sophie]
+LoseText = "Maybe you are strong enough for the forest."
+Pokemon = SEEDOT,15
+Pokemon = PIDGEY,13
 #-------------------------------
 [TWINS,Suzie and Liz]
 LoseText = "Our twin powers were not twinful enough."
 Pokemon = PURRLOIN,14
 Pokemon = PURRLOIN,14
+#-------------------------------
