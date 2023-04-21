@@ -59,7 +59,9 @@ Pokemon = EEVEE,14
     Item = ORANBERRY
     Ball = LUXURYBALL
 #-------------------------------
-# Elite 4 and Champion of Sinnoh and this region
+# Elite 4 and Champion of this region
+#-------------------------------
+# Elite 4 and Champion of this other regions
 #-------------------------------
 # Team Rocket
 #-------------------------------
@@ -67,7 +69,7 @@ Pokemon = EEVEE,14
 LoseText = "We shouldn't have trusted that cat would do the job for us."
 Pokemon = MEOWTH,10
 #-------------------------------
-# High level trainers (Evil team leaders, Cyrus, Grimsly, etc...)
+# High level trainers (Evil team leaders, Cyrus, etc...)
 #-------------------------------
 # Rival
 #-------------------------------
@@ -83,12 +85,18 @@ Pokemon = CHARMANDER,5
 LoseText = "Cheater"
 Pokemon = SQUIRTLE,5
 #-------------------------------
-# Caitlyn
+# Other Rivals
 #-------------------------------
 [CAITLYN,Caitlyn]
 LoseText = "Wooooow you really had to beat me like that huh?"
-Pokemon = SKITTY,16
-Pokemon = BUDEW, 16
+Pokemon = LEDYBA, 20
+    Moves = TACKLE,SAFEGUARD,SILVERWIND,SUPERSONIC
+    Shiny = yes
+    AbilityIndex = 1
+    Happiness = 255
+Pokemon = SKITTY, 18
+    Moves = FAKEOUT,TAILWHIP,FURYSWIPES,TACKLE
+    Happiness = 255
 # Other Trainers
 #-------------------------------
 [YOUNGSTER,Joey]
@@ -177,3 +185,42 @@ LoseText = "Our twin powers were not twinful enough."
 Pokemon = PURRLOIN,14
 Pokemon = PURRLOIN,14
 #-------------------------------
+[BUGCATCHER,William]
+LoseText = "You know, you're really BUGging me! Get it?"
+Pokemon = KAKUNA,15
+Pokemon = BEEDRILL,15
+#-------------------------------
+[ARTIST,Trevor]
+LoseText = "What a magestic battle!"
+Pokemon = MUNCHLAX,15
+#-------------------------------
+[BIRDKEEPER,Randy]
+LoseText = "Look I swear I'm normal alright?"
+Pokemon = STARAVIA,16
+#-------------------------------
+[TAMER,JESSE]
+LoseText = "Enjoy your forest hike!"
+Pokemon = BIDOOF,14
+Pokemon = SEWADDLE,16
+#-------------------------------
+[GIRLSCOUT,Abby]
+LoseText = "The forest is such a beautiful place!"
+Pokemon = WURMPLE,13
+Pokemon = CATERPIE,14
+#-------------------------------
+[BOYSCOUT,Noah]
+LoseText = "The forest could be such a beautiful place!"
+Pokemon = GROWLITHE,15
+#-------------------------------
+[JOGGER,Jamison]
+LoseText = "You are faster. I have lost. What is the meaning anymore?"
+Pokemon = MACHOP,15
+Pokemon = SEEDOT,16
+#-------------------------------
+[LASS,Kaitlin]
+LoseText = "So that's why she looked so cute, because she looked like me! and I'm cute(r than her)!"
+Pokemon = BEAUTIFLY,16
+#-------------------------------
+[BUGCATCHER,Aaron]
+LoseText = "What a great temporary distraction."
+Pokemon = DUSTOX,16

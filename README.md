@@ -176,12 +176,6 @@ Larvesta -> Volcarona: Level 48
 Mienfoo -> Mienshao: Level 43
 
 #### Type Changes
-A few type balancing changes have been introduced to the game. They are listed below:
-
-- Fairy types now resist Dragon type moves rather than being immune to them
-- Steel types no longer resist Grass type moves
-- Ice types now resist Water type moves
-
 Some Pokemon have had their types changed either to benefit them, fit their theme better, or improve the type. For example, the Dragon type does not have many Pokemon that are not Legendary or Pseudo-Legendary. The list of changes are below and do not include Pokemon that changed to Fairy type in gen 6+ (those changes are also applied). Any new moves the Pokemon can learn from the type change are listed. Credits to Renegade Platinum for some of these.
 
 Name: Old Type(s) -> New Type(s): Any new moves

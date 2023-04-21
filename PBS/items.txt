@@ -216,7 +216,7 @@
 214,PINKSCARF,Pink Scarf,Pink Scarves,1,100,"An item to be held by a Pokemon. It boosts the Cute aspect of the holder in a Contest.",0,0,0,
 215,GREENSCARF,Green Scarf,Green Scarves,1,100,"An item to be held by a Pokemon. It boosts the Smart aspect of the holder in a Contest.",0,0,0,
 216,YELLOWSCARF,Yellow Scarf,Yellow Scarves,1,100,"An item to be held by a Pokemon. It boosts the Tough aspect of the holder in a Contest.",0,0,0,
-#-------------------------------
+#------------------------------- 
 217,POTION,Potion,Potions,2,300,"A spray-type medicine for wounds. It restores the HP of one Pokemon by just 20 points.",1,1,0,
 218,SUPERPOTION,Super Potion,Super Potions,2,700,"A spray-type medicine for wounds. It restores the HP of one Pokemon by 50 points.",1,1,0,
 219,HYPERPOTION,Hyper Potion,Hyper Potions,2,1200,"A spray-type medicine for wounds. It restores the HP of one Pokemon by 200 points.",1,1,0,

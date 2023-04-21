@@ -5585,7 +5585,7 @@ Name = Ledian
 InternalName = LEDIAN
 Type1 = BUG
 Type2 = FLYING
-BaseStats = 55,45,50,90,75,110
+BaseStats = 55,45,70,100,75,110
 GenderRate = Female50Percent
 GrowthRate = Fast
 BaseEXP = 137
@@ -8958,7 +8958,7 @@ BattlerEnemyX = -2
 BattlerEnemyY = 18
 BattlerShadowX = 0
 BattlerShadowSize = 1
-Evolutions = SILCOON,Silcoon,7,CASCOON,Cascoon,7
+Evolutions = SILCOON,Silcoon,12,CASCOON,Cascoon,12
 #-------------------------------
 [266]
 Name = Silcoon
@@ -8990,14 +8990,14 @@ BattlerEnemyX = 0
 BattlerEnemyY = 24
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = BEAUTIFLY,Level,10
+Evolutions = BEAUTIFLY,Level,20
 #-------------------------------
 [267]
 Name = Beautifly
 InternalName = BEAUTIFLY
 Type1 = BUG
 Type2 = FLYING
-BaseStats = 60,70,50,65,100,50
+BaseStats = 70,70,60,85,100,60
 GenderRate = Female50Percent
 GrowthRate = Medium
 BaseEXP = 178
@@ -9056,14 +9056,14 @@ BattlerEnemyX = 0
 BattlerEnemyY = 22
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = DUSTOX,Level,10
+Evolutions = DUSTOX,Level,20
 #-------------------------------
 [269]
 Name = Dustox
 InternalName = DUSTOX
 Type1 = BUG
 Type2 = POISON
-BaseStats = 60,50,70,65,50,90
+BaseStats = 70,65,70,75,65,100
 GenderRate = Female50Percent
 GrowthRate = Medium
 BaseEXP = 173

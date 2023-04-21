@@ -55,7 +55,7 @@ Immunities = FIGHTING,NORMAL
 Name = Steel
 InternalName = STEEL
 Weaknesses = FIGHTING,FIRE,GROUND
-Resistances = BUG,DRAGON,FLYING,ICE,NORMAL,PSYCHIC,ROCK,STEEL,FAIRY
+Resistances = BUG,DRAGON,FLYING,ICE,NORMAL,PSYCHIC,ROCK,STEEL,FAIRY,GRASS
 Immunities = POISON
 #-------------------------------
 [9]
@@ -103,7 +103,7 @@ Name = Ice
 InternalName = ICE
 IsSpecialType = true
 Weaknesses = FIGHTING,FIRE,ROCK,STEEL
-Resistances = ICE,WATER
+Resistances = ICE
 #-------------------------------
 [16]
 Name = Dragon
@@ -126,3 +126,4 @@ InternalName = FAIRY
 IsSpecialType = true
 Weaknesses = POISON,STEEL
 Resistances = FIGHTING,BUG,DARK,DRAGON
+Immunities = DRAGON
