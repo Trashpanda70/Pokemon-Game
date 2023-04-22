@@ -89,13 +89,10 @@ Pokemon = SQUIRTLE,5
 #-------------------------------
 [CAITLYN,Caitlyn]
 LoseText = "Wooooow you really had to beat me like that huh?"
-Pokemon = LEDYBA, 20
+Pokemon = LEDYBA,20
     Moves = TACKLE,SAFEGUARD,SILVERWIND,SUPERSONIC
     Shiny = yes
     AbilityIndex = 1
-    Happiness = 255
-Pokemon = SKITTY, 18
-    Moves = FAKEOUT,TAILWHIP,FURYSWIPES,TACKLE
     Happiness = 255
 # Other Trainers
 #-------------------------------
@@ -224,3 +221,21 @@ Pokemon = BEAUTIFLY,16
 [BUGCATCHER,Aaron]
 LoseText = "What a great temporary distraction."
 Pokemon = DUSTOX,16
+#-------------------------------
+[POKEMONBREEDER,Basil]
+LoseText = "It's sad to see the forest ruined with manmade things, like stairs."
+Pokemon = SEEDOT,16
+Pokemon = COTTONEE,17
+    AbilityIndex = 0
+Pokemon = ODDISH,17
+#-------------------------------
+[BUGCATCHER,Jake]
+LoseText = "I guess I'm the one that got squished."
+Pokemon = BUTTERFREE,17
+Pokemon = METAPOD,18
+#-------------------------------
+[LASS,Samantha]
+LoseText = "Oh, maybe I shouldn't battle random people."
+Pokemon = SEWADDLE,17
+Pokemon = ROSELIA,17
+#-------------------------------

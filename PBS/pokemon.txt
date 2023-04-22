@@ -332,7 +332,7 @@ BattlerEnemyX = -3
 BattlerEnemyY = 23
 BattlerShadowX = 0
 BattlerShadowSize = 1
-Evolutions = METAPOD,Level,7
+Evolutions = METAPOD,Level,10
 #-------------------------------
 [11]
 Name = Metapod
@@ -364,14 +364,14 @@ BattlerEnemyX = -1
 BattlerEnemyY = 23
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = BUTTERFREE,Level,10
+Evolutions = BUTTERFREE,Level,16
 #-------------------------------
 [12]
 Name = Butterfree
 InternalName = BUTTERFREE
 Type1 = BUG
 Type2 = FLYING
-BaseStats = 60,45,50,70,90,80
+BaseStats = 75,45,60,80,90,80
 GenderRate = Female50Percent
 GrowthRate = Medium
 BaseEXP = 178

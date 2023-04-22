@@ -107,7 +107,11 @@ For being literally God, Arceus' base stats are not as impresive as they should 
 #### Evolutions
 This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changes. Also some Pokemon have ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like or deal with weak Pokemon until level 40. The following list gives exact details to new evolution methods for various Pokemon:
 
-Ekans -> Arbok: Level 28 (due to Arbok buff)
+Caterpie -> Metapod: Level 10
+
+Metapod -> Butterfree: Level 16
+
+Ekans -> Arbok: Level 28
 
 Poliwhirl -> Politoed: Level up holding Kings Rock
 
@@ -137,11 +141,17 @@ Porygon -> Porygon2: Level up holding Upgrade
 
 Dragonair -> Dragonite: Level 50
 
-Sentret -> Furret: Level 23 (due to Furrt buff)
+Wurmple -> Silcoon/Cascoon: Level 12
 
-Marill -> Azumarill: Level 26 (Due to Azumarill buff)
+Silcoon -> Beautifly: Level 20
 
-Houndour -> Houndoom: Level 28 (Due to Houndoom buff)
+Cascoon -> Dustox: Level 20
+
+Sentret -> Furret: Level 23 
+
+Marill -> Azumarill: Level 26 
+
+Houndour -> Houndoom: Level 28
 
 Porygon2 -> Porygon-Z: Level up holding Dubious Disc with high happiness (220+)
 
@@ -157,7 +167,7 @@ Clamperl -> Huntail: Level up holding Deep Sea Tooth
 
 Clamperl -> Gorebyss: Level up holding Deep Sea Scale
 
-Bidoof -> Bibarel: Level 20 (Due to Bibarel buff)
+Bidoof -> Bibarel: Level 20
 
 Boldore -> Gigalith: Level 42
 
