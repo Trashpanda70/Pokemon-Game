@@ -59,9 +59,10 @@ Keep in mind that most of my Pokemon experience is in generations 4 and 5, with 
 If I for some reason decide to make a sequel to this game the cast will be smaller
 
 ### Changes/Notes From Previous Pokemon Games
-- Changed typing and abilities for some Pokemon (listed later)
+- Changed typing for some Pokemon (listed later)
+- Changed abilities of some pokemon
 - Changed stats of many Pokemon
-- Items included are up to gen 5 and include the following later gen items (same functionality they have in later gens): Ability Patch, Ability Capsule, Pixie Plate, Fairy Gem, Weakness Policy, and Safety Goggles
+- Items included are up to gen 5 and include the following later gen items (same functionality they have in later gens): Ability Patch, Ability Capsule, Pixie Plate, Fairy Gem, Weakness Policy, Ice Stone, and Safety Goggles
 - New Butcher mechanic (more later)
 - New Spirit Pokemon mechanic (read the whole document everything is explained i swear)
 - New Lava Fishing mechanic: Essentially just fishing but in Lava for fire types, you cannot surf on Lava
@@ -105,61 +106,43 @@ EVs: 2 HP, 1 Attack
 For being literally God, Arceus' base stats are not as impresive as they should be. While there is not Mega Evolution in the game (remember the whole can't add gen 6 thing), I still wanted to buff Arceus as having an Arceus and being able to sweep is not something I am worried about. All of Arceus' stats have been bosted to be 135 each for a base total of **810** instead of the previous total of 720.
 
 #### Evolutions
-This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changes. Also some Pokemon have ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like or deal with weak Pokemon until level 40. The following list gives exact details to new evolution methods for various Pokemon:
-
-Caterpie -> Metapod: Level 10
-
-Metapod -> Butterfree: Level 16
-
-Ekans -> Arbok: Level 28
+This game has no online functionality because obviously. To make up for this, all Pokemon are catchable in-game. This also means that some evolution tactics will need to be changed since they required trading. I could just keep most trading evolutions and have NPC trades, but I thought this would be an easier solution for the player. Let me know if you disagree and I will consider reverting some of these changes. Also some Pokemon have ridiculously late evolutions, so I have changed some of them so that the player does not have to wait until level 60+ to use a Pokemon they like or deal with weak Pokemon until level 40. The following list is not a comprehensive list of changes. If a Pokemon's evolution was changed to a different level, or to be via level up at some point it is not listed here. This is mostly to cover evolutions that you would need to go out of your way to achieve:
 
 Poliwhirl -> Politoed: Level up holding Kings Rock
 
-Kadabra -> Alakazam: Level 37
+Kadabra -> Alakazam: Level up holding Twisted Spoon
 
 Machoke -> Machamp: Level up holding Drugs
 
-Graveler -> Golem: Level 37
-
 Slowpoke -> Slowking: Level up holding Kings Rock
 
-Haunter -> Gengar: Level 36 if leveled up at night
+Magneton -> Magnezone: Level up in Alrosa Mine (not diving) or Heavenly Pillar (not the summit)
 
-Onix -> Steelix: Level 30
+Shellder -> Cloyster: Use Ice Stone
 
-Rhyhorn -> Rhydon: Level 32
+Haunter -> Gengar: Level 41 if leveled up at night
+
+Onix -> Steelix: Once Iron Tail is learned
 
 Rhydon -> Rhyperior: Level up holding Protector
 
-Seadra -> Kingdra: Level 45 if leveled up while diving
+Seadra -> Kingdra: Level 42 if leveled up while diving
 
 Electabuzz -> Electivire: Level up holding Electirizer
 
 Magmar -> Magmortar: Level up holding Magmarizer
 
+Eevee -> Glaceon: Use Ice Stone
+
 Porygon -> Porygon2: Level up holding Upgrade
-
-Dragonair -> Dragonite: Level 50
-
-Wurmple -> Silcoon/Cascoon: Level 12
-
-Silcoon -> Beautifly: Level 20
-
-Cascoon -> Dustox: Level 20
-
-Sentret -> Furret: Level 23 
-
-Marill -> Azumarill: Level 26 
-
-Houndour -> Houndoom: Level 28
 
 Porygon2 -> Porygon-Z: Level up holding Dubious Disc with high happiness (220+)
 
-Pupitar -> Tyranitar: Level 50
+Piloswine -> Mamoswine: Use Ice Stone
+
+Nosepass -> Probopass: Level up in Alrosa Mine (not diving) or Heavenly Pillar (not the summit)
 
 Feebas -> Milotic: Level up holding Prism Scale or Max Beauty
-
-Duskull -> Duskclops: Level 33
 
 Dusclops -> Dusknoir: Level up holding Reaper Cloth at night
 
@@ -167,23 +150,6 @@ Clamperl -> Huntail: Level up holding Deep Sea Tooth
 
 Clamperl -> Gorebyss: Level up holding Deep Sea Scale
 
-Bidoof -> Bibarel: Level 20
-
-Boldore -> Gigalith: Level 42
-
-Gurdurr -> Conkeldurr: Level 42
-
-Rufflet -> Braviary: Level 40
-
-Vullaby -> Mandibuzz: Level 40
-
-Deino -> Zweilous: Level 32
-
-Zweilous -> Hydreigon: Level 53
-
-Larvesta -> Volcarona: Level 48
-
-Mienfoo -> Mienshao: Level 43
 
 #### Type Changes
 Some Pokemon have had their types changed either to benefit them, fit their theme better, or improve the type. For example, the Dragon type does not have many Pokemon that are not Legendary or Pseudo-Legendary. The list of changes are below and do not include Pokemon that changed to Fairy type in gen 6+ (those changes are also applied). Any new moves the Pokemon can learn from the type change are listed. Credits to Renegade Platinum for some of these.
@@ -199,6 +165,8 @@ Noctowl: Normal/Flying -> Psychic/Flying
 Ampharos: Electric -> Electric/Dragon: Can now learn Dragon Tail and Dragon Breath via TM or Tutor
 
 Dunsparce: Normal -> Normal/Dragon: Now learns Dragon Breath at level 51 instead of Flail, Can now learn Dragon Pulse via TM or Tutor
+
+Ursaring: Normal -> Normal/Dark
 
 Octillery: Water -> Water/Poison: Now learns Sludge at level 46 instead of Bullet Seed, Now learns Coil at level 40 instead of Ice Beam, Now learns Ice Beam at level 69
 
@@ -232,6 +200,10 @@ Glalie: Ice -> Ice/Rock: Now learns Rock Slide at level 66, Can now learn Rock S
 
 Luvdisc: Water -> Water/Fairy: Now learns Disarming Voice at level 53
 
+Banette: Ghost -> Ghost/Dark
+
+Salamence: Dragon/Flying -> Dragon/Fire
+
 Luxray: Electric -> Electric/Dark: Can now learn Payback and Taunt via TM or Tutor, Now learns Pursuit at level 1
 
 Lopunny: Normal -> Normal/Fighting
@@ -246,18 +218,20 @@ Pignite: Fire/Fighting -> Fire/Ground
 
 Emboar: Fire/Fighting -> Fire/Ground: Now learns Earthquake at level 70
 
-Cofagrigus: Ghost -> Ghost/Steel: Now learns Flash Cannon via TM or the move reminder, Now learns Gyro Ball at level 66 or via TM
+Samurott: Water -> Water/Fighting: Now learns Reversal at level 39 instead of Encore, change applied to Oshawott and Dewott
 
-Gothorita: Psychic -> Psychic/Dark
+Audino: Normal -> Fairy
 
-Gothitelle: Psychic -> Psychic/Dark
+Cofagrigus: Ghost -> Ghost/Steel: Now learns Flash Cannon via TM or the move reminder, Gyro Ball at level 66 or via TM or Tutor
 
 Elgyem: Psychic -> Psychic/Steel
 
 Beheeyem: Psychic -> Psychic/Steel
 
+Beartic: Ice -> Ice/Fighting: Now learns Flail at level 1, Now learns Vital Throw at level 36, Submission at level 66, and Sheer Cold pushed back to level 72
+
 #### Stat and Ability Changes
-Some Pokemon have had their stats changed so that they are better to make them more viable. Stat changes will not be listed in this document as there are many small tweaks to many Pokemon. Some Pokemon have also had their abilities changed for various reasons and those changes will be listed below. Just know that if a Pokemon you normally do not consider strong that the AI has does well or a wild Pokemon you catch has better stats than expected, it could be because of the boosted stats. These boosts are subtle for the most part, with some Pokemon being boosted more than others. That said, Pokemon that are generally considered good (Gyarados, Flygon, Pseudo Legends, etc.) will still be better than most other Pokemon. More final stage evolutions have been brought to around the high 400 - low 500 base stat total mark. Keep this in mind when team building, and know that you can use different Pokemon more effectively if you wanted to. Also note that there will probably be an easier way to get hidden abilities (like the ability to buy Ability Patches around gym 6 or something)
+Some Pokemon have had their stats changed so that they are better to make them more viable. Stat changes will not be listed in this document as there are many tweaks to many Pokemon. Some Pokemon have also had their abilities changed for various reasons and those changes will be listed below. Just know that if a Pokemon you normally do not consider strong that the AI has does well or a wild Pokemon you catch has better stats than expected, it could be because of the boosted stats. That said, Pokemon that are generally considered good (Gyarados, Flygon, Pseudo Legends, etc.) will still be better than most other Pokemon. More final stage evolutions have been brought to around the high 400 - low 500 base stat total mark. Keep this in mind when team building, and know that you can use different Pokemon more effectively if you wanted to. Also note that there will probably be an easier way to get hidden abilities (like the ability to buy Ability Patches around gym 6 or something). I may have accidentally missed some changes, but this is most of them.
 
 Ability Changes:
 
@@ -329,7 +303,7 @@ Ability Changes:
 
 - Leavanny: Overcoat -> Serence Grace (Hidden Ability)
 
-- Archen/Archeops: Defeatist -> Sheer Force (Base stats reduced by 50 points for both to balance)
+- Archen/Archeops: Defeatist -> Sheer Force (Base stats reduced for both to balance)
 
 - Garbador: Stench/Weak Armor -> Stench/Poison Point
 
@@ -497,11 +471,11 @@ All battles that ban the use of Pokemon with base stats over 600 will allow the 
 
 #### Base Stats
 - HP: 110
-- Attack: 120
+- Attack: 130
 - Defense: 120
 - Special Attack: 100
 - Special Defense: 150
-- Speed: 80
+- Speed: 70
 - Total: 680
 
 These may be updated for balancing, but the total will stay at 680

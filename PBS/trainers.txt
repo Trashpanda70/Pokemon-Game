@@ -89,7 +89,10 @@ Pokemon = SQUIRTLE,5
 #-------------------------------
 [CAITLYN,Caitlyn]
 LoseText = "Wooooow you really had to beat me like that huh?"
-Pokemon = LEDYBA,20
+Pokemon = SKITTY,17
+    Moves = HELPINGHAND,TACKLE,TAILWHIP,SING
+    Happiness = 255
+Pokemon = LEDYBA,19
     Moves = TACKLE,SAFEGUARD,SILVERWIND,SUPERSONIC
     Shiny = yes
     AbilityIndex = 1
@@ -161,7 +164,7 @@ Pokemon = ZIGZAGOON,10
 [DOCTOR,Phillip]
 LoseText = "Once free heal coming right up!"
 Pokemon = MAREEP,14
-Pokemon = MAKUHITA,15
+Pokemon = MAKUHITA,14
 #-------------------------------
 [BIRDKEEPER,Gerard]
 LoseText = "You struck us down like lightning!"
@@ -174,7 +177,7 @@ Pokemon = BIDOOF, 12
 #-------------------------------
 [LASS,Sophie]
 LoseText = "Maybe you are strong enough for the forest."
-Pokemon = SEEDOT,15
+Pokemon = SEEDOT,14
 Pokemon = PIDGEY,13
 #-------------------------------
 [TWINS,Suzie and Liz]
@@ -202,7 +205,7 @@ Pokemon = SEWADDLE,16
 #-------------------------------
 [GIRLSCOUT,Abby]
 LoseText = "The forest is such a beautiful place!"
-Pokemon = WURMPLE,13
+Pokemon = WURMPLE,14
 Pokemon = CATERPIE,14
 #-------------------------------
 [BOYSCOUT,Noah]
@@ -227,7 +230,7 @@ LoseText = "It's sad to see the forest ruined with manmade things, like stairs."
 Pokemon = SEEDOT,16
 Pokemon = COTTONEE,17
     AbilityIndex = 0
-Pokemon = ODDISH,17
+Pokemon = ODDISH,16
 #-------------------------------
 [BUGCATCHER,Jake]
 LoseText = "I guess I'm the one that got squished."
@@ -239,3 +242,12 @@ LoseText = "Oh, maybe I shouldn't battle random people."
 Pokemon = SEWADDLE,17
 Pokemon = ROSELIA,17
 #-------------------------------
+[BUGCATCHER,Doylan]
+LoseText = "Alright alright, I guess I can share the wild Pokemon with you."
+Pokemon = SILCOON,18
+Pokemon = CASCOON,18
+#-------------------------------
+[THIEF,Mackery]
+LoseText = "I.. umm.. forgot my keys!"
+Pokemon = NIDORANmA,13
+Pokemon = NIDORANfE,13

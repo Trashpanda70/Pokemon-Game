@@ -270,7 +270,7 @@
 266,GREATBALL,Great Ball,Great Balls,3,500,"A good, high-performance Ball that provides a higher Pokemon catch rate than a standard Poke Ball.",0,4,4,
 267,POKEBALL,Poke Ball,Poke Balls,3,200,"A device for catching wild Pokemon. It is thrown like a ball at the target. It is designed as a capsule system.",0,4,4,
 268,SAFARIBALL,Safari Ball,Safari Balls,3,0,"A special Poke Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.",0,4,4,
-269,SPORTBALL,Sport Ball,Sport Balls,3,0,"A special Poke Ball for the Bug-Catching Contest.",0,4,4,
+269,SPORTBALL,Sport Ball,Sport Balls,3,700,"A special Poke Ball from the Johto region used for some kind of contest.",0,4,4,
 270,NETBALL,Net Ball,Net Balls,3,1000,"A somewhat different Poke Ball that works especially well on Water- and Bug-type Pokemon.",0,4,4,
 271,DIVEBALL,Dive Ball,Dive Balls,3,1000,"A somewhat different Poke Ball that works especially well on Pokemon that live underwater.",0,4,4,
 272,NESTBALL,Nest Ball,Nest Balls,3,1000,"A somewhat different Poke Ball that works especially well on weaker Pokemon in the wild.",0,4,4,
@@ -576,4 +576,5 @@
 551,ASSAULTVEST,Assault Vest,Assault Vests,1,1000,"An item to be held by a Pokemon. This offensive vest raises Sp. Def but prevents the use of status moves.",0,0,0,
 552,SAFETYGOGGLES,Safety Goggles,Safety Goggles,1,4000,"An item to be held by a Pokemon. They protect the holder from weather-related damage and powder.",0,0,0,
 565,PLATE,Plate,Plates,1,0,"A stone tablet that has gold and emerald jewels embeded in it. It has no effect when held by a Pokemon.",0,0,0,
+566,ICESTONE,Ice Stone,Ice Stones,1,2800,"A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.",1,0,7,
 #-------------------------------

@@ -1,8 +1,7 @@
 ﻿#-------------------------------
 [033] # Riverside Town
 Water
-    70,MAGIKARP,8,10
-    30,GOLDEEN,7,12
+    100,MAGIKARP,8,10
 OldRod
     80,MAGIKARP,3,5
     20,MAGIKARP,4,8
@@ -44,6 +43,9 @@ LandNight,21
     5,BIDOOF,5,5
     5,SHINX,4,5
     5,SPEAROW,3,7
+Water
+    80,MAGIKARP,2,4
+    20,MAGIKARP,4,6
 OldRod
     80,MAGIKARP,2,4
     20,MAGIKARP,4,6
@@ -75,6 +77,9 @@ LandNight,21
     15,HOOTHOOT,5,7
     10,MAKUHITA,5,8
     10,BUNEARY,7,7
+Water
+    80,MAGIKARP,4,7
+    20,MAGIKARP,5,8
 OldRod
     80,MAGIKARP,4,7
     20,MAGIKARP,5,8
@@ -107,6 +112,8 @@ LandNight,21
     10,MAKUHITA,9,12
     10,BUNEARY,8,11
     5,MAREEP,8,11
+Water
+    100,MAGIKARP,6,14
 OldRod
     100,MAGIKARP,6,9
 GoodRod
@@ -135,9 +142,12 @@ Land,25
     10,COTTONEE,13,16
     10,SUNKERN,13,15
     10,CATERPIE,12,15
+Water
+    60,MAGIKARP,12,18
+    40,LOTAD,11,21
 OldRod
-    70,MAGIKARP,5,9
-    30,LOTAD,8,9
+    70,MAGIKARP,8,11
+    30,LOTAD,9,13
 GoodRod
     60,MAGIKARP,13,18
     30,LOTAD,14,17
@@ -147,4 +157,54 @@ SuperRod
     30,LUVDISC,30,50
     20,LOMBRE,36,47
     10,POLIWHIRL,34,55
+#-------------------------------
+[090] # Yuki Forest 2
+Land,25
+    10,WURMPLE,15,17
+    10,SEWADDLE,16,17
+    10,VENIPEDE,14,16
+    10,BUDEW,15,18
+    10,SHROOMISH,14,16
+    10,METAPOD,15,15
+    10,WEEDLE,13,18
+    10,KAKUNA,15,15
+    10,SUNKERN,14,16
+    10,CATERPIE,14,18
+OldRod
+    70,MAGIKARP,5,9
+    30,LOTAD,8,9
+GoodRod
+    60,MAGIKARP,13,18
+    30,LOTAD,14,17
+    10,POLIWAG,15,18
+SuperRod
+    60,MAGIKARP,29,60
+    30,LOMBRE,36,47
+    10,POLIWHIRL,34,55
+#-------------------------------
+[094] # St. Phenix
+Land,21
+    50,RATTATA,13,15
+    20,EEVEE,13,15
+    10,PIDGEY,14,16
+    10,STARLY,14,16
+    10,SPEAROW,14,16
+LandNight,21
+    50,RATTATA,14,16
+    30,HOOTHOOT,14,16
+    10,EEVEE,13,15
+    10,ZUBAT,13,15
+Water
+    100,DUCKLETT,12,18
+OldRod
+    60,MAGIKARP,4,8
+    40,FINNEON,7,9
+GoodRod
+    60,MAGIKARP,13,18
+    30,FINNEON,15,20
+    10,POLIWAG,13,17
+SuperRod
+    60,MAGIKARP,38,62
+    30,FINNEON,34,56
+    10,POLIWAG,32,48
 #-------------------------------
