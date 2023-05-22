@@ -568,7 +568,6 @@
 546,DRONE,Drone,Drones,8,0,"A robot that allows flight to any city or town that has been visited by the user.",2,0,6,
 553,ABILITYPATCH,Ability Patch,Ability Patch,1,10000,"A patch that allows a Pokemon to gain its hidden ability when used.",1,0,0,
 564,EGGBAG,Egg Bag,Egg Bags,8,0,"A bag for storing Easter Eggs. They won't break since they are not real eggs.",2,0,6,
-#-------------------------------
 547,PIXIEPLATE,Pixie Plate,Pixie Plates,1,0,"An item to be held by a Pokemon. It is a stone tablet that boosts the power of Fairy-type moves.",0,0,0,
 548,FAIRYGEM,Fairy Gem,Fairy Gems,1,200,"A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move only once.",0,0,10,
 549,WEAKNESSPOLICY,Weakness Policy,Weakness Policies,1,1000,"An item to be held by a Pokemon. The holder's Attack and Sp. Atk sharply increase if hit by a move it's weak to.",0,0,0,
@@ -577,4 +576,6 @@
 552,SAFETYGOGGLES,Safety Goggles,Safety Goggles,1,4000,"An item to be held by a Pokemon. They protect the holder from weather-related damage and powder.",0,0,0,
 565,PLATE,Plate,Plates,1,0,"A stone tablet that has gold and emerald jewels embeded in it. It has no effect when held by a Pokemon.",0,0,0,
 566,ICESTONE,Ice Stone,Ice Stones,1,2800,"A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.",1,0,7,
+567,FAKEID,Fake ID,Fake IDs,8,0,"A piece of plastic with your picture on it stating you are 18 years old",0,0,6,
 #-------------------------------
+
